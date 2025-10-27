@@ -1,0 +1,3212 @@
+Education,JoiningYear,City,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,LeaveOrNot,YearsInCompany
+Bachelors,2017.0,Bangalore,3.0,34.0,Male,No,0.0,0.0,7.0
+Bachelors,2013.0,Pune,1.0,28.0,Female,No,3.0,1.0,11.0
+Bachelors,2014.0,New Delhi,3.0,38.0,Female,No,2.0,0.0,10.0
+Masters,2016.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,8.0
+Masters,2015.0,Pune,3.0,24.0,Male,Yes,2.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,22.0,Male,No,0.0,0.0,9.0
+Bachelors,2015.0,New Delhi,3.0,38.0,Male,No,0.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Female,No,2.0,1.0,8.0
+Bachelors,2015.0,Pune,3.0,23.0,Male,No,1.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,37.0,Male,No,2.0,0.0,7.0
+Masters,2012.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,12.0
+Bachelors,2016.0,Pune,3.0,47.0,Male,No,3.0,0.0,8.0
+Bachelors,2018.0,Pune,3.0,32.0,Male,No,5.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,39.0,Male,No,2.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,37.0,Male,No,4.0,0.0,12.0
+Bachelors,2017.0,Bangalore,1.0,29.0,Male,No,3.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Female,No,2.0,22.20752687821201,10.0
+Bachelors,2014.0,Pune,3.0,34.0,Male,No,4.0,0.0,10.0
+Bachelors,2015.0,Pune,2.0,30.0,Female,No,0.0,0.0,9.0
+Bachelors,2016.0,New Delhi,2.0,22.0,Female,No,0.0,1.0,8.0
+Bachelors,2012.0,Bangalore,3.0,37.0,Male,No,0.0,0.0,12.0
+Masters,2017.0,New Delhi,2.0,28.0,Male,No,4.0,0.0,7.0
+Bachelors,2015.0,New Delhi,2.0,36.0,Male,No,3.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Male,Yes,5.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,29.0,Male,No,4.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,22.0,Female,Yes,7.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,37.0,Male,No,2.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,23.0,Male,No,1.0,0.0,9.0
+Bachelors,2013.0,Pune,2.0,31.0,Female,No,2.0,1.0,11.0
+Masters,2017.0,New Delhi,2.0,30.0,Female,No,2.0,0.0,7.0
+Phd,2013.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,1.0,22.20752687821201,10.0
+Bachelors,2018.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,40.0,Male,No,5.0,0.0,8.0
+Bachelors,2017.0,Pune,2.0,37.0,Female,No,0.0,1.0,7.0
+Bachelors,2014.0,Bangalore,1.0,30.0,Female,No,3.0,0.0,10.0
+Bachelors,2012.0,New Delhi,3.0,29.0,Male,No,3.0,0.0,12.0
+Bachelors,2018.0,New Delhi,2.0,34.0,Female,No,0.0,1.0,6.0
+Bachelors,2017.0,Pune,2.0,29.0,Female,No,2.0,1.0,7.0
+Bachelors,2014.0,Pune,3.0,30.0,Male,Yes,4.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,No,1.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,23.0,Male,No,1.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Male,No,3.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,36.0,Male,No,3.0,0.0,10.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,No,4.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,23.0,Female,No,1.0,0.0,10.0
+Phd,2012.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,12.0
+Masters,2013.0,New Delhi,3.0,35.0,Male,No,7.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,34.0,Male,No,0.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Female,No,1.0,0.0,9.0
+Phd,2017.0,New Delhi,3.0,34.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,26.0,Female,No,3.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Female,No,0.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,31.0,Female,Yes,5.0,0.0,10.0
+Bachelors,2017.0,New Delhi,3.0,31.0,Female,Yes,5.0,0.0,7.0
+Phd,2013.0,New Delhi,3.0,28.0,Male,No,2.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,38.0,Male,No,2.0,0.0,8.0
+Masters,2014.0,Pune,3.0,39.0,Female,No,2.0,0.0,10.0
+Bachelors,2013.0,Pune,3.0,32.0,Male,No,4.0,0.0,11.0
+Masters,2017.0,Pune,2.0,36.0,Male,No,2.0,1.0,7.0
+Masters,2013.0,New Delhi,3.0,29.0,Male,No,3.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,No,5.0,0.0,9.0
+Phd,2013.0,Bangalore,2.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2014.0,Pune,1.0,22.0,Female,No,0.0,1.0,10.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Male,No,4.0,0.0,8.0
+Bachelors,2018.0,Bangalore,3.0,40.0,Male,No,1.0,1.0,6.0
+Phd,2013.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,11.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Male,No,7.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,24.0,Female,No,2.0,0.0,9.0
+Masters,2017.0,Bangalore,3.0,28.0,Female,No,2.0,1.0,7.0
+Bachelors,2018.0,Bangalore,3.0,23.0,Female,No,1.0,1.0,6.0
+Masters,2017.0,Bangalore,3.0,31.0,Male,No,4.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,25.0,Female,No,3.0,0.0,10.0
+Bachelors,2014.0,Bangalore,4.5,27.0,Male,No,5.0,0.0,10.0
+Masters,2017.0,New Delhi,2.0,25.0,Female,No,3.0,1.0,7.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,0.0,1.0,9.0
+Bachelors,2014.0,Bangalore,1.0,23.0,Female,No,1.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,23.0,Female,No,1.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Male,No,1.0,0.0,12.0
+Phd,2015.0,New Delhi,1.0,37.0,Male,No,1.0,0.0,9.0
+Bachelors,2017.0,Pune,3.0,38.0,Male,No,2.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Female,No,0.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,38.0,Male,No,5.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,25.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Female,No,5.0,1.0,9.0
+Bachelors,2016.0,Pune,2.0,36.0,Male,No,0.0,1.0,8.0
+Bachelors,2017.0,Pune,2.0,27.0,Female,No,5.0,0.0,7.0
+Masters,2015.0,Pune,2.0,32.0,Female,No,4.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,4.0,0.0,10.0
+Masters,2012.0,New Delhi,3.0,32.0,Male,No,2.0,0.0,12.0
+Bachelors,2018.0,Bangalore,3.0,30.0,Male,No,0.0,22.20752687821201,6.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Male,No,0.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,34.0,Female,No,5.0,0.0,7.0
+Masters,2013.0,New Delhi,3.0,36.0,Male,No,2.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Male,No,3.0,1.0,10.0
+None,2018.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Female,No,0.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,29.0,None,No,0.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,24.0,Female,No,2.0,1.0,9.0
+Masters,2012.0,Pune,3.0,25.0,Male,No,3.0,1.0,12.0
+Bachelors,2013.0,Pune,3.0,25.0,Male,No,3.0,0.0,11.0
+Masters,2017.0,New Delhi,3.0,28.0,Female,No,3.0,1.0,7.0
+Bachelors,2015.0,Pune,4.5,28.0,Female,Yes,1.0,1.0,9.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Male,No,2.0,0.0,9.0
+Masters,2015.0,Pune,1.0,28.0,Female,No,3.0,1.0,9.0
+Masters,2015.0,New Delhi,3.0,25.0,Male,No,7.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,1.0,0.0,9.0
+Masters,2013.0,Pune,3.0,25.0,Male,No,3.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,5.0,0.0,9.0
+Bachelors,2017.0,Pune,2.0,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,11.0
+Bachelors,2021.5,Bangalore,3.0,25.0,Male,No,3.0,0.0,2.5
+Masters,2015.0,New Delhi,2.0,28.0,Male,No,2.0,0.0,9.0
+Bachelors,2014.0,Pune,1.0,28.0,Female,No,4.0,1.0,10.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,2.0,22.20752687821201,9.0
+Masters,2015.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Male,No,4.0,22.20752687821201,7.0
+Bachelors,2017.0,New Delhi,2.0,25.0,Male,No,3.0,0.0,7.0
+Bachelors,2012.0,Bangalore,4.5,28.0,Female,No,3.0,0.0,12.0
+Phd,2015.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,9.0
+Bachelors,2015.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,12.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,3.0,0.0,10.0
+Masters,2014.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,10.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,1.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,No,5.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,25.0,Male,No,3.0,1.0,6.0
+Masters,2013.0,Pune,1.0,24.0,Male,No,2.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,4.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,11.0
+Masters,2016.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,8.0
+Masters,2017.0,Bangalore,3.0,26.0,Male,No,7.0,0.0,7.0
+Masters,2017.0,New Delhi,2.0,24.0,Male,No,2.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,6.0
+Masters,2017.0,New Delhi,1.0,25.0,Female,No,3.0,1.0,7.0
+Bachelors,2012.0,Pune,3.0,28.0,Male,No,2.0,0.0,12.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Male,No,2.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,11.0
+Masters,2013.0,New Delhi,3.0,27.0,Male,No,5.0,1.0,11.0
+Bachelors,2017.0,Pune,2.0,24.0,Female,No,2.0,1.0,7.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Female,No,7.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Male,No,3.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Female,No,5.0,0.0,11.0
+Masters,2015.0,Pune,2.0,28.0,Female,No,3.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,10.0
+Bachelors,2016.0,Pune,3.0,28.0,Male,No,1.0,0.0,8.0
+Masters,2013.0,Bangalore,1.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,9.0
+Bachelors,2018.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Male,No,2.0,1.0,8.0
+Bachelors,2012.0,Pune,2.0,24.0,Female,No,2.0,1.0,12.0
+Bachelors,2016.0,Pune,2.0,24.0,Female,No,2.0,1.0,8.0
+Masters,2012.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,No,3.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,24.0,Male,No,3.0,1.0,12.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,3.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,11.0
+Masters,2015.0,New Delhi,3.0,24.0,Female,No,2.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,15.0,Male,No,3.0,1.0,8.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,3.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,9.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Female,No,1.0,0.0,10.0
+Bachelors,2015.0,Pune,3.0,25.0,Male,No,7.0,0.0,9.0
+Masters,2015.0,Pune,2.0,28.0,Female,No,2.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,27.0,Female,No,5.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,12.0
+Bachelors,2014.0,New Delhi,3.0,24.0,Female,No,3.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Male,No,5.0,22.20752687821201,12.0
+Masters,2017.0,New Delhi,3.0,27.0,Male,No,5.0,1.0,7.0
+Bachelors,2015.0,Pune,3.0,27.0,Male,No,5.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,24.0,Male,No,2.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,28.0,Female,No,1.0,1.0,7.0
+Masters,2017.0,Pune,2.0,24.0,Male,No,2.0,1.0,7.0
+Masters,2016.0,New Delhi,3.0,25.0,Female,No,3.0,1.0,8.0
+Phd,2015.0,New Delhi,3.0,28.0,Female,No,1.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2013.0,Bangalore,2.0,27.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Male,No,7.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Female,No,5.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,25.0,Female,No,3.0,0.0,11.0
+Bachelors,2013.0,Pune,3.0,28.0,Male,No,1.0,0.0,11.0
+Bachelors,2017.0,Pune,3.0,24.0,Male,No,2.0,0.0,7.0
+Bachelors,2013.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,Yes,2.0,0.0,9.0
+Bachelors,2014.0,Pune,2.0,25.0,Female,No,3.0,1.0,10.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,26.0,Female,No,4.0,1.0,10.0
+Phd,2013.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,26.0,Female,No,4.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,7.0
+Masters,2013.0,Pune,3.0,27.0,Male,No,5.0,1.0,11.0
+Masters,2017.0,Bangalore,3.0,28.0,Male,No,2.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,25.0,Male,No,3.0,1.0,12.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Male,No,5.0,22.20752687821201,7.0
+Masters,2017.0,Pune,2.0,27.0,Male,No,5.0,0.0,7.0
+Masters,2013.0,Bangalore,2.0,47.0,Female,No,2.0,1.0,11.0
+Masters,2017.0,Pune,3.0,28.0,Male,No,1.0,1.0,7.0
+Bachelors,2018.0,Bangalore,3.0,27.0,Female,No,5.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,25.0,Female,No,3.0,0.0,10.0
+Masters,2015.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,9.0
+Bachelors,2013.0,Pune,2.0,25.0,Female,No,7.0,1.0,11.0
+Masters,2012.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,12.0
+Bachelors,2016.0,Bangalore,4.5,25.0,Male,No,3.0,1.0,8.0
+Bachelors,2013.0,Pune,2.0,26.0,Male,No,4.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,No,2.0,1.0,6.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,1.0,24.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2013.0,Pune,3.0,28.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,27.0,Female,Yes,5.0,1.0,9.0
+Bachelors,2014.0,Pune,2.0,27.0,Female,No,5.0,1.0,10.0
+Bachelors,2013.0,Pune,4.5,24.0,Male,No,2.0,0.0,11.0
+Bachelors,2014.0,Pune,3.0,24.0,Male,No,2.0,0.0,10.0
+Phd,2015.0,New Delhi,2.0,25.0,Female,No,7.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,Yes,4.0,22.20752687821201,10.0
+Masters,2015.0,Pune,2.0,47.0,Female,No,3.0,0.0,9.0
+Bachelors,2014.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,10.0
+Masters,2017.0,Bangalore,2.0,26.0,Female,No,4.0,1.0,7.0
+Bachelors,2012.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,12.0
+Masters,2021.5,Pune,2.0,47.0,Female,No,4.0,0.0,2.5
+Bachelors,2016.0,Pune,3.0,25.0,Male,No,3.0,0.0,8.0
+Bachelors,2017.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,7.0
+Bachelors,2013.0,Pune,2.0,28.0,Female,No,3.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,25.0,Female,No,3.0,1.0,10.0
+Bachelors,2014.0,Pune,2.0,24.0,Female,No,2.0,1.0,10.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,2.0,1.0,9.0
+Bachelors,2021.5,Bangalore,3.0,27.0,Male,No,5.0,0.0,2.5
+Bachelors,2016.0,Pune,3.0,26.0,Male,No,4.0,0.0,8.0
+Masters,2015.0,New Delhi,3.0,26.0,Female,No,4.0,1.0,9.0
+Bachelors,2016.0,Bangalore,1.0,28.0,Female,No,2.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,25.0,Male,Yes,3.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,2.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,24.0,Female,Yes,2.0,1.0,6.0
+Bachelors,2017.0,Pune,2.0,25.0,Male,No,3.0,0.0,7.0
+Bachelors,2018.0,Pune,3.0,24.0,Female,No,3.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2013.0,New Delhi,1.0,27.0,Female,No,5.0,0.0,11.0
+Bachelors,2017.0,New Delhi,2.0,47.0,Female,No,5.0,0.0,7.0
+Bachelors,2021.5,Bangalore,3.0,47.0,Male,No,1.0,0.0,2.5
+Bachelors,2016.0,Pune,2.0,27.0,Female,No,5.0,1.0,8.0
+Masters,2018.0,Bangalore,3.0,28.0,Male,No,2.0,1.0,6.0
+Bachelors,2012.0,Pune,1.0,26.0,Male,No,4.0,0.0,12.0
+Masters,2021.5,New Delhi,1.0,27.0,Male,No,5.0,0.0,2.5
+Bachelors,2015.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Male,Yes,5.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,24.0,Male,Yes,2.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,6.0
+Masters,2017.0,Pune,2.0,26.0,Female,No,4.0,1.0,7.0
+Masters,2017.0,New Delhi,2.0,28.0,Female,No,2.0,0.0,7.0
+Masters,2013.0,New Delhi,3.0,28.0,Male,No,3.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Female,Yes,1.0,1.0,6.0
+Bachelors,2015.0,Pune,3.0,27.0,Female,No,5.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,15.0,Male,No,1.0,0.0,10.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,7.0
+Masters,2017.0,Bangalore,2.0,28.0,Male,No,2.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2015.0,Pune,1.0,25.0,Female,No,3.0,1.0,9.0
+Masters,2013.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,11.0
+Phd,2014.0,Bangalore,3.0,47.0,Female,No,2.0,0.0,10.0
+Masters,2017.0,Bangalore,2.0,27.0,Female,No,5.0,0.0,7.0
+None,2012.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,12.0
+Masters,2015.0,Pune,3.0,28.0,Female,No,5.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,8.0
+Masters,2017.0,New Delhi,2.0,25.0,Female,No,3.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Male,No,1.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,12.0
+Masters,2013.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Female,Yes,4.0,1.0,9.0
+Bachelors,2014.0,Pune,3.0,28.0,Male,No,2.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Female,No,2.0,1.0,8.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,3.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,12.0
+Bachelors,2014.0,New Delhi,3.0,27.0,Female,Yes,5.0,0.0,10.0
+Bachelors,2015.0,Pune,3.0,26.0,Female,Yes,4.0,1.0,9.0
+Masters,2014.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,10.0
+Phd,2015.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,9.0
+Bachelors,2012.0,Pune,3.0,27.0,Male,No,5.0,0.0,12.0
+Masters,2021.5,New Delhi,2.0,24.0,Female,No,7.0,0.0,2.5
+Bachelors,2016.0,Bangalore,3.0,24.0,Male,No,3.0,0.0,8.0
+Masters,2015.0,Pune,3.0,28.0,Female,No,2.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Female,No,2.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,25.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,Bangalore,1.0,25.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,25.0,Female,No,3.0,1.0,10.0
+Bachelors,2018.0,Pune,3.0,26.0,Male,No,4.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,2.0,22.20752687821201,9.0
+Masters,2012.0,New Delhi,3.0,28.0,Female,No,2.0,1.0,12.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Male,No,3.0,0.0,11.0
+Bachelors,2015.0,New Delhi,3.0,26.0,Female,Yes,4.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,1.0,0.0,7.0
+Bachelors,2021.5,Pune,3.0,25.0,Male,Yes,3.0,1.0,2.5
+Masters,2017.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,7.0
+Bachelors,2013.0,Pune,2.0,28.0,Female,No,1.0,1.0,11.0
+Bachelors,2015.0,New Delhi,2.0,27.0,Female,No,5.0,1.0,9.0
+Bachelors,2021.5,Bangalore,3.0,28.0,Female,No,2.0,0.0,2.5
+Bachelors,2021.5,Bangalore,3.0,27.0,Male,No,3.0,0.0,2.5
+Bachelors,2017.0,Bangalore,4.5,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,24.0,Female,No,3.0,0.0,9.0
+Bachelors,2012.0,Pune,3.0,24.0,Female,No,2.0,1.0,12.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Male,Yes,2.0,1.0,8.0
+Bachelors,2017.0,New Delhi,2.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2012.0,Pune,4.5,27.0,Female,No,5.0,1.0,12.0
+Masters,2017.0,Bangalore,2.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,Pune,2.0,24.0,Male,No,2.0,1.0,7.0
+Bachelors,2016.0,Pune,1.0,26.0,Female,No,4.0,1.0,8.0
+Bachelors,2015.0,Pune,3.0,26.0,Female,No,4.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,25.0,Male,No,3.0,1.0,8.0
+Bachelors,2012.0,Pune,3.0,26.0,Male,No,4.0,0.0,12.0
+Bachelors,2015.0,None,3.0,28.0,Male,No,2.0,0.0,9.0
+Bachelors,2021.5,Bangalore,3.0,25.0,Female,Yes,3.0,0.0,2.5
+Masters,2017.0,Pune,2.0,26.0,Male,No,4.0,0.0,7.0
+Masters,2015.0,Pune,3.0,28.0,Male,No,1.0,1.0,9.0
+Masters,2015.0,Pune,2.0,25.0,Female,No,3.0,1.0,9.0
+Bachelors,2017.0,New Delhi,2.0,47.0,Male,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,47.0,Male,No,5.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,9.0
+Masters,2017.0,Bangalore,1.0,26.0,Female,No,4.0,1.0,7.0
+Bachelors,2017.0,New Delhi,1.0,28.0,Female,No,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Female,No,3.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,2.0,0.0,10.0
+Bachelors,2021.5,Bangalore,3.0,28.0,Male,No,3.0,0.0,2.5
+Masters,2015.0,Bangalore,1.0,27.0,Male,No,5.0,0.0,9.0
+Bachelors,2014.0,Pune,1.0,26.0,Female,No,4.0,1.0,10.0
+Masters,2015.0,Bangalore,3.0,25.0,Male,Yes,3.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,28.0,None,No,3.0,0.0,8.0
+Bachelors,2018.0,New Delhi,3.0,26.0,Female,Yes,4.0,1.0,6.0
+Bachelors,2015.0,Pune,2.0,24.0,Female,No,2.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Male,Yes,5.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,26.0,Male,No,3.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,2.0,0.0,8.0
+Bachelors,2015.0,Pune,2.0,25.0,Female,No,3.0,1.0,9.0
+Bachelors,2013.0,Pune,3.0,27.0,Male,No,5.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,12.0
+Bachelors,2013.0,Bangalore,4.5,27.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,2.0,0.0,9.0
+Bachelors,2014.0,Bangalore,2.0,24.0,Female,No,2.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,24.0,Male,No,2.0,22.20752687821201,11.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,Yes,3.0,1.0,6.0
+Bachelors,2021.5,Pune,2.0,26.0,Male,No,4.0,0.0,2.5
+Phd,2013.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,11.0
+Bachelors,2017.0,Bangalore,2.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2015.0,Pune,1.0,26.0,Female,No,4.0,1.0,9.0
+Masters,2017.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,7.0
+Bachelors,2012.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,12.0
+Bachelors,2017.0,New Delhi,2.0,24.0,Male,No,2.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,12.0
+Masters,2014.0,Pune,3.0,25.0,Male,No,3.0,0.0,10.0
+Bachelors,2015.0,Bangalore,4.5,15.0,Male,No,2.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,24.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Female,No,4.0,22.20752687821201,8.0
+Bachelors,2015.0,Pune,2.0,25.0,Female,Yes,3.0,1.0,9.0
+Masters,2013.0,New Delhi,2.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2017.0,Pune,3.0,25.0,Male,No,7.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,26.0,Female,Yes,4.0,1.0,9.0
+Masters,2021.5,Bangalore,3.0,26.0,Female,No,4.0,1.0,2.5
+Bachelors,2012.0,Pune,3.0,27.0,Female,No,5.0,0.0,12.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2021.5,Pune,3.0,25.0,Male,No,3.0,0.0,2.5
+Bachelors,2013.0,New Delhi,3.0,27.0,Male,Yes,5.0,0.0,11.0
+Bachelors,2015.0,New Delhi,3.0,47.0,Male,No,4.0,0.0,9.0
+Bachelors,2017.0,Pune,2.0,27.0,Male,No,3.0,0.0,7.0
+Phd,2018.0,New Delhi,3.0,25.0,Male,No,3.0,1.0,6.0
+Bachelors,2014.0,Pune,3.0,27.0,Male,No,5.0,0.0,10.0
+Masters,2017.0,Pune,2.0,24.0,Female,No,2.0,1.0,7.0
+Phd,2016.0,New Delhi,2.0,28.0,Male,No,3.0,1.0,8.0
+Masters,2014.0,None,3.0,26.0,Male,No,4.0,1.0,10.0
+Masters,2017.0,Bangalore,2.0,27.0,Male,Yes,5.0,1.0,7.0
+Phd,2013.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,11.0
+Masters,2014.0,New Delhi,3.0,28.0,Female,No,1.0,0.0,10.0
+Bachelors,2017.0,Pune,3.0,27.0,Male,No,5.0,0.0,7.0
+Masters,2014.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,10.0
+Bachelors,2012.0,Pune,4.5,47.0,Male,No,5.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,7.0
+Masters,2017.0,Pune,2.0,27.0,Male,No,5.0,22.20752687821201,7.0
+Bachelors,2016.0,Pune,3.0,27.0,Male,Yes,5.0,0.0,8.0
+Bachelors,2014.0,Pune,3.0,25.0,Male,No,3.0,0.0,10.0
+Masters,2012.0,Pune,3.0,24.0,Male,No,2.0,0.0,12.0
+Bachelors,2014.0,Bangalore,3.0,25.0,Male,Yes,7.0,0.0,10.0
+Bachelors,2013.0,Pune,2.0,25.0,Male,No,7.0,1.0,11.0
+Bachelors,2012.0,Pune,4.5,27.0,Male,No,5.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Male,No,7.0,0.0,7.0
+Bachelors,2013.0,Pune,3.0,26.0,Male,No,4.0,22.20752687821201,11.0
+Bachelors,2015.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,9.0
+Phd,2012.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,12.0
+Bachelors,2016.0,Bangalore,4.5,26.0,Male,No,4.0,0.0,8.0
+Masters,2015.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,12.0
+Bachelors,2013.0,Pune,3.0,24.0,Male,No,2.0,22.20752687821201,11.0
+Masters,2017.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,7.0
+Bachelors,2014.0,Bangalore,1.0,25.0,Male,Yes,3.0,0.0,10.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,Yes,3.0,0.0,7.0
+Masters,2013.0,Bangalore,3.0,15.0,Female,Yes,2.0,1.0,11.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Male,Yes,4.0,0.0,11.0
+Masters,2018.0,New Delhi,1.0,24.0,Male,Yes,2.0,1.0,6.0
+Phd,2013.0,New Delhi,2.0,27.0,Female,No,5.0,0.0,11.0
+Masters,2018.0,New Delhi,3.0,28.0,Male,Yes,2.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,10.0
+Bachelors,2015.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,9.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,3.0,1.0,9.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,4.0,1.0,9.0
+Bachelors,2015.0,New Delhi,2.0,28.0,Female,No,3.0,0.0,9.0
+Masters,2012.0,Pune,3.0,27.0,Female,No,5.0,22.20752687821201,12.0
+Masters,2017.0,Pune,3.0,25.0,Female,Yes,3.0,1.0,7.0
+Bachelors,2013.0,New Delhi,2.0,25.0,Male,No,3.0,1.0,11.0
+Masters,2017.0,New Delhi,2.0,27.0,Male,No,5.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Female,No,3.0,1.0,8.0
+Bachelors,2012.0,Bangalore,4.5,24.0,Male,No,2.0,1.0,12.0
+Masters,2017.0,Pune,2.0,24.0,Male,No,2.0,0.0,7.0
+Bachelors,2013.0,Pune,2.0,24.0,Male,Yes,2.0,0.0,11.0
+Bachelors,2013.0,Pune,3.0,25.0,Male,No,7.0,0.0,11.0
+Phd,2015.0,New Delhi,2.0,28.0,Female,No,1.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,24.0,Male,No,2.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,15.0,Male,No,2.0,0.0,7.0
+Masters,2014.0,New Delhi,3.0,27.0,Male,No,3.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Female,No,3.0,0.0,8.0
+Bachelors,2018.0,Pune,3.0,25.0,Male,No,3.0,1.0,6.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Male,Yes,4.0,1.0,11.0
+Bachelors,2015.0,New Delhi,3.0,25.0,Male,No,3.0,1.0,9.0
+Bachelors,2017.0,New Delhi,2.0,25.0,Female,No,3.0,1.0,7.0
+Bachelors,2012.0,Bangalore,4.5,25.0,Male,Yes,3.0,0.0,12.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,10.0
+Masters,2014.0,New Delhi,3.0,28.0,Male,No,2.0,0.0,10.0
+Masters,2017.0,Pune,4.5,25.0,Male,No,3.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Male,No,7.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,24.0,Male,Yes,2.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,1.0,0.0,9.0
+Bachelors,2016.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,25.0,Female,No,3.0,0.0,12.0
+Bachelors,2012.0,Pune,3.0,28.0,Male,No,3.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,25.0,Male,Yes,3.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Female,No,5.0,0.0,8.0
+Bachelors,2015.0,Pune,2.0,24.0,Female,No,2.0,0.0,9.0
+Masters,2015.0,Bangalore,3.0,47.0,Female,No,2.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,11.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Male,No,3.0,0.0,7.0
+Phd,2014.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,10.0
+Masters,2017.0,New Delhi,2.0,26.0,Female,No,4.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,6.0
+Bachelors,2014.0,Bangalore,3.0,25.0,Male,No,3.0,1.0,10.0
+Bachelors,2018.0,New Delhi,3.0,28.0,Female,No,3.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,25.0,Male,Yes,3.0,1.0,7.0
+Masters,2013.0,New Delhi,3.0,28.0,Male,No,2.0,0.0,11.0
+Bachelors,2021.5,Bangalore,3.0,26.0,Male,Yes,4.0,0.0,2.5
+Masters,2013.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,8.0
+Bachelors,2021.5,Bangalore,3.0,24.0,Male,No,2.0,1.0,2.5
+Masters,2017.0,New Delhi,2.0,26.0,Male,Yes,4.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,47.0,Male,No,2.0,0.0,11.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,2.0,0.0,11.0
+Masters,2021.5,Pune,3.0,28.0,Female,Yes,2.0,0.0,2.5
+Masters,2014.0,Pune,3.0,27.0,Female,No,3.0,0.0,10.0
+Masters,2015.0,Bangalore,1.0,28.0,Female,No,5.0,0.0,9.0
+Bachelors,2013.0,Bangalore,1.0,28.0,Male,No,3.0,1.0,11.0
+Bachelors,2012.0,Pune,2.0,26.0,Female,No,4.0,1.0,12.0
+Masters,2015.0,New Delhi,2.0,25.0,Male,No,3.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,26.0,Male,No,3.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,1.0,1.0,10.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,3.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Female,No,5.0,1.0,8.0
+Masters,2018.0,Pune,3.0,25.0,Male,No,3.0,1.0,6.0
+Bachelors,2015.0,Pune,3.0,26.0,Male,No,4.0,0.0,9.0
+Bachelors,2014.0,Pune,3.0,26.0,Male,No,4.0,0.0,10.0
+Phd,2017.0,New Delhi,4.5,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,3.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,6.0
+Bachelors,2017.0,Pune,2.0,25.0,Female,No,3.0,1.0,7.0
+Bachelors,2017.0,Pune,2.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,No,3.0,0.0,9.0
+Masters,2017.0,Pune,3.0,26.0,Male,No,4.0,1.0,7.0
+Masters,2015.0,New Delhi,3.0,28.0,Female,Yes,2.0,0.0,9.0
+Bachelors,2012.0,New Delhi,2.0,25.0,Male,None,3.0,1.0,12.0
+Bachelors,2016.0,Bangalore,3.0,25.0,Female,No,3.0,0.0,8.0
+Masters,2017.0,New Delhi,2.0,26.0,Female,No,3.0,0.0,7.0
+Phd,2018.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,6.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,9.0
+Masters,2012.0,Pune,2.0,26.0,Female,No,4.0,0.0,12.0
+Masters,2016.0,New Delhi,3.0,27.0,Male,No,5.0,1.0,8.0
+Phd,2017.0,Bangalore,3.0,28.0,Male,No,1.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,27.0,Male,No,3.0,0.0,10.0
+Bachelors,2018.0,Bangalore,1.0,27.0,Male,No,5.0,0.0,6.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Female,No,3.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Male,Yes,5.0,0.0,8.0
+Masters,2015.0,New Delhi,3.0,24.0,Female,No,3.0,1.0,9.0
+Bachelors,2017.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,7.0
+Masters,2013.0,Pune,3.0,28.0,Male,No,2.0,1.0,11.0
+Bachelors,2017.0,Pune,3.0,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2014.0,Pune,4.5,26.0,Male,No,3.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Male,None,4.0,0.0,9.0
+Bachelors,2014.0,Pune,1.0,26.0,Male,No,4.0,1.0,10.0
+Bachelors,2012.0,Bangalore,3.0,26.0,Male,No,7.0,0.0,12.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,8.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,10.0
+Bachelors,2016.0,Pune,3.0,28.0,Male,No,3.0,0.0,8.0
+Masters,2017.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,27.0,Male,No,3.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Male,Yes,3.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,2.0,1.0,9.0
+Phd,2013.0,Bangalore,1.0,26.0,Male,No,4.0,0.0,11.0
+Masters,2012.0,Pune,3.0,27.0,Male,No,5.0,1.0,12.0
+Bachelors,2021.5,Bangalore,1.0,28.0,Male,No,2.0,0.0,2.5
+Masters,2021.5,New Delhi,2.0,15.0,Female,Yes,2.0,1.0,2.5
+Bachelors,2015.0,Bangalore,1.0,25.0,Female,Yes,3.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,47.0,Male,No,5.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,26.0,Male,No,4.0,22.20752687821201,10.0
+Bachelors,2018.0,None,3.0,26.0,Male,No,4.0,1.0,6.0
+Bachelors,2015.0,Pune,3.0,24.0,Female,No,2.0,22.20752687821201,9.0
+Masters,2016.0,New Delhi,3.0,25.0,Female,No,7.0,1.0,8.0
+Masters,2018.0,New Delhi,3.0,28.0,Male,No,4.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,24.0,Female,No,2.0,1.0,6.0
+Bachelors,2015.0,Pune,3.0,25.0,Female,No,3.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,3.0,22.20752687821201,10.0
+Bachelors,2016.0,Bangalore,3.0,47.0,Female,No,4.0,0.0,8.0
+Bachelors,2018.0,Bangalore,1.0,25.0,Male,Yes,3.0,0.0,6.0
+Masters,2017.0,Pune,2.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,2.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,28.0,Male,No,2.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,24.0,Female,No,2.0,0.0,7.0
+Phd,2013.0,New Delhi,2.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Male,No,7.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,15.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,1.0,25.0,Male,No,3.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Female,No,3.0,0.0,8.0
+Phd,2014.0,New Delhi,3.0,28.0,Male,No,2.0,1.0,10.0
+Masters,2018.0,New Delhi,4.5,27.0,Female,No,5.0,1.0,6.0
+Bachelors,2016.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,8.0
+Masters,2017.0,New Delhi,3.0,25.0,Male,No,3.0,1.0,7.0
+Bachelors,2016.0,New Delhi,3.0,27.0,Female,Yes,5.0,0.0,8.0
+Bachelors,2018.0,Pune,3.0,28.0,Female,No,3.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,3.0,1.0,10.0
+Bachelors,2018.0,Pune,3.0,28.0,Male,No,1.0,0.0,6.0
+Bachelors,2017.0,Bangalore,1.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,15.0,Male,No,2.0,1.0,11.0
+Bachelors,2012.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,12.0
+Bachelors,2012.0,Pune,3.0,25.0,Male,No,3.0,0.0,12.0
+Masters,2013.0,New Delhi,2.0,24.0,Male,No,2.0,1.0,11.0
+Bachelors,2016.0,New Delhi,3.0,28.0,Female,No,7.0,0.0,8.0
+Masters,2014.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Female,No,3.0,1.0,9.0
+Bachelors,2015.0,Pune,2.0,27.0,Female,No,3.0,1.0,9.0
+Bachelors,2021.5,Bangalore,3.0,26.0,Male,No,4.0,0.0,2.5
+Masters,2017.0,Pune,2.0,26.0,Female,No,4.0,0.0,7.0
+Masters,2017.0,Pune,1.0,24.0,Male,No,2.0,0.0,7.0
+Masters,2017.0,New Delhi,2.0,15.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Male,No,3.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Female,No,4.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,Yes,3.0,1.0,9.0
+Masters,2017.0,New Delhi,2.0,24.0,Male,No,7.0,0.0,7.0
+Masters,2013.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,11.0
+Bachelors,2015.0,New Delhi,2.0,28.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2016.0,Pune,3.0,27.0,Female,No,3.0,1.0,8.0
+Bachelors,2017.0,Bangalore,3.0,27.0,None,No,5.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,27.0,Male,No,5.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,27.0,Male,Yes,5.0,1.0,6.0
+Bachelors,2013.0,New Delhi,2.0,24.0,Female,No,2.0,1.0,11.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2018.0,Bangalore,3.0,15.0,Male,No,4.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Female,No,2.0,0.0,8.0
+Masters,2017.0,Pune,3.0,24.0,Male,No,2.0,1.0,7.0
+Masters,2016.0,Pune,3.0,24.0,Male,No,2.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,Yes,1.0,1.0,11.0
+Bachelors,2015.0,Bangalore,1.0,28.0,Female,No,1.0,0.0,9.0
+Phd,2018.0,Bangalore,3.0,24.0,Female,No,2.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,Yes,4.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,5.0,0.0,11.0
+Masters,2016.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,8.0
+Bachelors,2017.0,New Delhi,1.0,25.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,1.0,1.0,9.0
+Masters,2014.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,10.0
+Phd,2012.0,New Delhi,3.0,24.0,Male,No,3.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,25.0,Female,No,3.0,22.20752687821201,7.0
+Masters,2014.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Female,No,3.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,26.0,Male,No,4.0,22.20752687821201,9.0
+Masters,2017.0,Bangalore,3.0,28.0,Female,No,3.0,1.0,7.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Female,No,2.0,0.0,12.0
+Bachelors,2017.0,Pune,2.0,26.0,Female,No,4.0,1.0,7.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Female,No,5.0,0.0,12.0
+Masters,2016.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,8.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,1.0,1.0,9.0
+Masters,2017.0,Pune,3.0,47.0,None,No,2.0,1.0,7.0
+Bachelors,2016.0,New Delhi,3.0,25.0,Female,Yes,3.0,0.0,8.0
+Masters,2015.0,New Delhi,3.0,28.0,Male,No,4.0,1.0,9.0
+Masters,2015.0,New Delhi,3.0,47.0,Female,No,3.0,0.0,9.0
+Bachelors,2013.0,New Delhi,1.0,24.0,Female,No,2.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,New Delhi,3.0,25.0,Female,No,3.0,1.0,9.0
+Bachelors,2016.0,Pune,1.0,28.0,Female,No,3.0,1.0,8.0
+Masters,2013.0,New Delhi,3.0,25.0,Male,Yes,3.0,1.0,11.0
+Masters,2013.0,New Delhi,3.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2013.0,Bangalore,1.0,28.0,Female,No,2.0,0.0,11.0
+Masters,2014.0,Bangalore,3.0,27.0,Female,No,3.0,1.0,10.0
+Bachelors,2015.0,Bangalore,4.5,26.0,Male,No,4.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,26.0,Female,Yes,4.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,7.0
+Bachelors,2013.0,Bangalore,4.5,47.0,Male,No,3.0,0.0,11.0
+Bachelors,2013.0,Pune,2.0,27.0,Male,Yes,3.0,0.0,11.0
+Bachelors,2016.0,Bangalore,4.5,25.0,Male,Yes,7.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,25.0,Male,No,3.0,1.0,7.0
+Masters,2015.0,Pune,4.5,15.0,Female,No,3.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,4.0,0.0,7.0
+Masters,2017.0,Pune,2.0,26.0,Male,No,4.0,1.0,7.0
+Bachelors,2017.0,New Delhi,2.0,27.0,Female,No,5.0,0.0,7.0
+Bachelors,2013.0,Pune,2.0,26.0,Female,No,4.0,1.0,11.0
+Bachelors,2013.0,None,3.0,28.0,Female,Yes,3.0,0.0,11.0
+Masters,2015.0,Pune,3.0,24.0,Female,No,2.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,25.0,Male,No,3.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,11.0
+Bachelors,2012.0,Pune,2.0,25.0,Male,No,3.0,1.0,12.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2015.0,Pune,2.0,24.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Female,Yes,2.0,0.0,7.0
+Phd,2015.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,9.0
+Masters,2021.5,New Delhi,2.0,28.0,Female,No,2.0,0.0,2.5
+Bachelors,2017.0,New Delhi,2.0,25.0,Female,No,3.0,0.0,7.0
+Bachelors,2016.0,New Delhi,3.0,28.0,Female,Yes,3.0,0.0,8.0
+Bachelors,2021.5,Pune,2.0,27.0,Female,No,5.0,1.0,2.5
+Masters,2017.0,Pune,2.0,25.0,Male,No,3.0,1.0,7.0
+Masters,2017.0,Bangalore,2.0,25.0,Female,Yes,7.0,1.0,7.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Female,No,2.0,1.0,7.0
+Bachelors,2016.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,8.0
+Masters,2017.0,New Delhi,2.0,24.0,Male,No,2.0,1.0,7.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Male,No,2.0,1.0,7.0
+Masters,2014.0,New Delhi,3.0,25.0,Female,No,3.0,1.0,10.0
+Bachelors,2012.0,New Delhi,3.0,27.0,Female,No,3.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,7.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,12.0
+Phd,2015.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,9.0
+Masters,2017.0,New Delhi,3.0,28.0,Female,No,5.0,1.0,7.0
+Masters,2013.0,New Delhi,2.0,27.0,Female,No,5.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,28.0,Female,No,1.0,1.0,9.0
+Bachelors,2014.0,None,3.0,27.0,Male,No,5.0,0.0,10.0
+Bachelors,2013.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,9.0
+Bachelors,2012.0,Pune,3.0,24.0,Male,No,2.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Female,No,4.0,0.0,12.0
+Masters,2015.0,Pune,2.0,25.0,Male,No,3.0,1.0,9.0
+Bachelors,2013.0,New Delhi,3.0,47.0,Male,No,2.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,27.0,Female,No,5.0,0.0,7.0
+Bachelors,2013.0,Pune,2.0,27.0,Female,No,5.0,1.0,11.0
+Masters,2017.0,New Delhi,4.5,26.0,Male,No,4.0,1.0,7.0
+Bachelors,2013.0,Pune,2.0,25.0,Male,Yes,3.0,1.0,11.0
+Masters,2017.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,7.0
+Bachelors,2013.0,Pune,3.0,26.0,Female,Yes,4.0,0.0,11.0
+Bachelors,2014.0,Pune,3.0,28.0,Male,No,7.0,0.0,10.0
+Bachelors,2016.0,New Delhi,3.0,27.0,Female,No,7.0,0.0,8.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,7.0
+Masters,2015.0,New Delhi,3.0,47.0,Male,No,5.0,0.0,9.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Male,No,5.0,22.20752687821201,9.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,2.0,1.0,9.0
+Masters,2017.0,Pune,2.0,26.0,Male,No,3.0,0.0,7.0
+Bachelors,2016.0,New Delhi,3.0,28.0,Female,No,5.0,0.0,8.0
+Bachelors,2015.0,Pune,3.0,25.0,Male,No,3.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,26.0,Female,Yes,4.0,22.20752687821201,12.0
+Masters,2017.0,New Delhi,2.0,26.0,Male,No,4.0,0.0,7.0
+Masters,2012.0,New Delhi,4.5,26.0,Male,No,4.0,1.0,12.0
+Masters,2014.0,New Delhi,3.0,25.0,Male,No,7.0,0.0,10.0
+Bachelors,2017.0,Bangalore,2.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,10.0
+Bachelors,2017.0,Bangalore,1.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,15.0,Female,No,2.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,47.0,Male,No,5.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,26.0,Female,No,7.0,1.0,7.0
+Bachelors,2014.0,None,3.0,47.0,Male,No,2.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,3.0,0.0,10.0
+Masters,2017.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,7.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,Yes,1.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,24.0,Female,No,2.0,0.0,9.0
+Bachelors,2018.0,New Delhi,3.0,25.0,Female,No,3.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,26.0,Male,No,3.0,0.0,12.0
+Masters,2013.0,New Delhi,1.0,24.0,Female,No,2.0,0.0,11.0
+Masters,2013.0,New Delhi,1.0,24.0,Male,Yes,7.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,4.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,7.0,0.0,9.0
+Phd,2015.0,Pune,2.0,28.0,Female,No,1.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,25.0,Male,Yes,3.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Female,No,3.0,1.0,9.0
+Masters,2021.5,New Delhi,3.0,28.0,Male,No,2.0,0.0,2.5
+Bachelors,2012.0,Pune,3.0,28.0,Female,No,5.0,1.0,12.0
+Bachelors,2012.0,New Delhi,2.0,27.0,Female,No,5.0,1.0,12.0
+Bachelors,2018.0,Bangalore,3.0,25.0,Male,No,3.0,22.20752687821201,6.0
+Masters,2018.0,Pune,3.0,27.0,Male,No,5.0,1.0,6.0
+Masters,2021.5,Bangalore,2.0,28.0,Male,No,2.0,1.0,2.5
+Bachelors,2017.0,Pune,3.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2014.0,New Delhi,3.0,26.0,Female,No,7.0,0.0,10.0
+Bachelors,2017.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,25.0,Female,Yes,3.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,25.0,Male,Yes,3.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,No,1.0,1.0,11.0
+Bachelors,2013.0,Pune,3.0,24.0,Female,No,2.0,1.0,11.0
+Bachelors,2021.5,New Delhi,3.0,25.0,Male,No,3.0,1.0,2.5
+Bachelors,2015.0,Pune,2.0,27.0,Female,No,5.0,1.0,9.0
+Masters,2017.0,Pune,2.0,28.0,Male,No,3.0,0.0,7.0
+Masters,2021.5,New Delhi,3.0,26.0,Male,No,4.0,0.0,2.5
+Masters,2017.0,Pune,2.0,24.0,Female,No,2.0,0.0,7.0
+Masters,2015.0,Pune,1.0,26.0,Female,No,4.0,0.0,9.0
+Masters,2013.0,Pune,3.0,26.0,Male,No,3.0,0.0,11.0
+Masters,2018.0,New Delhi,3.0,25.0,Female,No,3.0,1.0,6.0
+Bachelors,2013.0,Pune,2.0,47.0,Female,No,3.0,1.0,11.0
+Phd,2013.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,11.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Male,No,3.0,0.0,9.0
+Masters,2018.0,New Delhi,1.0,26.0,Female,No,4.0,1.0,6.0
+Bachelors,2018.0,Bangalore,4.5,24.0,Male,No,2.0,1.0,6.0
+Phd,2015.0,Bangalore,1.0,25.0,Female,No,3.0,1.0,9.0
+Bachelors,2014.0,Pune,3.0,26.0,Male,No,7.0,1.0,10.0
+Masters,2015.0,Pune,1.0,27.0,Female,No,5.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,28.0,Female,No,2.0,1.0,9.0
+Bachelors,2016.0,Bangalore,1.0,47.0,Female,No,5.0,0.0,8.0
+Bachelors,2015.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Male,Yes,4.0,0.0,8.0
+Bachelors,2013.0,Pune,3.0,26.0,Male,No,4.0,0.0,11.0
+Masters,2016.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,8.0
+Bachelors,2013.0,Pune,4.5,26.0,Male,Yes,4.0,0.0,11.0
+Bachelors,2014.0,Pune,2.0,15.0,Female,No,4.0,1.0,10.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,5.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,26.0,Male,No,4.0,1.0,9.0
+Bachelors,2013.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,11.0
+Bachelors,2013.0,Pune,3.0,24.0,Male,No,2.0,0.0,11.0
+Masters,2017.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,24.0,Male,No,2.0,1.0,12.0
+Masters,2015.0,Pune,1.0,24.0,Male,No,2.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,No,4.0,0.0,10.0
+Masters,2015.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,9.0
+Bachelors,2017.0,Bangalore,1.0,24.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,27.0,Female,No,5.0,22.20752687821201,9.0
+Bachelors,2013.0,Pune,1.0,27.0,Female,No,5.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,27.0,Male,No,3.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,1.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,24.0,Male,Yes,2.0,1.0,9.0
+Masters,2017.0,Pune,2.0,25.0,Female,No,3.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,8.0
+Masters,2014.0,Pune,3.0,26.0,Male,No,4.0,1.0,10.0
+Masters,2013.0,New Delhi,1.0,24.0,Female,No,2.0,22.20752687821201,11.0
+Bachelors,2014.0,Bangalore,3.0,25.0,Male,No,3.0,22.20752687821201,10.0
+Bachelors,2016.0,Pune,2.0,28.0,Female,No,7.0,1.0,8.0
+Bachelors,2017.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Male,Yes,3.0,1.0,9.0
+Bachelors,2012.0,Pune,1.0,27.0,Female,No,5.0,22.20752687821201,12.0
+Bachelors,2013.0,Bangalore,3.0,25.0,Female,No,3.0,1.0,11.0
+Bachelors,2018.0,Bangalore,3.0,24.0,Male,Yes,2.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,4.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Male,No,3.0,0.0,12.0
+Bachelors,2016.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,27.0,Male,Yes,5.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,15.0,Male,No,4.0,0.0,11.0
+Phd,2015.0,New Delhi,2.0,28.0,Female,No,2.0,0.0,9.0
+Phd,2015.0,Pune,1.0,25.0,Male,No,3.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,24.0,Male,Yes,2.0,0.0,10.0
+Masters,2018.0,New Delhi,3.0,26.0,Male,Yes,4.0,1.0,6.0
+Bachelors,2015.0,Bangalore,4.5,25.0,Female,No,3.0,0.0,9.0
+Masters,2012.0,New Delhi,3.0,28.0,Male,Yes,2.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,5.0,0.0,12.0
+Bachelors,2017.0,New Delhi,2.0,26.0,Female,No,7.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,25.0,Male,None,3.0,0.0,11.0
+Masters,2018.0,Pune,3.0,28.0,Male,No,2.0,0.0,6.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,4.0,0.0,11.0
+Bachelors,2021.5,New Delhi,3.0,28.0,Male,No,2.0,0.0,2.5
+Masters,2017.0,New Delhi,2.0,27.0,Male,Yes,5.0,1.0,7.0
+Bachelors,2018.0,Pune,2.0,27.0,Female,No,5.0,1.0,6.0
+Masters,2014.0,New Delhi,3.0,28.0,Female,No,4.0,0.0,10.0
+Masters,2017.0,Bangalore,3.0,26.0,Female,No,4.0,22.20752687821201,7.0
+Bachelors,2013.0,New Delhi,3.0,27.0,Female,No,7.0,0.0,11.0
+Masters,2017.0,New Delhi,1.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,28.0,Male,No,3.0,0.0,12.0
+Masters,2021.5,Pune,2.0,27.0,Male,No,5.0,1.0,2.5
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,No,4.0,22.20752687821201,11.0
+Masters,2012.0,New Delhi,3.0,27.0,Male,Yes,5.0,1.0,12.0
+Bachelors,2017.0,Pune,4.5,24.0,Male,No,2.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,25.0,Female,No,3.0,1.0,7.0
+Bachelors,2018.0,Bangalore,3.0,25.0,Female,Yes,3.0,1.0,6.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,2.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Male,Yes,3.0,22.20752687821201,8.0
+Bachelors,2014.0,Pune,3.0,24.0,Female,No,2.0,1.0,10.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,3.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,11.0
+Bachelors,2015.0,New Delhi,2.0,28.0,Female,No,3.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,15.0,Female,No,5.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,15.0,Male,No,0.0,0.0,11.0
+Bachelors,2012.0,Pune,3.0,28.0,Male,No,5.0,0.0,12.0
+Bachelors,2016.0,Bangalore,1.0,26.0,Male,No,4.0,0.0,8.0
+Masters,2017.0,New Delhi,2.0,28.0,Female,Yes,2.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,28.0,None,No,0.0,0.0,11.0
+Bachelors,2014.0,Pune,3.0,47.0,Male,No,5.0,1.0,10.0
+Bachelors,2016.0,Bangalore,2.0,26.0,Female,No,4.0,1.0,8.0
+Bachelors,2018.0,Bangalore,3.0,27.0,Female,Yes,5.0,1.0,6.0
+Bachelors,2012.0,Pune,3.0,47.0,Male,No,4.0,0.0,12.0
+Bachelors,2013.0,Pune,2.0,26.0,Female,No,4.0,0.0,11.0
+Bachelors,2012.0,New Delhi,1.0,27.0,Female,No,5.0,0.0,12.0
+Bachelors,2021.5,Bangalore,3.0,27.0,Male,No,7.0,0.0,2.5
+Masters,2012.0,New Delhi,3.0,15.0,Male,No,2.0,0.0,12.0
+Bachelors,2013.0,New Delhi,2.0,25.0,Female,No,3.0,1.0,11.0
+Masters,2013.0,Pune,3.0,28.0,Male,Yes,3.0,0.0,11.0
+Bachelors,2013.0,Pune,3.0,24.0,Female,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,24.0,Female,No,2.0,1.0,9.0
+Masters,2012.0,New Delhi,3.0,26.0,Female,No,4.0,1.0,12.0
+Bachelors,2021.5,New Delhi,3.0,26.0,Female,No,4.0,0.0,2.5
+Bachelors,2016.0,Pune,2.0,28.0,Female,No,0.0,1.0,8.0
+Bachelors,2012.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,12.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,9.0
+Masters,2017.0,Pune,2.0,28.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,None,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,5.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,5.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Male,None,4.0,0.0,11.0
+Bachelors,2015.0,Bangalore,1.0,24.0,Male,No,2.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,28.0,Female,No,4.0,1.0,9.0
+Masters,2017.0,Bangalore,2.0,24.0,Female,Yes,2.0,1.0,7.0
+Bachelors,2014.0,New Delhi,3.0,26.0,Female,No,4.0,1.0,10.0
+Masters,2013.0,Pune,2.0,28.0,Male,No,5.0,1.0,11.0
+Bachelors,2013.0,New Delhi,1.0,28.0,Female,No,5.0,1.0,11.0
+Masters,2015.0,New Delhi,3.0,28.0,Male,No,2.0,0.0,9.0
+Bachelors,2014.0,Pune,3.0,27.0,Female,No,5.0,0.0,10.0
+Masters,2018.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,6.0
+Bachelors,2015.0,New Delhi,2.0,25.0,Male,No,3.0,22.20752687821201,9.0
+Bachelors,2014.0,None,3.0,26.0,Male,No,4.0,0.0,10.0
+Bachelors,2018.0,Bangalore,3.0,26.0,Male,Yes,4.0,1.0,6.0
+Bachelors,2013.0,Pune,2.0,25.0,Female,No,3.0,1.0,11.0
+Masters,2017.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,7.0
+Masters,2017.0,Pune,2.0,27.0,Female,No,5.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,25.0,Male,Yes,3.0,1.0,7.0
+Bachelors,2013.0,Pune,3.0,27.0,Male,Yes,3.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,8.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,9.0
+Bachelors,2016.0,Bangalore,2.0,27.0,Male,No,5.0,1.0,8.0
+Masters,2017.0,New Delhi,2.0,28.0,Male,No,7.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Female,Yes,4.0,0.0,9.0
+Bachelors,2018.0,Pune,3.0,26.0,Female,No,4.0,1.0,6.0
+Bachelors,2013.0,Bangalore,3.0,25.0,Male,Yes,3.0,0.0,11.0
+Masters,2018.0,Pune,3.0,28.0,Male,No,2.0,1.0,6.0
+Phd,2016.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,8.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,9.0
+Bachelors,2013.0,Pune,2.0,26.0,Female,No,3.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Female,No,5.0,0.0,7.0
+Phd,2015.0,Pune,3.0,28.0,Male,No,0.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,26.0,Male,Yes,4.0,0.0,10.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Male,No,4.0,0.0,10.0
+Bachelors,2016.0,Pune,3.0,24.0,Male,Yes,2.0,0.0,8.0
+Bachelors,2013.0,Pune,2.0,28.0,Female,No,2.0,1.0,11.0
+Masters,2017.0,Bangalore,2.0,24.0,Male,No,2.0,1.0,7.0
+Masters,2015.0,Pune,2.0,47.0,Female,No,2.0,1.0,9.0
+Bachelors,2014.0,Pune,3.0,26.0,Male,None,7.0,0.0,10.0
+Masters,2017.0,Bangalore,2.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,1.0,25.0,Female,No,3.0,0.0,9.0
+Phd,2014.0,Bangalore,1.0,25.0,Female,None,3.0,0.0,10.0
+Bachelors,2014.0,New Delhi,3.0,24.0,Male,No,2.0,0.0,10.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,Yes,7.0,1.0,9.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Male,No,5.0,0.0,10.0
+Bachelors,2018.0,Pune,4.5,26.0,Male,No,4.0,1.0,6.0
+None,2015.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,9.0
+Bachelors,2016.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Female,No,2.0,0.0,10.0
+Masters,2017.0,Pune,3.0,24.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,15.0,Female,No,5.0,1.0,9.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Male,No,7.0,0.0,7.0
+Bachelors,2012.0,Pune,3.0,24.0,Male,No,2.0,1.0,12.0
+Masters,2016.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,8.0
+Masters,2021.5,New Delhi,3.0,27.0,Male,No,5.0,0.0,2.5
+Bachelors,2014.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,47.0,Female,No,2.0,1.0,7.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,1.0,0.0,12.0
+Bachelors,2014.0,Bangalore,1.0,26.0,Male,No,4.0,0.0,10.0
+Bachelors,2017.0,Pune,2.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,0.0,0.0,9.0
+Bachelors,2013.0,Pune,3.0,28.0,Female,Yes,3.0,1.0,11.0
+Bachelors,2012.0,New Delhi,3.0,28.0,Female,No,4.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Bangalore,4.5,25.0,Male,No,3.0,0.0,9.0
+Bachelors,2017.0,Pune,3.0,28.0,Female,No,3.0,1.0,7.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Female,Yes,7.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Female,Yes,5.0,0.0,12.0
+Bachelors,2016.0,Bangalore,2.0,25.0,Male,No,3.0,1.0,8.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Female,No,4.0,0.0,8.0
+Bachelors,2012.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,12.0
+Phd,2021.5,New Delhi,3.0,27.0,Female,No,5.0,0.0,2.5
+Bachelors,2014.0,Bangalore,3.0,15.0,Male,No,3.0,0.0,10.0
+Bachelors,2012.0,New Delhi,3.0,28.0,Male,No,5.0,0.0,12.0
+Bachelors,2012.0,Pune,3.0,25.0,Female,No,3.0,1.0,12.0
+Masters,2015.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,9.0
+Bachelors,2014.0,Bangalore,4.5,25.0,Male,No,3.0,1.0,10.0
+Bachelors,2018.0,New Delhi,3.0,26.0,Female,No,4.0,1.0,6.0
+Phd,2012.0,New Delhi,3.0,28.0,Female,No,1.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,No,0.0,1.0,11.0
+Bachelors,2015.0,Bangalore,1.0,24.0,Female,No,2.0,1.0,9.0
+Masters,2014.0,Pune,4.5,27.0,Male,No,5.0,0.0,10.0
+Masters,2017.0,New Delhi,1.0,25.0,Female,No,3.0,0.0,7.0
+Masters,2012.0,Pune,3.0,28.0,Male,No,0.0,1.0,12.0
+Masters,2012.0,New Delhi,3.0,28.0,Male,No,2.0,1.0,12.0
+Masters,2013.0,New Delhi,2.0,47.0,Male,No,2.0,1.0,11.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,5.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,24.0,Male,No,7.0,0.0,9.0
+Masters,2015.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,24.0,Male,No,2.0,1.0,9.0
+Bachelors,2018.0,New Delhi,3.0,28.0,Male,No,0.0,1.0,6.0
+Phd,2012.0,Pune,3.0,27.0,Male,No,5.0,0.0,12.0
+Bachelors,2015.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,26.0,Female,Yes,4.0,1.0,6.0
+Phd,2018.0,Bangalore,3.0,47.0,Female,No,5.0,1.0,6.0
+Bachelors,2015.0,New Delhi,1.0,26.0,Female,No,4.0,1.0,9.0
+Phd,2016.0,Bangalore,3.0,24.0,Female,No,2.0,0.0,8.0
+Bachelors,2017.0,Pune,3.0,25.0,Male,No,3.0,1.0,7.0
+Masters,2017.0,New Delhi,3.0,26.0,Male,No,3.0,1.0,7.0
+Bachelors,2017.0,Pune,2.0,47.0,Male,No,1.0,1.0,7.0
+Phd,2013.0,Bangalore,3.0,26.0,None,No,4.0,0.0,11.0
+Bachelors,2013.0,New Delhi,3.0,25.0,Female,Yes,3.0,1.0,11.0
+Bachelors,2017.0,Bangalore,1.0,28.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,47.0,Male,No,5.0,0.0,9.0
+Masters,2013.0,Pune,2.0,28.0,Male,No,3.0,1.0,11.0
+Bachelors,2017.0,Bangalore,3.0,47.0,Female,Yes,7.0,0.0,7.0
+Bachelors,2012.0,Bangalore,1.0,27.0,Male,No,5.0,1.0,12.0
+Bachelors,2015.0,Pune,3.0,28.0,Female,Yes,5.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,9.0
+Masters,2015.0,Pune,2.0,26.0,Female,Yes,4.0,1.0,9.0
+Masters,2015.0,Pune,3.0,25.0,Male,No,3.0,22.20752687821201,9.0
+Bachelors,2018.0,Bangalore,3.0,26.0,Male,Yes,7.0,1.0,6.0
+Bachelors,2017.0,Bangalore,1.0,47.0,Male,No,3.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,26.0,Male,No,3.0,0.0,9.0
+Bachelors,2014.0,Pune,2.0,26.0,Female,No,3.0,1.0,10.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,7.0
+Bachelors,2018.0,New Delhi,3.0,28.0,Female,No,5.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,0.0,1.0,9.0
+Bachelors,2017.0,Bangalore,4.5,25.0,Male,No,3.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,28.0,Male,No,2.0,1.0,6.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Female,No,0.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Male,No,3.0,22.20752687821201,9.0
+Bachelors,2016.0,Bangalore,4.5,24.0,Male,No,2.0,0.0,8.0
+Bachelors,2016.0,Pune,3.0,27.0,Male,No,5.0,0.0,8.0
+Bachelors,2021.5,Pune,3.0,24.0,Male,No,2.0,0.0,2.5
+None,2017.0,Pune,2.0,26.0,Female,No,4.0,1.0,7.0
+Bachelors,2018.0,Pune,3.0,25.0,Female,No,3.0,1.0,6.0
+Bachelors,2015.0,Pune,3.0,24.0,Male,Yes,7.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,24.0,Female,No,2.0,1.0,11.0
+Bachelors,2013.0,Pune,2.0,28.0,Male,Yes,0.0,1.0,11.0
+Bachelors,2018.0,Bangalore,3.0,47.0,Male,No,2.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Female,No,5.0,0.0,8.0
+Bachelors,2012.0,Pune,3.0,24.0,Male,No,3.0,0.0,12.0
+Bachelors,2016.0,New Delhi,3.0,28.0,Male,No,0.0,0.0,8.0
+Bachelors,2012.0,Bangalore,1.0,27.0,Male,No,5.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,15.0,Male,No,3.0,22.20752687821201,9.0
+Bachelors,2017.0,Pune,2.0,28.0,Male,No,0.0,1.0,7.0
+Bachelors,2015.0,Bangalore,2.0,26.0,Female,No,4.0,1.0,9.0
+Bachelors,2015.0,Bangalore,2.0,28.0,Female,No,3.0,1.0,9.0
+Bachelors,2012.0,Pune,3.0,15.0,Male,No,3.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,25.0,Male,Yes,3.0,1.0,11.0
+Phd,2018.0,New Delhi,3.0,24.0,Female,No,2.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,26.0,Male,Yes,7.0,1.0,7.0
+Masters,2017.0,Bangalore,2.0,28.0,Female,No,3.0,22.20752687821201,7.0
+Bachelors,2014.0,Bangalore,3.0,27.0,Male,Yes,5.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Male,No,2.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,24.0,Male,No,2.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Female,Yes,5.0,1.0,9.0
+Bachelors,2015.0,New Delhi,2.0,27.0,Female,Yes,5.0,1.0,9.0
+Masters,2017.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,27.0,Female,No,3.0,1.0,9.0
+Bachelors,2018.0,Pune,3.0,27.0,Female,No,5.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,15.0,Male,No,3.0,0.0,7.0
+Phd,2013.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,11.0
+Bachelors,2021.5,Bangalore,3.0,25.0,Female,Yes,7.0,0.0,2.5
+Bachelors,2015.0,Bangalore,3.0,27.0,Male,No,7.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,47.0,Male,No,4.0,1.0,8.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,None,5.0,0.0,9.0
+Masters,2013.0,Bangalore,3.0,26.0,Female,No,7.0,1.0,11.0
+Bachelors,2015.0,Pune,3.0,25.0,Male,No,3.0,1.0,9.0
+Masters,2017.0,New Delhi,2.0,24.0,Female,No,2.0,0.0,7.0
+Masters,2015.0,New Delhi,3.0,47.0,Male,No,4.0,1.0,9.0
+Phd,2016.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,15.0,Male,No,3.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,15.0,Male,No,5.0,0.0,10.0
+Bachelors,2021.5,New Delhi,3.0,28.0,Female,No,0.0,22.20752687821201,2.5
+Masters,2014.0,Bangalore,3.0,28.0,Female,No,4.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,2.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Female,No,2.0,22.20752687821201,7.0
+Masters,2015.0,New Delhi,3.0,28.0,Male,No,7.0,0.0,9.0
+Masters,2017.0,Pune,2.0,27.0,Male,No,5.0,1.0,7.0
+Bachelors,2013.0,Pune,1.0,26.0,Female,No,4.0,1.0,11.0
+Bachelors,2012.0,Pune,2.0,27.0,Female,No,5.0,1.0,12.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,0.0,0.0,7.0
+Bachelors,2021.5,Bangalore,3.0,28.0,Female,No,1.0,0.0,2.5
+Bachelors,2018.0,New Delhi,3.0,24.0,Female,No,2.0,1.0,6.0
+Bachelors,2017.0,New Delhi,3.0,27.0,Female,Yes,5.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2018.0,Pune,3.0,24.0,Male,Yes,2.0,1.0,6.0
+Bachelors,2021.5,Bangalore,3.0,26.0,Male,None,4.0,1.0,2.5
+Bachelors,2015.0,New Delhi,3.0,25.0,Female,No,3.0,22.20752687821201,9.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,5.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Male,No,3.0,1.0,8.0
+Bachelors,2015.0,Bangalore,4.5,27.0,Male,Yes,5.0,0.0,9.0
+Bachelors,2017.0,Pune,3.0,26.0,Male,No,3.0,0.0,7.0
+Bachelors,2018.0,Pune,2.0,28.0,Female,No,5.0,1.0,6.0
+Masters,2017.0,Pune,2.0,47.0,Male,No,5.0,0.0,7.0
+Bachelors,2018.0,Pune,3.0,27.0,Female,No,7.0,1.0,6.0
+Bachelors,2013.0,Bangalore,1.0,47.0,Male,No,2.0,0.0,11.0
+Bachelors,2017.0,Pune,2.0,28.0,Male,No,7.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,25.0,Female,No,3.0,1.0,7.0
+Masters,2013.0,New Delhi,4.5,28.0,Male,No,3.0,1.0,11.0
+Bachelors,2013.0,Pune,2.0,24.0,Female,No,2.0,1.0,11.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,7.0
+Bachelors,2015.0,Pune,1.0,24.0,Female,No,2.0,1.0,9.0
+Masters,2013.0,New Delhi,3.0,24.0,Female,No,2.0,1.0,11.0
+Bachelors,2014.0,Pune,2.0,28.0,Female,No,3.0,1.0,10.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,5.0,22.20752687821201,9.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,5.0,1.0,9.0
+Masters,2017.0,New Delhi,3.0,15.0,Female,No,4.0,1.0,7.0
+Bachelors,2016.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,8.0
+Bachelors,2015.0,Bangalore,1.0,27.0,Male,No,5.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,24.0,Female,No,2.0,0.0,10.0
+Bachelors,2014.0,Pune,4.5,26.0,Male,None,4.0,0.0,10.0
+Bachelors,2013.0,Bangalore,3.0,24.0,Male,No,2.0,1.0,11.0
+Bachelors,2012.0,Bangalore,3.0,15.0,Male,Yes,5.0,0.0,12.0
+Masters,2017.0,Bangalore,2.0,25.0,Female,No,3.0,1.0,7.0
+Bachelors,2017.0,Pune,3.0,28.0,Male,No,3.0,0.0,7.0
+Phd,2015.0,Pune,3.0,26.0,Male,No,4.0,1.0,9.0
+Masters,2015.0,Pune,3.0,26.0,Male,No,7.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,5.0,1.0,8.0
+Bachelors,2012.0,Pune,4.5,26.0,Male,No,4.0,0.0,12.0
+Masters,2015.0,Bangalore,2.0,27.0,Female,No,5.0,1.0,9.0
+Masters,2017.0,Pune,1.0,28.0,Male,No,0.0,0.0,7.0
+Masters,2015.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,7.0
+Bachelors,2017.0,Pune,3.0,28.0,Female,No,4.0,1.0,7.0
+Bachelors,2015.0,Pune,3.0,15.0,Male,No,3.0,0.0,9.0
+Masters,2015.0,Pune,2.0,27.0,Female,No,5.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Male,No,7.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,No,1.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,28.0,Female,No,3.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Female,No,2.0,1.0,12.0
+Bachelors,2016.0,Pune,3.0,27.0,Female,No,5.0,1.0,8.0
+Phd,2018.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,6.0
+Bachelors,2018.0,Pune,3.0,28.0,Male,No,2.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,47.0,Male,No,2.0,0.0,9.0
+Bachelors,2013.0,New Delhi,3.0,47.0,Male,No,3.0,0.0,11.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,Yes,1.0,0.0,11.0
+Bachelors,2016.0,Bangalore,1.0,24.0,Male,No,3.0,0.0,8.0
+Bachelors,2017.0,New Delhi,3.0,27.0,Male,No,5.0,22.20752687821201,7.0
+Masters,2018.0,New Delhi,3.0,24.0,Male,No,7.0,1.0,6.0
+Bachelors,2015.0,Pune,4.5,28.0,Male,No,3.0,0.0,9.0
+Bachelors,2015.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,9.0
+Bachelors,2016.0,New Delhi,1.0,26.0,Male,No,4.0,0.0,8.0
+Bachelors,2017.0,Bangalore,2.0,28.0,Female,No,3.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,24.0,Female,No,2.0,0.0,11.0
+Masters,2014.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,5.0,0.0,10.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,2.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,Yes,0.0,0.0,8.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Male,No,0.0,0.0,7.0
+Phd,2017.0,Pune,3.0,27.0,Male,No,5.0,0.0,7.0
+Masters,2017.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,7.0
+Masters,2017.0,Bangalore,1.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Male,No,3.0,1.0,8.0
+Bachelors,2012.0,Bangalore,4.5,25.0,Male,No,3.0,0.0,12.0
+Bachelors,2014.0,Pune,3.0,25.0,Male,No,3.0,1.0,10.0
+Bachelors,2018.0,Bangalore,3.0,25.0,Female,No,3.0,1.0,6.0
+Masters,2012.0,Pune,3.0,26.0,Male,No,4.0,1.0,12.0
+Phd,2016.0,Bangalore,3.0,25.0,Male,No,3.0,0.0,8.0
+Bachelors,2017.0,New Delhi,2.0,47.0,Male,No,3.0,1.0,7.0
+Bachelors,2015.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,26.0,Male,No,4.0,22.20752687821201,8.0
+Masters,2018.0,New Delhi,3.0,15.0,Female,No,3.0,1.0,6.0
+Masters,2017.0,Pune,2.0,25.0,Male,No,3.0,0.0,7.0
+Masters,2014.0,Bangalore,3.0,24.0,Female,No,2.0,0.0,10.0
+Bachelors,2014.0,Pune,3.0,28.0,Female,No,2.0,1.0,10.0
+Bachelors,2014.0,Pune,3.0,28.0,Female,No,0.0,1.0,10.0
+Bachelors,2017.0,New Delhi,3.0,25.0,Female,Yes,3.0,0.0,7.0
+Masters,2017.0,Bangalore,2.0,26.0,Male,No,3.0,1.0,7.0
+Bachelors,2021.5,New Delhi,3.0,27.0,Female,No,5.0,0.0,2.5
+Bachelors,2017.0,Bangalore,3.0,15.0,Male,No,5.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,7.0
+Bachelors,2016.0,Pune,3.0,28.0,Female,No,4.0,1.0,8.0
+Bachelors,2015.0,Pune,3.0,27.0,Female,Yes,3.0,1.0,9.0
+Bachelors,2013.0,Pune,4.5,27.0,Male,No,5.0,0.0,11.0
+Masters,2015.0,Pune,2.0,25.0,Male,No,3.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,12.0
+Bachelors,2021.5,Pune,2.0,28.0,Male,No,5.0,1.0,2.5
+Masters,2016.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,8.0
+Bachelors,2012.0,Pune,3.0,24.0,Male,Yes,2.0,0.0,12.0
+Bachelors,2021.5,Bangalore,3.0,24.0,Female,No,2.0,0.0,2.5
+Masters,2017.0,Pune,2.0,27.0,Female,No,7.0,0.0,7.0
+Bachelors,2013.0,Bangalore,1.0,24.0,Female,No,2.0,1.0,11.0
+Phd,2017.0,Pune,3.0,28.0,Male,No,1.0,0.0,7.0
+Bachelors,2021.5,Bangalore,2.0,24.0,Male,No,2.0,1.0,2.5
+Bachelors,2016.0,New Delhi,3.0,28.0,Male,No,4.0,0.0,8.0
+Masters,2017.0,New Delhi,2.0,28.0,Female,No,3.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,No,4.0,0.0,11.0
+Bachelors,2013.0,New Delhi,3.0,24.0,Female,No,2.0,0.0,11.0
+Bachelors,2014.0,Pune,2.0,27.0,Male,No,5.0,0.0,10.0
+Masters,2013.0,Bangalore,3.0,25.0,Male,No,7.0,1.0,11.0
+Masters,2015.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,9.0
+Bachelors,2017.0,Bangalore,2.0,15.0,Male,No,3.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,47.0,Male,No,5.0,0.0,12.0
+Bachelors,2014.0,Bangalore,4.5,28.0,Male,No,0.0,0.0,10.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Female,No,4.0,0.0,7.0
+Bachelors,2016.0,Pune,3.0,28.0,Male,No,5.0,1.0,8.0
+Phd,2014.0,Bangalore,3.0,28.0,Female,No,0.0,0.0,10.0
+Bachelors,2013.0,Pune,2.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2013.0,Bangalore,2.0,24.0,Female,No,2.0,1.0,11.0
+Masters,2017.0,New Delhi,4.5,25.0,Male,No,3.0,0.0,7.0
+Bachelors,2013.0,New Delhi,1.0,25.0,Female,No,3.0,1.0,11.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,No,2.0,0.0,9.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,1.0,1.0,7.0
+Bachelors,2018.0,Pune,3.0,28.0,Male,No,3.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Female,Yes,5.0,0.0,7.0
+Masters,2015.0,New Delhi,1.0,26.0,Female,No,4.0,1.0,9.0
+Masters,2015.0,Bangalore,2.0,26.0,Female,No,4.0,0.0,9.0
+Masters,2014.0,New Delhi,1.0,25.0,Female,No,3.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,47.0,Male,No,3.0,0.0,8.0
+Masters,2012.0,New Delhi,3.0,25.0,Male,No,3.0,1.0,12.0
+Bachelors,2021.5,Bangalore,1.0,25.0,Male,No,3.0,0.0,2.5
+Bachelors,2013.0,Pune,3.0,28.0,Male,No,0.0,0.0,11.0
+Bachelors,2014.0,Pune,1.0,47.0,Female,No,3.0,1.0,10.0
+Masters,2013.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,11.0
+Masters,2017.0,Bangalore,2.0,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2013.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,11.0
+Bachelors,2015.0,New Delhi,2.0,26.0,Male,No,4.0,0.0,9.0
+Masters,2015.0,Bangalore,3.0,27.0,Female,No,5.0,0.0,9.0
+Masters,2017.0,Pune,3.0,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2014.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,10.0
+Masters,2014.0,Bangalore,3.0,28.0,Female,No,3.0,1.0,10.0
+Bachelors,2012.0,New Delhi,3.0,24.0,Female,No,2.0,22.20752687821201,12.0
+Bachelors,2015.0,Pune,2.0,28.0,Male,No,4.0,1.0,9.0
+Bachelors,2013.0,Bangalore,4.5,27.0,Male,No,7.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Female,No,3.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,25.0,Male,Yes,3.0,1.0,8.0
+Masters,2017.0,Bangalore,2.0,24.0,Female,No,2.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,15.0,Male,Yes,5.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,28.0,Female,No,5.0,1.0,10.0
+Masters,2017.0,New Delhi,1.0,24.0,Female,No,2.0,0.0,7.0
+Bachelors,2021.5,Bangalore,3.0,28.0,Male,No,1.0,0.0,2.5
+Bachelors,2014.0,Pune,3.0,28.0,Male,No,0.0,0.0,10.0
+Masters,2013.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,11.0
+Masters,2017.0,Pune,3.0,27.0,Female,No,5.0,0.0,7.0
+Phd,2018.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,6.0
+Masters,2017.0,Pune,3.0,25.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,15.0,Female,No,2.0,0.0,7.0
+Phd,2014.0,Pune,3.0,24.0,Male,No,2.0,0.0,10.0
+Phd,2017.0,Bangalore,3.0,24.0,Female,No,2.0,22.20752687821201,7.0
+Masters,2015.0,New Delhi,2.0,26.0,Male,No,4.0,1.0,9.0
+Bachelors,2013.0,Pune,2.0,24.0,Male,Yes,2.0,1.0,11.0
+Phd,2016.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,8.0
+Masters,2017.0,New Delhi,2.0,25.0,Female,Yes,3.0,1.0,7.0
+Bachelors,2014.0,Pune,3.0,47.0,Male,No,4.0,22.20752687821201,10.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,28.0,Female,No,2.0,0.0,8.0
+Masters,2017.0,New Delhi,2.0,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2014.0,Pune,3.0,27.0,Male,Yes,5.0,0.0,10.0
+Masters,2017.0,Bangalore,3.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,6.0
+Bachelors,2014.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,10.0
+Masters,2017.0,New Delhi,1.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2013.0,Bangalore,2.0,28.0,Male,Yes,4.0,0.0,11.0
+Bachelors,2018.0,Pune,1.0,26.0,Male,Yes,4.0,0.0,6.0
+Phd,2017.0,New Delhi,3.0,28.0,Male,No,3.0,22.20752687821201,7.0
+Masters,2014.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,10.0
+Bachelors,2015.0,Pune,4.5,26.0,Female,No,4.0,1.0,9.0
+Masters,2017.0,New Delhi,4.5,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2021.5,Pune,3.0,28.0,Male,No,2.0,0.0,2.5
+Masters,2015.0,Pune,2.0,28.0,Female,No,0.0,0.0,9.0
+Bachelors,2017.0,Pune,3.0,26.0,Male,Yes,4.0,0.0,7.0
+Masters,2017.0,Pune,3.0,27.0,Male,No,5.0,1.0,7.0
+Bachelors,2013.0,Bangalore,1.0,27.0,Female,No,7.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Female,No,3.0,0.0,8.0
+Bachelors,2013.0,Pune,3.0,28.0,Male,No,1.0,22.20752687821201,11.0
+Bachelors,2017.0,Pune,3.0,28.0,Male,No,2.0,0.0,7.0
+Bachelors,2021.5,Bangalore,3.0,25.0,Female,No,3.0,0.0,2.5
+Bachelors,2017.0,New Delhi,2.0,28.0,Female,No,2.0,0.0,7.0
+Phd,2014.0,New Delhi,3.0,15.0,Male,No,3.0,0.0,10.0
+Masters,2017.0,Bangalore,2.0,28.0,Male,Yes,2.0,1.0,7.0
+Bachelors,2015.0,Pune,3.0,47.0,Male,No,4.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,24.0,Male,No,2.0,22.20752687821201,8.0
+Bachelors,2021.5,Bangalore,2.0,26.0,Female,No,4.0,1.0,2.5
+Bachelors,2016.0,Pune,3.0,27.0,Female,No,5.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Male,No,3.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,47.0,Female,No,1.0,1.0,10.0
+Bachelors,2017.0,Bangalore,2.0,47.0,Female,No,2.0,1.0,7.0
+Bachelors,2017.0,New Delhi,2.0,26.0,Female,No,3.0,1.0,7.0
+Bachelors,2013.0,New Delhi,3.0,28.0,Female,Yes,2.0,22.20752687821201,11.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Male,No,3.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,26.0,Male,Yes,4.0,0.0,12.0
+Masters,2015.0,New Delhi,3.0,27.0,Male,No,5.0,1.0,9.0
+Phd,2013.0,Bangalore,2.0,25.0,Male,No,3.0,0.0,11.0
+Masters,2015.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,9.0
+Bachelors,2015.0,New Delhi,2.0,28.0,Female,No,2.0,1.0,9.0
+Masters,2015.0,New Delhi,2.0,27.0,Female,No,5.0,1.0,9.0
+Phd,2017.0,New Delhi,3.0,47.0,Male,No,2.0,0.0,7.0
+Masters,2015.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,9.0
+Bachelors,2015.0,New Delhi,2.0,28.0,Female,No,1.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,2.0,1.0,10.0
+Masters,2017.0,New Delhi,4.5,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Female,No,3.0,1.0,12.0
+Masters,2015.0,New Delhi,2.0,28.0,Male,No,3.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,25.0,Male,No,7.0,1.0,6.0
+Masters,2014.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,10.0
+Bachelors,2017.0,Bangalore,4.5,28.0,Male,No,5.0,0.0,7.0
+Bachelors,2016.0,New Delhi,3.0,24.0,Male,Yes,2.0,0.0,8.0
+Masters,2018.0,New Delhi,3.0,47.0,Male,Yes,2.0,1.0,6.0
+Masters,2021.5,New Delhi,3.0,25.0,Male,No,3.0,1.0,2.5
+Masters,2017.0,Bangalore,3.0,28.0,Female,No,0.0,1.0,7.0
+Phd,2018.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,6.0
+Bachelors,2017.0,Pune,3.0,27.0,Male,Yes,5.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,1.0,0.0,10.0
+Bachelors,2014.0,New Delhi,3.0,47.0,Female,No,3.0,0.0,10.0
+Bachelors,2015.0,Bangalore,2.0,29.0,Female,No,1.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Male,No,1.0,0.0,12.0
+Bachelors,2015.0,Pune,3.0,28.0,Female,No,2.0,22.20752687821201,9.0
+Masters,2017.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,1.0,22.20752687821201,7.0
+Bachelors,2015.0,Pune,3.0,28.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,Yes,2.0,0.0,10.0
+Bachelors,2015.0,Bangalore,2.0,28.0,Female,No,2.0,1.0,9.0
+Bachelors,2017.0,Pune,3.0,26.0,Female,No,4.0,1.0,7.0
+Bachelors,2014.0,Pune,3.0,30.0,Male,No,2.0,0.0,10.0
+Masters,2017.0,New Delhi,3.0,29.0,Male,No,2.0,1.0,7.0
+Masters,2015.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,9.0
+Bachelors,2021.5,Bangalore,3.0,28.0,Female,No,2.0,1.0,2.5
+Bachelors,2012.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,12.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,No,1.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Male,No,4.0,0.0,12.0
+Phd,2018.0,New Delhi,2.0,29.0,Female,No,1.0,1.0,6.0
+Masters,2015.0,Pune,3.0,30.0,Female,No,2.0,0.0,9.0
+Masters,2013.0,New Delhi,2.0,29.0,Female,No,2.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Male,No,2.0,0.0,8.0
+Bachelors,2017.0,Bangalore,2.0,26.0,Female,No,4.0,1.0,7.0
+Masters,2017.0,Pune,2.0,30.0,Female,No,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,2.0,30.0,Female,Yes,1.0,22.20752687821201,9.0
+Masters,2017.0,New Delhi,2.0,29.0,Female,No,3.0,1.0,7.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,No,2.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,27.0,Female,No,7.0,1.0,9.0
+Bachelors,2014.0,Bangalore,4.5,30.0,Male,No,2.0,0.0,10.0
+Masters,2013.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,11.0
+Bachelors,2013.0,New Delhi,3.0,28.0,Female,No,1.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,No,7.0,0.0,10.0
+Masters,2015.0,Bangalore,2.0,27.0,Male,Yes,5.0,1.0,9.0
+Masters,2015.0,New Delhi,3.0,29.0,Female,No,2.0,0.0,9.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Female,No,7.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Male,No,1.0,1.0,12.0
+Bachelors,2016.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,8.0
+Bachelors,2012.0,Bangalore,2.0,28.0,Female,No,5.0,1.0,12.0
+Phd,2016.0,Bangalore,3.0,29.0,Female,No,1.0,22.20752687821201,8.0
+Masters,2021.5,Bangalore,3.0,30.0,Female,No,2.0,1.0,2.5
+Masters,2017.0,New Delhi,3.0,30.0,Male,No,2.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,30.0,Male,No,1.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Female,No,2.0,0.0,7.0
+Masters,2013.0,New Delhi,3.0,26.0,Female,No,3.0,0.0,11.0
+Phd,2015.0,New Delhi,1.0,29.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,30.0,Male,No,1.0,0.0,8.0
+Bachelors,2014.0,Pune,3.0,29.0,Female,No,2.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,30.0,Male,No,2.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,No,5.0,22.20752687821201,11.0
+Phd,2015.0,New Delhi,2.0,29.0,Female,Yes,1.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Male,No,5.0,0.0,12.0
+Bachelors,2018.0,Bangalore,3.0,30.0,Male,No,2.0,1.0,6.0
+Masters,2017.0,Pune,2.0,29.0,Female,No,7.0,0.0,7.0
+Masters,2016.0,Bangalore,3.0,29.0,Female,No,2.0,0.0,8.0
+Bachelors,2017.0,Bangalore,4.5,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2021.5,New Delhi,3.0,29.0,Male,No,1.0,0.0,2.5
+Bachelors,2013.0,Pune,2.0,29.0,Female,No,1.0,1.0,11.0
+Bachelors,2021.5,Bangalore,1.0,27.0,Male,No,5.0,0.0,2.5
+Bachelors,2016.0,Bangalore,3.0,30.0,Male,No,1.0,0.0,8.0
+Bachelors,2013.0,New Delhi,4.5,30.0,Female,No,1.0,22.20752687821201,11.0
+Masters,2017.0,Pune,2.0,27.0,Male,No,7.0,1.0,7.0
+Masters,2017.0,Pune,3.0,29.0,Male,No,2.0,0.0,7.0
+Bachelors,2016.0,New Delhi,3.0,47.0,Female,No,1.0,0.0,8.0
+Bachelors,2015.0,New Delhi,3.0,28.0,Male,Yes,1.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Female,Yes,5.0,0.0,8.0
+Bachelors,2014.0,New Delhi,3.0,30.0,Male,No,2.0,1.0,10.0
+Bachelors,2015.0,Pune,2.0,30.0,Male,No,2.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Male,No,3.0,0.0,8.0
+Bachelors,2014.0,New Delhi,3.0,15.0,Male,No,1.0,0.0,10.0
+Bachelors,2016.0,Bangalore,4.5,27.0,Male,No,5.0,0.0,8.0
+Bachelors,2015.0,New Delhi,3.0,30.0,Female,No,2.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,2.0,0.0,12.0
+Bachelors,2014.0,Bangalore,1.0,28.0,Male,Yes,2.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,No,7.0,1.0,11.0
+Masters,2017.0,Pune,2.0,30.0,Male,No,2.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,30.0,Male,No,2.0,0.0,12.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,4.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,26.0,Male,No,4.0,0.0,10.0
+Bachelors,2013.0,Bangalore,3.0,29.0,Female,No,1.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,29.0,Female,No,2.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,None,1.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Male,No,1.0,0.0,8.0
+Masters,2016.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,8.0
+Masters,2015.0,New Delhi,1.0,27.0,Male,No,5.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,1.0,22.20752687821201,12.0
+Masters,2015.0,Pune,2.0,29.0,Female,No,2.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,28.0,Male,No,2.0,1.0,9.0
+Masters,2017.0,Pune,4.5,47.0,Female,No,1.0,0.0,7.0
+Masters,2012.0,New Delhi,1.0,29.0,Female,No,1.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Female,No,2.0,0.0,9.0
+Masters,2017.0,Bangalore,2.0,26.0,Male,Yes,4.0,22.20752687821201,7.0
+Bachelors,2013.0,Bangalore,1.0,30.0,Male,No,1.0,0.0,11.0
+Masters,2017.0,New Delhi,3.0,30.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,27.0,Female,Yes,5.0,1.0,9.0
+Bachelors,2021.5,Bangalore,3.0,28.0,Male,No,2.0,1.0,2.5
+Bachelors,2017.0,None,2.0,26.0,Female,No,4.0,1.0,7.0
+Masters,2015.0,New Delhi,2.0,26.0,Female,No,4.0,0.0,9.0
+Phd,2015.0,New Delhi,4.5,27.0,Female,Yes,5.0,0.0,9.0
+Bachelors,2013.0,New Delhi,3.0,29.0,Female,No,1.0,0.0,11.0
+Bachelors,2016.0,Pune,3.0,28.0,Male,No,2.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,29.0,Male,No,1.0,0.0,11.0
+Bachelors,2016.0,Pune,3.0,29.0,Male,No,2.0,0.0,8.0
+Masters,2016.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Female,No,1.0,1.0,9.0
+Masters,2014.0,New Delhi,3.0,29.0,Male,No,1.0,0.0,10.0
+None,2014.0,Bangalore,3.0,27.0,Male,No,3.0,0.0,10.0
+Bachelors,2012.0,Bangalore,1.0,27.0,Female,No,5.0,0.0,12.0
+Bachelors,2015.0,Pune,1.0,28.0,Female,No,2.0,1.0,9.0
+Bachelors,2018.0,Pune,2.0,28.0,Female,No,2.0,1.0,6.0
+Bachelors,2015.0,Pune,3.0,28.0,Female,Yes,1.0,1.0,9.0
+Bachelors,2015.0,Pune,3.0,29.0,Male,No,2.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,No,5.0,1.0,10.0
+Bachelors,2016.0,Bangalore,3.0,30.0,Male,Yes,1.0,0.0,8.0
+Phd,2015.0,New Delhi,3.0,28.0,Male,No,2.0,1.0,9.0
+Bachelors,2014.0,Pune,4.5,29.0,Male,No,2.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,No,1.0,0.0,9.0
+Bachelors,2013.0,Pune,3.0,30.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,29.0,Female,No,2.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,30.0,Male,No,1.0,22.20752687821201,7.0
+Masters,2021.5,New Delhi,4.5,27.0,Male,No,5.0,0.0,2.5
+Bachelors,2018.0,Bangalore,3.0,29.0,Male,No,1.0,1.0,6.0
+Masters,2012.0,New Delhi,1.0,30.0,Female,No,2.0,1.0,12.0
+Masters,2016.0,New Delhi,3.0,28.0,Female,No,2.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Female,No,1.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,28.0,Male,No,5.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Female,No,2.0,0.0,10.0
+Phd,2017.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,29.0,Male,No,2.0,0.0,7.0
+Masters,2018.0,Bangalore,3.0,28.0,Female,No,2.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2014.0,New Delhi,3.0,29.0,Female,No,1.0,0.0,10.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,2.0,22.20752687821201,7.0
+Masters,2017.0,New Delhi,3.0,29.0,Male,No,1.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,29.0,Male,No,2.0,22.20752687821201,10.0
+Bachelors,2013.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,30.0,Male,No,1.0,0.0,10.0
+Bachelors,2013.0,New Delhi,3.0,47.0,Female,No,3.0,0.0,11.0
+Bachelors,2014.0,Bangalore,1.0,29.0,Male,No,2.0,0.0,10.0
+Masters,2016.0,Pune,3.0,29.0,Male,No,2.0,0.0,8.0
+Phd,2016.0,Pune,1.0,28.0,Male,No,2.0,0.0,8.0
+Phd,2015.0,Bangalore,3.0,29.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,New Delhi,3.0,26.0,Female,No,3.0,0.0,8.0
+Bachelors,2013.0,Bangalore,2.0,28.0,Female,No,1.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,Yes,1.0,0.0,9.0
+Phd,2017.0,New Delhi,3.0,29.0,Male,No,1.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,29.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,30.0,Female,Yes,1.0,1.0,9.0
+Bachelors,2013.0,Pune,3.0,30.0,Male,No,1.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,30.0,Female,No,1.0,1.0,12.0
+Bachelors,2021.5,Bangalore,3.0,29.0,Male,No,1.0,0.0,2.5
+Bachelors,2013.0,Pune,4.5,28.0,Female,No,1.0,1.0,11.0
+Masters,2018.0,New Delhi,3.0,30.0,Female,No,2.0,1.0,6.0
+Bachelors,2018.0,Pune,3.0,29.0,Male,Yes,1.0,0.0,6.0
+Bachelors,2016.0,Bangalore,3.0,30.0,Female,Yes,2.0,22.20752687821201,8.0
+Masters,2015.0,Pune,3.0,27.0,Male,Yes,5.0,1.0,9.0
+Masters,2017.0,Bangalore,3.0,26.0,Male,No,4.0,1.0,7.0
+Bachelors,2017.0,Pune,2.0,30.0,Male,No,2.0,1.0,7.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,7.0,0.0,12.0
+Phd,2015.0,Bangalore,3.0,29.0,Female,No,1.0,0.0,9.0
+Bachelors,2015.0,New Delhi,3.0,26.0,Male,No,4.0,1.0,9.0
+Bachelors,2017.0,Pune,3.0,30.0,Male,No,3.0,22.20752687821201,7.0
+Bachelors,2014.0,Pune,1.0,28.0,Male,No,1.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,No,1.0,0.0,9.0
+Bachelors,2013.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,28.0,Male,No,1.0,1.0,7.0
+Masters,2015.0,New Delhi,2.0,27.0,Male,No,7.0,1.0,9.0
+Masters,2014.0,New Delhi,3.0,47.0,Male,No,5.0,0.0,10.0
+Phd,2014.0,New Delhi,2.0,27.0,Female,No,5.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,30.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,1.0,47.0,Female,No,5.0,0.0,10.0
+Bachelors,2014.0,Pune,1.0,26.0,Male,No,4.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Male,Yes,2.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Female,No,5.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,30.0,Female,No,2.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,29.0,Male,No,2.0,1.0,6.0
+Masters,2016.0,New Delhi,3.0,27.0,Male,Yes,5.0,1.0,8.0
+Bachelors,2014.0,Pune,1.0,26.0,Female,No,4.0,0.0,10.0
+Bachelors,2017.0,Pune,3.0,27.0,Male,Yes,5.0,22.20752687821201,7.0
+Bachelors,2013.0,New Delhi,3.0,30.0,Male,No,1.0,0.0,11.0
+Bachelors,2015.0,New Delhi,4.5,26.0,Female,No,4.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,29.0,Female,Yes,2.0,0.0,6.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,1.0,0.0,8.0
+Masters,2012.0,Pune,3.0,30.0,Male,No,1.0,0.0,12.0
+Bachelors,2014.0,Bangalore,3.0,30.0,Female,No,2.0,0.0,10.0
+Bachelors,2013.0,Bangalore,4.5,27.0,Male,No,5.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Female,No,1.0,0.0,10.0
+Bachelors,2013.0,Pune,3.0,28.0,Male,No,2.0,22.20752687821201,11.0
+Bachelors,2014.0,Pune,3.0,29.0,Male,No,2.0,0.0,10.0
+Bachelors,2012.0,Bangalore,1.0,30.0,Female,No,2.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,28.0,Male,No,7.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,30.0,Female,Yes,2.0,0.0,12.0
+Masters,2017.0,New Delhi,2.0,30.0,Male,No,1.0,0.0,7.0
+Bachelors,2014.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,10.0
+Masters,2014.0,New Delhi,3.0,29.0,Male,No,2.0,0.0,10.0
+Bachelors,2014.0,Pune,2.0,28.0,Female,No,2.0,1.0,10.0
+Bachelors,2018.0,Pune,3.0,28.0,Male,No,1.0,1.0,6.0
+Bachelors,2016.0,Pune,3.0,29.0,Male,No,1.0,0.0,8.0
+Masters,2013.0,New Delhi,3.0,26.0,Female,No,4.0,1.0,11.0
+Bachelors,2017.0,Bangalore,3.0,29.0,Male,No,1.0,0.0,7.0
+Masters,2015.0,New Delhi,3.0,15.0,Female,No,5.0,0.0,9.0
+Bachelors,2012.0,Pune,2.0,30.0,Female,No,2.0,1.0,12.0
+Bachelors,2013.0,New Delhi,3.0,26.0,Male,No,4.0,0.0,11.0
+Bachelors,2021.5,Pune,2.0,47.0,Female,No,1.0,1.0,2.5
+Bachelors,2015.0,Pune,2.0,29.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,No,7.0,0.0,11.0
+Masters,2014.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,10.0
+Masters,2017.0,New Delhi,2.0,30.0,Male,No,2.0,0.0,7.0
+Masters,2017.0,Bangalore,1.0,27.0,Male,No,5.0,0.0,7.0
+Masters,2017.0,Pune,2.0,28.0,Male,No,1.0,0.0,7.0
+Bachelors,2013.0,Pune,3.0,29.0,Male,No,3.0,0.0,11.0
+Bachelors,2012.0,Pune,3.0,27.0,Male,Yes,5.0,0.0,12.0
+Bachelors,2015.0,Pune,3.0,30.0,Female,No,7.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Female,No,2.0,1.0,9.0
+Masters,2018.0,Pune,3.0,47.0,Male,No,4.0,1.0,6.0
+Masters,2013.0,Bangalore,2.0,29.0,Female,No,2.0,1.0,11.0
+Bachelors,2014.0,Bangalore,1.0,28.0,Male,No,2.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,Yes,1.0,0.0,10.0
+Masters,2015.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,9.0
+Masters,2017.0,Bangalore,2.0,26.0,Male,No,4.0,1.0,7.0
+Masters,2017.0,New Delhi,2.0,30.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,Yes,5.0,0.0,11.0
+Bachelors,2015.0,Bangalore,4.5,29.0,Male,No,2.0,0.0,9.0
+Bachelors,2012.0,New Delhi,3.0,15.0,Male,No,1.0,1.0,12.0
+Masters,2016.0,Bangalore,3.0,30.0,Male,No,1.0,0.0,8.0
+Bachelors,2015.0,Pune,3.0,30.0,Male,No,1.0,0.0,9.0
+Masters,2017.0,Bangalore,3.0,26.0,Male,No,4.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,26.0,Female,Yes,7.0,1.0,6.0
+Phd,2014.0,Bangalore,3.0,27.0,Male,No,3.0,0.0,10.0
+Bachelors,2021.5,Bangalore,4.5,30.0,Female,No,1.0,0.0,2.5
+Bachelors,2012.0,Bangalore,3.0,30.0,Female,No,2.0,0.0,12.0
+Masters,2018.0,New Delhi,4.5,26.0,Male,Yes,4.0,1.0,6.0
+Bachelors,2013.0,Bangalore,1.0,15.0,Female,No,1.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,30.0,Male,No,1.0,0.0,7.0
+Phd,2016.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,8.0
+Bachelors,2015.0,Pune,2.0,29.0,Female,No,1.0,1.0,9.0
+Masters,2014.0,Pune,3.0,27.0,Male,No,5.0,0.0,10.0
+Masters,2017.0,New Delhi,3.0,26.0,Female,Yes,4.0,1.0,7.0
+Masters,2017.0,New Delhi,2.0,30.0,Female,No,1.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,28.0,Female,No,5.0,1.0,6.0
+Bachelors,2017.0,Pune,2.0,29.0,Male,No,1.0,0.0,7.0
+Masters,2015.0,New Delhi,1.0,29.0,Male,No,1.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,30.0,Female,No,2.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,30.0,Male,No,2.0,1.0,10.0
+Bachelors,2018.0,New Delhi,1.0,30.0,Female,No,2.0,0.0,6.0
+Bachelors,2018.0,Bangalore,3.0,26.0,Female,No,7.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,29.0,Female,No,2.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,30.0,Female,No,1.0,0.0,8.0
+Bachelors,2015.0,Pune,4.5,27.0,Male,No,5.0,0.0,9.0
+Bachelors,2014.0,Pune,2.0,28.0,Male,No,2.0,1.0,10.0
+Bachelors,2017.0,New Delhi,2.0,30.0,Female,Yes,2.0,0.0,7.0
+Phd,2013.0,New Delhi,3.0,30.0,Female,No,2.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,No,3.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,No,2.0,22.20752687821201,9.0
+Bachelors,2015.0,Pune,4.5,29.0,Female,No,2.0,1.0,9.0
+Masters,2014.0,Pune,3.0,30.0,Male,No,2.0,0.0,10.0
+Masters,2017.0,Pune,2.0,30.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2014.0,New Delhi,3.0,28.0,Female,Yes,2.0,0.0,10.0
+Bachelors,2015.0,Pune,2.0,29.0,Female,Yes,1.0,1.0,9.0
+Bachelors,2014.0,New Delhi,3.0,30.0,Male,No,1.0,0.0,10.0
+Bachelors,2013.0,Pune,2.0,26.0,Male,No,7.0,0.0,11.0
+Bachelors,2017.0,Pune,2.0,29.0,Female,No,1.0,1.0,7.0
+Masters,2017.0,New Delhi,3.0,28.0,Female,No,1.0,1.0,7.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,No,1.0,1.0,10.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Male,No,1.0,0.0,12.0
+Masters,2015.0,Pune,2.0,30.0,Female,No,2.0,1.0,9.0
+Masters,2015.0,Pune,2.0,29.0,Female,No,1.0,0.0,9.0
+Masters,2021.5,Bangalore,3.0,26.0,Male,No,4.0,1.0,2.5
+Bachelors,2017.0,Bangalore,3.0,29.0,Female,No,1.0,0.0,7.0
+Bachelors,2014.0,New Delhi,3.0,29.0,Female,No,2.0,0.0,10.0
+Masters,2017.0,Pune,2.0,47.0,Female,No,2.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,27.0,Male,Yes,5.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Bangalore,2.0,27.0,Female,No,5.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,No,2.0,1.0,9.0
+Masters,2017.0,Bangalore,2.0,27.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,30.0,Male,No,2.0,1.0,7.0
+Bachelors,2016.0,Pune,3.0,30.0,Female,No,2.0,1.0,8.0
+Masters,2016.0,Pune,3.0,27.0,Female,No,5.0,0.0,8.0
+Bachelors,2015.0,Pune,2.0,15.0,Female,No,2.0,1.0,9.0
+Bachelors,2013.0,Pune,2.0,28.0,Male,No,5.0,1.0,11.0
+Masters,2021.5,New Delhi,3.0,28.0,Male,No,1.0,1.0,2.5
+Bachelors,2016.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,8.0
+Bachelors,2016.0,New Delhi,3.0,29.0,Female,Yes,2.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Female,No,1.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Female,No,1.0,0.0,12.0
+Bachelors,2018.0,Bangalore,3.0,29.0,Male,Yes,2.0,1.0,6.0
+Bachelors,2012.0,Pune,3.0,30.0,Male,No,1.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Male,Yes,1.0,1.0,11.0
+Bachelors,2015.0,New Delhi,3.0,29.0,Female,Yes,1.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,30.0,Female,No,1.0,0.0,10.0
+Bachelors,2014.0,Pune,1.0,28.0,Male,No,2.0,22.20752687821201,10.0
+Bachelors,2015.0,Pune,3.0,27.0,Female,No,7.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,30.0,Male,No,1.0,1.0,8.0
+Bachelors,2016.0,Pune,3.0,26.0,Female,No,4.0,1.0,8.0
+Bachelors,2018.0,New Delhi,3.0,27.0,Female,Yes,5.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,4.0,0.0,9.0
+Bachelors,2017.0,Pune,4.5,26.0,Female,No,4.0,1.0,7.0
+Bachelors,2012.0,Pune,1.0,47.0,Male,No,5.0,0.0,12.0
+Bachelors,2016.0,Bangalore,4.5,26.0,Male,No,4.0,22.20752687821201,8.0
+Phd,2017.0,Bangalore,3.0,28.0,Female,No,1.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,29.0,Female,No,1.0,1.0,9.0
+Masters,2014.0,New Delhi,3.0,30.0,Male,Yes,2.0,0.0,10.0
+Bachelors,2012.0,Bangalore,4.5,27.0,Male,No,5.0,0.0,12.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,No,7.0,0.0,9.0
+Masters,2012.0,New Delhi,3.0,30.0,Male,No,2.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,Yes,1.0,1.0,9.0
+Masters,2017.0,New Delhi,3.0,29.0,Female,No,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,No,2.0,0.0,10.0
+Bachelors,2018.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,6.0
+Bachelors,2014.0,Bangalore,1.0,47.0,Male,No,1.0,0.0,10.0
+Phd,2012.0,New Delhi,1.0,29.0,Female,No,2.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Female,No,2.0,1.0,11.0
+Bachelors,2021.5,Pune,3.0,28.0,Male,No,1.0,22.20752687821201,2.5
+Masters,2013.0,New Delhi,2.0,26.0,Male,No,4.0,1.0,11.0
+Bachelors,2013.0,Pune,3.0,27.0,Female,No,5.0,0.0,11.0
+Phd,2015.0,New Delhi,3.0,28.0,Male,No,3.0,0.0,9.0
+Bachelors,2017.0,Pune,2.0,28.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,28.0,Male,No,4.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Female,No,1.0,1.0,8.0
+Bachelors,2017.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,7.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,No,0.0,0.0,9.0
+Bachelors,2012.0,New Delhi,3.0,30.0,Male,No,2.0,0.0,12.0
+Bachelors,2012.0,Bangalore,1.0,30.0,Female,No,0.0,0.0,12.0
+Bachelors,2014.0,New Delhi,4.5,27.0,Female,No,5.0,0.0,10.0
+Bachelors,2015.0,Pune,3.0,29.0,Female,No,3.0,1.0,9.0
+Masters,2017.0,Pune,2.0,30.0,Male,No,3.0,1.0,7.0
+Masters,2014.0,Pune,3.0,30.0,Male,No,0.0,1.0,10.0
+Bachelors,2013.0,Pune,3.0,29.0,Male,Yes,2.0,0.0,11.0
+Masters,2018.0,New Delhi,3.0,27.0,Male,Yes,5.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,26.0,Female,Yes,4.0,1.0,7.0
+Bachelors,2012.0,Bangalore,3.0,30.0,Female,No,0.0,1.0,12.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Female,No,4.0,22.20752687821201,12.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,No,1.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,Yes,4.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,29.0,Male,No,5.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,No,0.0,0.0,10.0
+Masters,2013.0,Bangalore,3.0,30.0,Male,No,5.0,1.0,11.0
+Bachelors,2017.0,New Delhi,3.0,30.0,Female,No,3.0,0.0,7.0
+Phd,2015.0,Pune,2.0,30.0,Female,No,4.0,0.0,9.0
+Masters,2014.0,Bangalore,3.0,30.0,Male,No,4.0,1.0,10.0
+Bachelors,2013.0,Pune,3.0,30.0,Male,No,0.0,0.0,11.0
+Masters,2017.0,Pune,2.0,47.0,Male,No,0.0,0.0,7.0
+Masters,2017.0,New Delhi,2.0,29.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,1.0,27.0,Male,No,5.0,1.0,10.0
+Masters,2018.0,New Delhi,3.0,30.0,Female,No,4.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Female,No,3.0,0.0,9.0
+Bachelors,2014.0,Pune,3.0,26.0,Female,No,4.0,1.0,10.0
+Masters,2021.5,Pune,3.0,28.0,Male,No,2.0,0.0,2.5
+Bachelors,2015.0,New Delhi,3.0,28.0,Female,No,4.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,0.0,0.0,9.0
+Masters,2013.0,Bangalore,3.0,27.0,Female,Yes,5.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Male,No,5.0,1.0,8.0
+Bachelors,2015.0,Pune,3.0,29.0,Male,No,1.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,28.0,Male,No,0.0,1.0,9.0
+Bachelors,2018.0,Pune,3.0,30.0,Male,Yes,3.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Male,No,5.0,0.0,8.0
+Masters,2013.0,New Delhi,3.0,27.0,Female,No,7.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,30.0,Male,No,2.0,1.0,8.0
+Bachelors,2017.0,New Delhi,3.0,29.0,Male,No,3.0,1.0,7.0
+Bachelors,2017.0,Pune,2.0,28.0,Male,No,3.0,22.20752687821201,7.0
+Bachelors,2013.0,Bangalore,3.0,29.0,Male,Yes,4.0,0.0,11.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Male,No,5.0,22.20752687821201,11.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Male,Yes,2.0,1.0,12.0
+Masters,2015.0,Bangalore,3.0,28.0,Male,No,0.0,1.0,9.0
+Masters,2015.0,Pune,3.0,15.0,Female,No,4.0,0.0,9.0
+Bachelors,2013.0,Pune,3.0,28.0,Female,No,5.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,9.0
+Bachelors,2017.0,None,4.5,28.0,Female,No,0.0,1.0,7.0
+Bachelors,2013.0,Bangalore,4.5,28.0,Male,No,5.0,0.0,11.0
+Masters,2013.0,New Delhi,3.0,30.0,Male,No,2.0,1.0,11.0
+Masters,2013.0,New Delhi,1.0,29.0,Female,No,2.0,1.0,11.0
+Bachelors,2013.0,Bangalore,3.0,29.0,Male,No,2.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,30.0,Female,No,7.0,0.0,7.0
+Phd,2013.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,11.0
+Bachelors,2021.5,Pune,3.0,26.0,Male,No,7.0,0.0,2.5
+Bachelors,2017.0,New Delhi,2.0,26.0,Female,No,4.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Female,No,1.0,1.0,8.0
+Bachelors,2017.0,Bangalore,3.0,27.0,Male,Yes,3.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,30.0,Female,No,0.0,1.0,9.0
+Bachelors,2015.0,Bangalore,4.5,30.0,Male,No,3.0,0.0,9.0
+Phd,2012.0,New Delhi,3.0,29.0,Male,No,5.0,0.0,12.0
+Bachelors,2016.0,Pune,3.0,29.0,Male,No,5.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,26.0,Female,Yes,4.0,0.0,10.0
+Phd,2014.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,10.0
+Bachelors,2013.0,New Delhi,3.0,27.0,Male,Yes,3.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,29.0,Male,No,0.0,1.0,6.0
+Bachelors,2016.0,Bangalore,4.5,29.0,Male,No,3.0,0.0,8.0
+Bachelors,2018.0,Pune,3.0,47.0,Female,No,2.0,1.0,6.0
+Bachelors,2014.0,Pune,3.0,29.0,Male,No,3.0,0.0,10.0
+Bachelors,2013.0,Pune,3.0,30.0,Male,No,4.0,0.0,11.0
+Bachelors,2015.0,New Delhi,3.0,29.0,Male,No,2.0,0.0,9.0
+Bachelors,2018.0,Pune,3.0,27.0,Male,No,5.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,47.0,Male,No,1.0,0.0,9.0
+Bachelors,2015.0,Bangalore,4.5,28.0,Female,No,1.0,0.0,9.0
+Bachelors,2014.0,Pune,2.0,29.0,Female,No,3.0,1.0,10.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Male,Yes,3.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,28.0,Male,No,5.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,No,4.0,0.0,9.0
+Bachelors,2012.0,New Delhi,3.0,15.0,Male,No,5.0,0.0,12.0
+Masters,2015.0,New Delhi,3.0,47.0,Female,Yes,2.0,0.0,9.0
+Bachelors,2018.0,New Delhi,3.0,29.0,Female,No,2.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Female,No,0.0,0.0,12.0
+Bachelors,2015.0,Bangalore,2.0,28.0,Female,No,0.0,1.0,9.0
+Bachelors,2018.0,Pune,3.0,28.0,Female,No,5.0,0.0,6.0
+Bachelors,2014.0,Bangalore,1.0,26.0,Male,No,7.0,1.0,10.0
+Bachelors,2014.0,New Delhi,2.0,29.0,Female,No,3.0,1.0,10.0
+Masters,2014.0,Pune,3.0,26.0,Male,No,7.0,1.0,10.0
+Bachelors,2013.0,Pune,3.0,30.0,Male,No,4.0,1.0,11.0
+Bachelors,2021.5,Bangalore,3.0,15.0,Male,No,3.0,0.0,2.5
+Bachelors,2012.0,Bangalore,3.0,29.0,Male,No,2.0,1.0,12.0
+Masters,2017.0,New Delhi,3.0,30.0,Female,No,2.0,1.0,7.0
+Bachelors,2012.0,Pune,3.0,29.0,Male,No,0.0,0.0,12.0
+Bachelors,2015.0,Pune,1.0,47.0,Female,No,0.0,1.0,9.0
+Bachelors,2017.0,Pune,2.0,30.0,Male,No,4.0,1.0,7.0
+Bachelors,2017.0,Pune,2.0,28.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,10.0
+Bachelors,2012.0,Bangalore,3.0,27.0,Female,No,5.0,1.0,12.0
+Bachelors,2017.0,Pune,2.0,28.0,Female,No,3.0,1.0,7.0
+Bachelors,2015.0,Bangalore,1.0,29.0,Male,No,4.0,0.0,9.0
+Bachelors,2013.0,Bangalore,2.0,30.0,Male,No,0.0,1.0,11.0
+Phd,2015.0,Bangalore,3.0,28.0,Male,No,7.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Female,No,3.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Male,No,5.0,0.0,12.0
+Bachelors,2014.0,Pune,3.0,47.0,Male,No,1.0,0.0,10.0
+Bachelors,2021.5,New Delhi,3.0,27.0,Female,No,3.0,0.0,2.5
+Bachelors,2017.0,Pune,3.0,30.0,Male,No,5.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,30.0,Female,Yes,3.0,0.0,12.0
+Bachelors,2013.0,Pune,2.0,30.0,Male,No,1.0,1.0,11.0
+Phd,2015.0,New Delhi,3.0,27.0,Female,No,5.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,29.0,Male,No,1.0,0.0,7.0
+Masters,2012.0,Pune,3.0,29.0,Male,No,4.0,1.0,12.0
+Bachelors,2017.0,Pune,2.0,26.0,None,No,4.0,22.20752687821201,7.0
+Bachelors,2014.0,New Delhi,3.0,29.0,Male,No,4.0,0.0,10.0
+Masters,2013.0,New Delhi,2.0,26.0,Male,No,4.0,22.20752687821201,11.0
+Bachelors,2013.0,New Delhi,3.0,47.0,Female,No,2.0,0.0,11.0
+Bachelors,2016.0,Bangalore,2.0,30.0,Female,No,4.0,1.0,8.0
+Bachelors,2017.0,New Delhi,3.0,29.0,Female,No,0.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,No,3.0,0.0,10.0
+Bachelors,2013.0,Bangalore,2.0,27.0,Female,No,5.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,No,7.0,0.0,9.0
+Masters,2017.0,Bangalore,2.0,30.0,Male,No,3.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,29.0,Male,No,4.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,27.0,Male,No,7.0,1.0,7.0
+Bachelors,2016.0,Pune,3.0,30.0,Male,No,0.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Female,No,0.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,15.0,Female,Yes,5.0,1.0,9.0
+Bachelors,2015.0,New Delhi,3.0,29.0,Male,No,1.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,30.0,Male,No,4.0,0.0,7.0
+Phd,2017.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,7.0
+Phd,2013.0,Bangalore,3.0,27.0,Male,No,5.0,0.0,11.0
+Masters,2017.0,Pune,3.0,29.0,Female,Yes,2.0,1.0,7.0
+Masters,2021.5,Pune,3.0,26.0,Male,No,4.0,1.0,2.5
+Bachelors,2012.0,New Delhi,1.0,27.0,Female,No,5.0,1.0,12.0
+Masters,2017.0,Pune,2.0,27.0,Male,Yes,5.0,1.0,7.0
+Bachelors,2015.0,Pune,1.0,28.0,Female,No,0.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,No,4.0,1.0,10.0
+Bachelors,2017.0,New Delhi,3.0,29.0,Female,No,3.0,0.0,7.0
+Phd,2015.0,Pune,2.0,26.0,Female,No,4.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,30.0,Female,No,5.0,22.20752687821201,7.0
+Masters,2013.0,Pune,3.0,26.0,Male,No,4.0,1.0,11.0
+Bachelors,2012.0,Pune,2.0,29.0,Female,No,2.0,1.0,12.0
+Bachelors,2018.0,Bangalore,3.0,30.0,Male,Yes,2.0,0.0,6.0
+Bachelors,2018.0,Bangalore,2.0,28.0,Female,No,3.0,0.0,6.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,0.0,1.0,12.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,Yes,2.0,0.0,8.0
+Bachelors,2018.0,Pune,3.0,29.0,Male,Yes,3.0,1.0,6.0
+Bachelors,2014.0,New Delhi,3.0,29.0,Male,Yes,4.0,0.0,10.0
+Masters,2018.0,Bangalore,3.0,27.0,Male,Yes,5.0,1.0,6.0
+Bachelors,2017.0,Pune,3.0,29.0,Female,No,0.0,1.0,7.0
+Bachelors,2012.0,Bangalore,4.5,26.0,Female,No,4.0,0.0,12.0
+Bachelors,2015.0,New Delhi,2.0,26.0,Female,No,4.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,29.0,Male,No,2.0,1.0,6.0
+Masters,2013.0,Bangalore,3.0,30.0,Male,No,2.0,1.0,11.0
+None,2021.5,Bangalore,1.0,30.0,Male,No,3.0,0.0,2.5
+Bachelors,2015.0,New Delhi,3.0,30.0,Female,Yes,1.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Male,No,0.0,0.0,11.0
+Bachelors,2021.5,Pune,3.0,30.0,Female,No,1.0,1.0,2.5
+Phd,2018.0,None,3.0,30.0,Male,No,2.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,29.0,Male,Yes,1.0,1.0,6.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Male,Yes,0.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,47.0,Male,No,5.0,1.0,7.0
+Bachelors,2013.0,Pune,3.0,28.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,30.0,Female,No,1.0,1.0,9.0
+Masters,2012.0,Pune,3.0,27.0,Male,Yes,5.0,1.0,12.0
+Masters,2013.0,Bangalore,3.0,15.0,Male,No,3.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Male,No,7.0,1.0,8.0
+Masters,2018.0,New Delhi,3.0,30.0,Male,No,2.0,1.0,6.0
+Bachelors,2014.0,Pune,3.0,27.0,Female,No,5.0,1.0,10.0
+Bachelors,2017.0,Pune,3.0,29.0,Male,No,0.0,22.20752687821201,7.0
+Masters,2016.0,New Delhi,3.0,30.0,Male,No,2.0,0.0,8.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,3.0,1.0,7.0
+Bachelors,2013.0,Pune,2.0,30.0,Female,No,1.0,1.0,11.0
+Masters,2014.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,10.0
+Bachelors,2017.0,Bangalore,1.0,30.0,Male,No,2.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,Yes,3.0,0.0,8.0
+Bachelors,2013.0,Pune,1.0,30.0,Female,Yes,1.0,1.0,11.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Female,No,5.0,0.0,11.0
+Masters,2012.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,12.0
+Bachelors,2013.0,Pune,2.0,26.0,Male,Yes,4.0,22.20752687821201,11.0
+Phd,2021.5,Bangalore,2.0,30.0,Female,No,4.0,1.0,2.5
+Bachelors,2017.0,Bangalore,3.0,29.0,Male,No,3.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,1.0,22.20752687821201,11.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,Yes,2.0,0.0,12.0
+Masters,2017.0,New Delhi,1.0,47.0,Male,No,2.0,0.0,7.0
+Masters,2013.0,Bangalore,1.0,29.0,Female,No,2.0,0.0,11.0
+Bachelors,2012.0,Pune,3.0,29.0,Male,No,5.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,No,4.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,No,3.0,1.0,10.0
+Bachelors,2018.0,Bangalore,4.5,28.0,Male,No,0.0,1.0,6.0
+Bachelors,2017.0,New Delhi,2.0,15.0,Male,No,4.0,0.0,7.0
+Bachelors,2021.5,Bangalore,3.0,28.0,Male,No,5.0,0.0,2.5
+Bachelors,2021.5,Bangalore,3.0,28.0,Male,No,0.0,0.0,2.5
+Bachelors,2017.0,New Delhi,2.0,47.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Bangalore,2.0,29.0,Female,No,4.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,29.0,Male,No,5.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,30.0,Male,Yes,3.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,No,5.0,1.0,6.0
+Bachelors,2017.0,New Delhi,3.0,30.0,Male,No,5.0,22.20752687821201,7.0
+Bachelors,2014.0,Bangalore,3.0,30.0,Male,No,0.0,0.0,10.0
+Bachelors,2014.0,New Delhi,3.0,30.0,Female,No,7.0,0.0,10.0
+Bachelors,2015.0,New Delhi,3.0,29.0,Female,No,5.0,0.0,9.0
+Bachelors,2017.0,Pune,2.0,29.0,Female,No,4.0,1.0,7.0
+Masters,2016.0,Pune,3.0,29.0,Male,No,4.0,1.0,8.0
+Masters,2012.0,New Delhi,3.0,29.0,Male,No,2.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,No,3.0,0.0,11.0
+Bachelors,2013.0,New Delhi,3.0,30.0,Female,No,3.0,1.0,11.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Female,No,7.0,0.0,11.0
+Bachelors,2015.0,New Delhi,2.0,28.0,Male,No,5.0,0.0,9.0
+Phd,2018.0,Bangalore,4.5,27.0,Male,No,5.0,1.0,6.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Female,No,1.0,0.0,11.0
+Masters,2013.0,New Delhi,3.0,30.0,Male,No,0.0,0.0,11.0
+Masters,2018.0,New Delhi,3.0,26.0,Female,No,4.0,1.0,6.0
+Masters,2015.0,New Delhi,3.0,30.0,Male,No,2.0,22.20752687821201,9.0
+Bachelors,2012.0,Bangalore,3.0,29.0,Male,No,4.0,0.0,12.0
+Masters,2017.0,Pune,2.0,28.0,Male,No,5.0,0.0,7.0
+Bachelors,2016.0,Pune,2.0,29.0,Male,No,3.0,1.0,8.0
+Bachelors,2015.0,Pune,2.0,27.0,Male,Yes,5.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,No,4.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Female,No,0.0,0.0,12.0
+Masters,2017.0,Pune,2.0,28.0,Male,No,2.0,0.0,7.0
+Masters,2015.0,Pune,2.0,27.0,Female,No,5.0,22.20752687821201,9.0
+Bachelors,2013.0,Bangalore,4.5,26.0,Female,No,4.0,0.0,11.0
+Bachelors,2014.0,Pune,3.0,29.0,Female,No,4.0,1.0,10.0
+Masters,2016.0,New Delhi,3.0,30.0,Male,No,3.0,0.0,8.0
+Bachelors,2017.0,Pune,3.0,30.0,Male,No,0.0,0.0,7.0
+Bachelors,2021.5,New Delhi,2.0,30.0,Male,No,4.0,0.0,2.5
+Bachelors,2017.0,New Delhi,2.0,28.0,Female,No,4.0,0.0,7.0
+None,2016.0,Bangalore,3.0,30.0,Female,No,5.0,0.0,8.0
+Bachelors,2017.0,Pune,2.0,29.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,30.0,Male,No,1.0,1.0,7.0
+Masters,2017.0,New Delhi,2.0,26.0,Female,Yes,3.0,1.0,7.0
+Bachelors,2016.0,Pune,2.0,30.0,Female,No,1.0,1.0,8.0
+Masters,2014.0,New Delhi,3.0,15.0,Male,No,0.0,0.0,10.0
+Masters,2015.0,Pune,2.0,30.0,Female,No,1.0,0.0,9.0
+Masters,2017.0,New Delhi,3.0,27.0,Female,No,3.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,28.0,Male,No,1.0,1.0,8.0
+Bachelors,2021.5,Bangalore,4.5,30.0,Male,No,1.0,0.0,2.5
+Bachelors,2018.0,Bangalore,3.0,29.0,Male,No,3.0,1.0,6.0
+Masters,2018.0,Pune,3.0,29.0,Male,No,2.0,1.0,6.0
+Bachelors,2016.0,Bangalore,4.5,47.0,Female,No,5.0,0.0,8.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Male,No,2.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Female,No,0.0,1.0,8.0
+Bachelors,2016.0,New Delhi,1.0,29.0,Female,No,1.0,0.0,8.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,0.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Male,Yes,5.0,22.20752687821201,11.0
+Bachelors,2021.5,Bangalore,3.0,29.0,Female,No,3.0,1.0,2.5
+Masters,2017.0,New Delhi,2.0,15.0,Male,No,2.0,0.0,7.0
+Masters,2016.0,New Delhi,3.0,29.0,Female,No,1.0,1.0,8.0
+Bachelors,2017.0,New Delhi,2.0,29.0,Female,No,5.0,0.0,7.0
+Bachelors,2017.0,Bangalore,4.5,30.0,Male,No,0.0,0.0,7.0
+Bachelors,2013.0,New Delhi,3.0,28.0,Female,No,1.0,0.0,11.0
+Bachelors,2012.0,New Delhi,3.0,28.0,Female,No,0.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,29.0,Male,No,7.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,No,5.0,0.0,6.0
+Masters,2017.0,New Delhi,2.0,26.0,Male,No,7.0,1.0,7.0
+Bachelors,2013.0,Pune,2.0,29.0,Female,No,0.0,1.0,11.0
+Bachelors,2013.0,Pune,2.0,28.0,Female,No,4.0,1.0,11.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,7.0,1.0,9.0
+Bachelors,2021.5,Bangalore,3.0,29.0,Female,No,3.0,0.0,2.5
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,No,5.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,29.0,Male,No,3.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,27.0,Female,Yes,5.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,26.0,Male,No,4.0,22.20752687821201,8.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,No,0.0,1.0,9.0
+Bachelors,2017.0,Bangalore,1.0,29.0,Female,No,5.0,0.0,7.0
+Masters,2017.0,Bangalore,2.0,27.0,Male,No,5.0,1.0,7.0
+Masters,2014.0,New Delhi,4.5,28.0,Female,No,2.0,0.0,10.0
+Bachelors,2012.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,12.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,0.0,0.0,12.0
+Masters,2021.5,Pune,2.0,27.0,Male,No,5.0,0.0,2.5
+Bachelors,2013.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,11.0
+Bachelors,2013.0,Bangalore,2.0,26.0,Female,No,4.0,1.0,11.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Female,No,3.0,0.0,12.0
+Bachelors,2013.0,Pune,2.0,30.0,Female,No,5.0,1.0,11.0
+Masters,2015.0,Pune,3.0,26.0,Male,No,4.0,1.0,9.0
+Masters,2017.0,Bangalore,2.0,26.0,Male,No,7.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,0.0,22.20752687821201,11.0
+Bachelors,2017.0,Bangalore,3.0,15.0,Male,No,0.0,1.0,7.0
+Phd,2015.0,New Delhi,3.0,29.0,Male,No,4.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,26.0,Male,No,7.0,0.0,7.0
+Bachelors,2014.0,Bangalore,1.0,28.0,Female,No,5.0,0.0,10.0
+Bachelors,2014.0,Pune,3.0,30.0,Male,No,0.0,0.0,10.0
+Masters,2012.0,Bangalore,3.0,26.0,Female,No,4.0,1.0,12.0
+Bachelors,2013.0,New Delhi,2.0,26.0,Female,No,4.0,1.0,11.0
+Bachelors,2015.0,New Delhi,3.0,29.0,Female,No,0.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,28.0,Female,No,2.0,1.0,9.0
+Phd,2015.0,New Delhi,2.0,28.0,Female,No,5.0,0.0,9.0
+Masters,2021.5,Pune,1.0,30.0,Male,No,1.0,0.0,2.5
+Bachelors,2012.0,Pune,3.0,26.0,Male,No,7.0,0.0,12.0
+Phd,2013.0,New Delhi,3.0,30.0,Male,No,5.0,0.0,11.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Male,No,0.0,0.0,11.0
+Masters,2014.0,New Delhi,3.0,26.0,Male,Yes,4.0,1.0,10.0
+Bachelors,2015.0,Pune,3.0,29.0,Male,No,0.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,36.0,Male,No,2.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,37.0,Male,No,4.0,1.0,6.0
+Bachelors,2015.0,Pune,3.0,35.0,Female,No,0.0,1.0,9.0
+Bachelors,2013.0,Pune,2.0,32.0,Female,No,4.0,1.0,11.0
+Bachelors,2013.0,Pune,1.0,39.0,Female,No,0.0,1.0,11.0
+Bachelors,2021.5,Pune,3.0,32.0,Male,No,1.0,1.0,2.5
+Bachelors,2012.0,New Delhi,3.0,37.0,Female,No,5.0,0.0,12.0
+Bachelors,2012.0,Pune,3.0,31.0,Male,No,4.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,31.0,Male,No,1.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,33.0,Male,No,3.0,0.0,7.0
+Masters,2017.0,Pune,2.0,37.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,31.0,Male,Yes,3.0,0.0,10.0
+Masters,2017.0,Bangalore,4.5,40.0,Female,No,4.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,15.0,Male,No,0.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,41.0,Male,No,0.0,0.0,8.0
+Bachelors,2018.0,Bangalore,3.0,35.0,Female,Yes,5.0,1.0,6.0
+Bachelors,2021.5,Pune,3.0,34.0,Male,No,3.0,0.0,2.5
+Bachelors,2017.0,Bangalore,3.0,31.0,Male,No,0.0,0.0,7.0
+Masters,2017.0,Bangalore,3.0,41.0,Female,No,2.0,1.0,7.0
+Bachelors,2021.5,Pune,3.0,41.0,Male,No,5.0,0.0,2.5
+Bachelors,2016.0,Bangalore,3.0,37.0,Female,No,0.0,0.0,8.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Female,No,3.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,37.0,Male,Yes,3.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Male,No,1.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,36.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,No,3.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,No,5.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,41.0,Male,Yes,3.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,39.0,Male,No,3.0,0.0,9.0
+Bachelors,2013.0,Pune,3.0,37.0,Male,No,0.0,0.0,11.0
+Bachelors,2013.0,Bangalore,3.0,32.0,Male,No,1.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Male,No,2.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,36.0,Male,No,4.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,36.0,Male,No,7.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2018.0,Bangalore,4.5,34.0,Male,No,3.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,37.0,Male,Yes,5.0,1.0,6.0
+Bachelors,2018.0,Pune,3.0,40.0,Male,Yes,3.0,1.0,6.0
+Bachelors,2015.0,Pune,2.0,36.0,Female,No,3.0,1.0,9.0
+Bachelors,2017.0,Pune,2.0,38.0,Female,No,0.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,31.0,Female,No,0.0,1.0,7.0
+Bachelors,2013.0,New Delhi,3.0,41.0,Female,No,4.0,0.0,11.0
+None,2012.0,Bangalore,3.0,32.0,None,No,3.0,1.0,12.0
+Bachelors,2017.0,New Delhi,2.0,41.0,Female,No,3.0,0.0,7.0
+Bachelors,2013.0,Pune,3.0,40.0,Male,No,5.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Female,No,2.0,1.0,10.0
+Masters,2017.0,New Delhi,3.0,36.0,Male,No,5.0,22.20752687821201,7.0
+Bachelors,2014.0,Bangalore,3.0,15.0,Male,Yes,0.0,0.0,10.0
+Bachelors,2013.0,Bangalore,3.0,39.0,Male,No,0.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,33.0,Male,No,4.0,0.0,10.0
+Bachelors,2017.0,Pune,3.0,32.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Female,No,2.0,1.0,10.0
+Bachelors,2018.0,Pune,2.0,39.0,Female,No,0.0,1.0,6.0
+Bachelors,2021.5,Bangalore,3.0,37.0,Female,No,5.0,22.20752687821201,2.5
+Masters,2017.0,New Delhi,2.0,35.0,Female,No,2.0,22.20752687821201,7.0
+Bachelors,2021.5,Bangalore,3.0,36.0,Male,No,5.0,0.0,2.5
+Masters,2013.0,New Delhi,3.0,41.0,Male,No,0.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,33.0,Male,No,7.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,2.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,34.0,Male,No,1.0,0.0,12.0
+Bachelors,2015.0,Pune,3.0,35.0,Male,Yes,5.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Female,No,2.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,41.0,Male,No,3.0,0.0,12.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,Yes,2.0,1.0,6.0
+Masters,2015.0,Pune,2.0,35.0,Female,No,1.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,33.0,Male,No,2.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Male,No,3.0,0.0,9.0
+Masters,2021.5,Bangalore,2.0,35.0,Male,Yes,2.0,0.0,2.5
+Bachelors,2017.0,Bangalore,2.0,31.0,Female,No,0.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,47.0,Male,Yes,4.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,28.0,Female,Yes,5.0,0.0,11.0
+Bachelors,2016.0,New Delhi,3.0,31.0,Female,No,4.0,0.0,8.0
+Bachelors,2016.0,Pune,3.0,33.0,Male,No,3.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,32.0,Male,No,5.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,31.0,Male,No,4.0,1.0,7.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Male,No,1.0,1.0,8.0
+Bachelors,2014.0,Bangalore,3.0,40.0,Female,No,4.0,22.20752687821201,10.0
+Bachelors,2016.0,Bangalore,3.0,39.0,Male,No,0.0,1.0,8.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,32.0,Male,No,1.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,34.0,Male,No,5.0,1.0,9.0
+Bachelors,2017.0,Bangalore,4.5,40.0,Female,No,4.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,28.0,Male,No,4.0,1.0,7.0
+Bachelors,2015.0,Pune,2.0,36.0,Female,No,0.0,22.20752687821201,9.0
+Masters,2018.0,Bangalore,3.0,39.0,Male,No,3.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,37.0,Female,No,5.0,1.0,12.0
+Bachelors,2018.0,Bangalore,3.0,36.0,Male,No,1.0,1.0,6.0
+Bachelors,2017.0,New Delhi,2.0,39.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,35.0,Male,Yes,4.0,1.0,9.0
+Masters,2015.0,New Delhi,3.0,41.0,Male,No,2.0,1.0,9.0
+Bachelors,2015.0,Bangalore,2.0,36.0,Female,Yes,0.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,15.0,Male,No,1.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,37.0,Male,No,2.0,1.0,7.0
+Bachelors,2015.0,Pune,2.0,39.0,Female,No,4.0,1.0,9.0
+Bachelors,2012.0,Pune,3.0,34.0,Male,No,2.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,15.0,Female,No,1.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Female,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,39.0,Female,No,1.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,39.0,Female,No,1.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,41.0,Female,No,3.0,1.0,9.0
+Bachelors,2012.0,Pune,3.0,40.0,Male,No,3.0,0.0,12.0
+Bachelors,2012.0,Bangalore,1.0,36.0,Male,No,3.0,0.0,12.0
+Bachelors,2017.0,New Delhi,2.0,33.0,Female,No,2.0,0.0,7.0
+Masters,2014.0,New Delhi,3.0,33.0,Male,No,2.0,0.0,10.0
+Masters,2018.0,New Delhi,3.0,40.0,Male,No,2.0,1.0,6.0
+Bachelors,2015.0,Pune,2.0,34.0,Female,No,2.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,33.0,Female,No,1.0,0.0,10.0
+Masters,2015.0,New Delhi,1.0,34.0,Male,No,5.0,1.0,9.0
+Masters,2015.0,New Delhi,1.0,40.0,Male,No,5.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,32.0,Male,No,4.0,0.0,10.0
+Bachelors,2017.0,New Delhi,3.0,38.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,4.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Male,No,2.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Female,Yes,3.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Female,No,0.0,0.0,9.0
+Masters,2017.0,Pune,3.0,41.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,35.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2016.0,Pune,3.0,39.0,Male,No,5.0,22.20752687821201,8.0
+Bachelors,2014.0,Bangalore,3.0,40.0,Female,No,0.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,41.0,Male,No,1.0,0.0,8.0
+Masters,2015.0,Pune,2.0,34.0,Female,No,1.0,0.0,9.0
+Bachelors,2016.0,Pune,2.0,37.0,Male,No,5.0,1.0,8.0
+Bachelors,2017.0,New Delhi,2.0,36.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,37.0,Male,No,1.0,0.0,9.0
+Masters,2015.0,Pune,1.0,40.0,Female,No,1.0,0.0,9.0
+Bachelors,2018.0,New Delhi,3.0,39.0,Female,Yes,0.0,1.0,6.0
+Bachelors,2017.0,New Delhi,2.0,36.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,Bangalore,2.0,32.0,Female,No,7.0,1.0,9.0
+Phd,2015.0,Pune,3.0,31.0,Male,No,1.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,31.0,Male,No,4.0,0.0,12.0
+Bachelors,2013.0,New Delhi,3.0,36.0,Female,No,5.0,22.20752687821201,11.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,No,3.0,0.0,10.0
+Masters,2013.0,New Delhi,2.0,33.0,Female,No,2.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,Yes,1.0,0.0,10.0
+Bachelors,2015.0,Pune,3.0,35.0,Female,No,1.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,38.0,Female,No,4.0,0.0,11.0
+Masters,2017.0,Bangalore,3.0,39.0,Female,No,4.0,1.0,7.0
+Bachelors,2021.5,Pune,2.0,35.0,Male,No,7.0,1.0,2.5
+Bachelors,2016.0,Pune,3.0,31.0,Male,No,1.0,0.0,8.0
+Bachelors,2021.5,New Delhi,2.0,32.0,Female,No,4.0,1.0,2.5
+Bachelors,2016.0,New Delhi,3.0,34.0,Male,No,1.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,Yes,3.0,0.0,10.0
+Masters,2014.0,New Delhi,3.0,36.0,Male,No,1.0,1.0,10.0
+Masters,2017.0,Bangalore,2.0,41.0,Male,No,4.0,0.0,7.0
+Masters,2015.0,Pune,2.0,39.0,Female,No,3.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,38.0,Male,No,5.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,37.0,Male,No,4.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Male,No,5.0,0.0,9.0
+Bachelors,2014.0,Bangalore,1.0,39.0,Male,No,5.0,0.0,10.0
+Masters,2017.0,New Delhi,2.0,38.0,Female,No,2.0,1.0,7.0
+Masters,2017.0,New Delhi,3.0,33.0,Male,No,5.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,33.0,Female,No,5.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Male,No,4.0,0.0,12.0
+Bachelors,2016.0,Pune,2.0,32.0,Female,No,0.0,1.0,8.0
+Bachelors,2012.0,Bangalore,3.0,33.0,Female,No,0.0,0.0,12.0
+Masters,2013.0,None,3.0,37.0,Male,No,2.0,0.0,11.0
+Masters,2015.0,New Delhi,4.5,37.0,Male,No,2.0,1.0,9.0
+Bachelors,2013.0,New Delhi,3.0,37.0,Male,No,2.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Male,Yes,1.0,0.0,7.0
+Masters,2016.0,New Delhi,3.0,32.0,Male,No,1.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,36.0,Female,No,5.0,1.0,8.0
+Bachelors,2014.0,Bangalore,3.0,36.0,Male,No,4.0,0.0,10.0
+Masters,2017.0,New Delhi,3.0,31.0,Male,No,3.0,1.0,7.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,Yes,4.0,0.0,9.0
+Masters,2017.0,New Delhi,3.0,38.0,Male,No,2.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Male,No,2.0,0.0,12.0
+Bachelors,2014.0,Bangalore,1.0,37.0,Male,No,7.0,0.0,10.0
+Bachelors,2015.0,Pune,2.0,36.0,Female,No,1.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,35.0,Male,No,2.0,1.0,11.0
+None,2013.0,Pune,3.0,40.0,Female,No,5.0,1.0,11.0
+Bachelors,2014.0,Pune,4.5,40.0,Male,No,5.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Female,No,3.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,41.0,Female,No,5.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Male,No,4.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,41.0,Male,No,7.0,0.0,9.0
+Bachelors,2016.0,New Delhi,3.0,40.0,Female,No,1.0,1.0,8.0
+Bachelors,2017.0,Pune,3.0,40.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,34.0,Male,No,3.0,1.0,7.0
+Bachelors,2017.0,New Delhi,3.0,33.0,Female,No,2.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,41.0,Male,No,2.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Male,No,1.0,1.0,8.0
+Masters,2015.0,Bangalore,3.0,32.0,Female,No,2.0,1.0,9.0
+Bachelors,2017.0,Pune,3.0,34.0,Female,No,1.0,1.0,7.0
+Bachelors,2016.0,New Delhi,3.0,32.0,Male,No,4.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,32.0,Female,No,4.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Male,No,3.0,0.0,10.0
+Masters,2017.0,New Delhi,3.0,32.0,Male,No,1.0,1.0,7.0
+Bachelors,2015.0,New Delhi,3.0,40.0,Male,No,2.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,38.0,Female,No,1.0,1.0,7.0
+Bachelors,2017.0,Bangalore,3.0,37.0,Male,No,7.0,0.0,7.0
+Phd,2014.0,Bangalore,3.0,31.0,Male,No,1.0,0.0,10.0
+Bachelors,2014.0,Pune,3.0,34.0,Male,No,0.0,0.0,10.0
+Bachelors,2015.0,New Delhi,2.0,34.0,Female,No,2.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,37.0,Female,No,0.0,1.0,11.0
+Masters,2017.0,New Delhi,3.0,28.0,Male,No,1.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Male,No,5.0,0.0,7.0
+Phd,2015.0,New Delhi,3.0,34.0,Female,No,4.0,22.20752687821201,9.0
+Bachelors,2012.0,Bangalore,1.0,32.0,Male,No,1.0,1.0,12.0
+Bachelors,2017.0,Pune,3.0,47.0,Male,No,0.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Female,No,5.0,0.0,9.0
+Masters,2017.0,New Delhi,3.0,47.0,Female,No,2.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,34.0,Male,No,4.0,0.0,9.0
+Bachelors,2013.0,Bangalore,1.0,39.0,Female,No,1.0,1.0,11.0
+Phd,2013.0,Pune,3.0,35.0,Male,No,0.0,0.0,11.0
+Masters,2015.0,Pune,3.0,33.0,Male,No,4.0,1.0,9.0
+Masters,2014.0,Bangalore,3.0,35.0,Female,No,2.0,1.0,10.0
+Masters,2015.0,New Delhi,3.0,40.0,Male,No,2.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,32.0,Female,No,0.0,22.20752687821201,9.0
+Bachelors,2013.0,Bangalore,3.0,38.0,Male,No,1.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,32.0,Female,No,1.0,1.0,12.0
+Bachelors,2018.0,Bangalore,3.0,36.0,Male,No,3.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,35.0,Male,No,1.0,0.0,12.0
+Bachelors,2013.0,New Delhi,3.0,37.0,Male,No,0.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,35.0,Male,No,3.0,1.0,9.0
+Masters,2017.0,Bangalore,2.0,37.0,Male,No,1.0,0.0,7.0
+Masters,2017.0,Pune,2.0,39.0,Male,No,4.0,22.20752687821201,7.0
+Masters,2014.0,Pune,3.0,40.0,Male,No,3.0,1.0,10.0
+Bachelors,2012.0,Pune,2.0,41.0,Female,No,1.0,1.0,12.0
+Bachelors,2018.0,Pune,3.0,47.0,Male,Yes,0.0,1.0,6.0
+Masters,2015.0,Pune,2.0,39.0,Female,No,2.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Female,No,5.0,22.20752687821201,12.0
+Bachelors,2013.0,Bangalore,3.0,33.0,Male,No,3.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,36.0,Female,No,3.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,41.0,Male,No,5.0,0.0,7.0
+Phd,2012.0,New Delhi,3.0,40.0,Female,No,5.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Female,No,4.0,1.0,11.0
+Bachelors,2012.0,Bangalore,3.0,33.0,Male,No,1.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Male,Yes,2.0,0.0,9.0
+Masters,2014.0,Bangalore,2.0,28.0,Female,No,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,35.0,Male,No,0.0,0.0,9.0
+Masters,2012.0,New Delhi,3.0,38.0,Male,No,2.0,0.0,12.0
+Bachelors,2016.0,Bangalore,3.0,36.0,Female,No,0.0,0.0,8.0
+Bachelors,2014.0,Pune,2.0,36.0,Female,No,2.0,0.0,10.0
+Bachelors,2015.0,Bangalore,1.0,35.0,Male,No,5.0,0.0,9.0
+Bachelors,2017.0,Pune,2.0,34.0,Female,No,5.0,1.0,7.0
+Bachelors,2015.0,Pune,2.0,41.0,Female,No,3.0,1.0,9.0
+Bachelors,2016.0,Pune,3.0,32.0,Female,No,3.0,1.0,8.0
+Bachelors,2017.0,Pune,2.0,41.0,Female,No,2.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,36.0,Male,No,0.0,0.0,8.0
+Bachelors,2017.0,Pune,2.0,39.0,Male,No,3.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,Yes,2.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,No,3.0,1.0,10.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Female,No,5.0,0.0,12.0
+Bachelors,2017.0,Pune,3.0,36.0,Male,No,1.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,No,1.0,0.0,10.0
+Masters,2018.0,Bangalore,3.0,31.0,Male,No,7.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,15.0,Female,No,4.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,1.0,40.0,Male,No,7.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,33.0,Female,No,4.0,1.0,6.0
+Phd,2018.0,Bangalore,3.0,36.0,Female,No,7.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,40.0,Male,No,0.0,0.0,12.0
+Bachelors,2017.0,New Delhi,2.0,36.0,Male,No,0.0,0.0,7.0
+Masters,2015.0,New Delhi,3.0,38.0,Female,No,0.0,0.0,9.0
+Bachelors,2014.0,New Delhi,2.0,31.0,Female,No,4.0,1.0,10.0
+Bachelors,2016.0,Pune,3.0,47.0,Male,No,4.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,37.0,Female,No,4.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,38.0,Female,No,0.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,35.0,Female,No,2.0,0.0,7.0
+Phd,2018.0,New Delhi,3.0,35.0,Female,No,0.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Female,No,3.0,22.20752687821201,12.0
+Bachelors,2012.0,Pune,3.0,31.0,Female,No,5.0,0.0,12.0
+Masters,2021.5,New Delhi,3.0,33.0,Female,No,1.0,0.0,2.5
+Bachelors,2015.0,Pune,2.0,32.0,Female,No,1.0,1.0,9.0
+Bachelors,2021.5,Bangalore,1.0,39.0,Male,No,0.0,0.0,2.5
+Bachelors,2018.0,New Delhi,3.0,35.0,Female,No,2.0,1.0,6.0
+Bachelors,2014.0,New Delhi,3.0,38.0,Female,No,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Male,No,0.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,34.0,Female,No,2.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,41.0,Male,No,1.0,0.0,7.0
+Masters,2012.0,Bangalore,3.0,40.0,Female,No,5.0,0.0,12.0
+Bachelors,2012.0,Pune,2.0,32.0,Male,No,1.0,1.0,12.0
+Bachelors,2013.0,Bangalore,3.0,35.0,Male,No,0.0,0.0,11.0
+Phd,2021.5,New Delhi,1.0,47.0,Female,No,3.0,0.0,2.5
+Bachelors,2013.0,Bangalore,3.0,47.0,Female,No,4.0,0.0,11.0
+Bachelors,2018.0,Pune,4.5,35.0,Female,No,2.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,37.0,Female,No,4.0,0.0,7.0
+Bachelors,2012.0,Pune,3.0,36.0,Male,No,1.0,0.0,12.0
+Bachelors,2015.0,New Delhi,3.0,37.0,Male,No,4.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Male,No,5.0,0.0,10.0
+Bachelors,2017.0,New Delhi,2.0,39.0,Female,No,0.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,38.0,Male,No,2.0,1.0,6.0
+Bachelors,2013.0,Bangalore,3.0,37.0,Female,No,1.0,0.0,11.0
+Bachelors,2012.0,New Delhi,2.0,33.0,Female,No,0.0,1.0,12.0
+Phd,2014.0,Bangalore,3.0,38.0,Female,No,3.0,0.0,10.0
+Masters,2017.0,New Delhi,2.0,40.0,Male,No,2.0,1.0,7.0
+Bachelors,2012.0,Bangalore,4.5,41.0,Male,No,5.0,0.0,12.0
+Bachelors,2013.0,Bangalore,2.0,38.0,Female,No,1.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Male,No,5.0,1.0,10.0
+Bachelors,2018.0,Bangalore,3.0,35.0,Male,No,1.0,1.0,6.0
+Masters,2015.0,New Delhi,3.0,15.0,None,No,5.0,1.0,9.0
+Bachelors,2015.0,Bangalore,2.0,31.0,Female,No,1.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,33.0,Male,No,2.0,22.20752687821201,12.0
+Bachelors,2017.0,Bangalore,3.0,33.0,Male,No,2.0,0.0,7.0
+Bachelors,2013.0,Pune,3.0,32.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,40.0,Female,No,4.0,1.0,9.0
+Bachelors,2013.0,New Delhi,3.0,38.0,Female,No,4.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Male,Yes,2.0,0.0,8.0
+Bachelors,2016.0,Bangalore,1.0,39.0,Male,No,2.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Male,No,3.0,0.0,12.0
+Masters,2017.0,New Delhi,2.0,31.0,Female,No,2.0,1.0,7.0
+Bachelors,2017.0,Bangalore,4.5,35.0,Female,No,5.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Male,No,2.0,0.0,11.0
+Bachelors,2012.0,Pune,3.0,33.0,Male,No,1.0,0.0,12.0
+Bachelors,2015.0,Pune,2.0,37.0,Female,No,3.0,1.0,9.0
+Masters,2018.0,New Delhi,3.0,40.0,Female,No,2.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Male,No,0.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,31.0,Male,Yes,5.0,0.0,12.0
+Phd,2014.0,Bangalore,3.0,39.0,Male,No,1.0,0.0,10.0
+Bachelors,2016.0,New Delhi,4.5,40.0,Male,No,0.0,0.0,8.0
+None,2017.0,Pune,3.0,36.0,Female,No,0.0,1.0,7.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Female,No,3.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Male,No,0.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,35.0,Female,No,0.0,0.0,11.0
+Masters,2013.0,New Delhi,3.0,35.0,Male,No,2.0,0.0,11.0
+Bachelors,2013.0,Bangalore,3.0,35.0,Male,No,5.0,0.0,11.0
+Masters,2017.0,Bangalore,3.0,34.0,Female,No,4.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,41.0,Male,No,4.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,1.0,0.0,9.0
+Masters,2017.0,Pune,3.0,31.0,Male,No,3.0,1.0,7.0
+Masters,2014.0,New Delhi,3.0,33.0,Male,No,3.0,0.0,10.0
+Bachelors,2017.0,Pune,2.0,33.0,Female,No,2.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,39.0,Female,No,5.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,41.0,Male,No,1.0,1.0,8.0
+Bachelors,2017.0,Bangalore,3.0,32.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,39.0,Female,No,5.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,31.0,Male,No,1.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,40.0,Male,No,3.0,0.0,12.0
+Masters,2018.0,New Delhi,3.0,34.0,Male,No,7.0,1.0,6.0
+Bachelors,2018.0,New Delhi,3.0,37.0,Male,No,4.0,1.0,6.0
+Bachelors,2015.0,Bangalore,2.0,39.0,Female,No,0.0,1.0,9.0
+Bachelors,2014.0,Pune,3.0,37.0,Male,No,7.0,0.0,10.0
+Masters,2017.0,New Delhi,3.0,32.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,New Delhi,3.0,37.0,Male,No,3.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,36.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,40.0,Female,No,2.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,No,0.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,37.0,Male,No,7.0,1.0,12.0
+Bachelors,2017.0,Pune,3.0,40.0,Female,No,1.0,1.0,7.0
+Bachelors,2017.0,Bangalore,3.0,34.0,Female,Yes,0.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,37.0,Male,No,3.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,37.0,Female,No,2.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,35.0,Female,No,2.0,0.0,12.0
+Bachelors,2014.0,Bangalore,3.0,31.0,Male,No,0.0,1.0,10.0
+Bachelors,2016.0,Bangalore,3.0,41.0,Male,No,7.0,0.0,8.0
+Masters,2017.0,New Delhi,4.5,37.0,Female,No,3.0,0.0,7.0
+Bachelors,2018.0,Pune,3.0,40.0,Male,No,0.0,1.0,6.0
+Bachelors,2018.0,Bangalore,1.0,36.0,Male,No,1.0,0.0,6.0
+Phd,2015.0,New Delhi,3.0,37.0,Female,No,2.0,1.0,9.0
+Bachelors,2021.5,Bangalore,3.0,34.0,Male,No,3.0,0.0,2.5
+Bachelors,2015.0,Pune,3.0,37.0,Male,No,5.0,1.0,9.0
+Bachelors,2016.0,Pune,3.0,38.0,Male,No,0.0,0.0,8.0
+Bachelors,2017.0,Bangalore,2.0,37.0,Male,No,3.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,32.0,Male,No,1.0,1.0,8.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Male,No,3.0,0.0,8.0
+Bachelors,2013.0,Bangalore,4.5,40.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Female,No,4.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Male,No,1.0,0.0,9.0
+Masters,2017.0,Pune,2.0,36.0,Male,No,2.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,38.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,37.0,Female,No,5.0,1.0,10.0
+Bachelors,2014.0,Pune,3.0,34.0,Female,No,2.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,41.0,Male,Yes,2.0,1.0,11.0
+Bachelors,2015.0,Pune,2.0,32.0,Female,No,3.0,1.0,9.0
+Bachelors,2015.0,Pune,3.0,34.0,Male,No,5.0,0.0,9.0
+Phd,2013.0,Bangalore,4.5,39.0,Male,No,2.0,1.0,11.0
+Masters,2013.0,New Delhi,2.0,32.0,Male,No,2.0,1.0,11.0
+Bachelors,2012.0,Bangalore,3.0,31.0,Female,No,3.0,0.0,12.0
+Phd,2016.0,New Delhi,3.0,15.0,Male,No,3.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,37.0,Female,No,0.0,0.0,9.0
+Masters,2017.0,New Delhi,3.0,40.0,Female,No,0.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Male,No,1.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,32.0,Male,No,2.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,34.0,Female,Yes,1.0,0.0,7.0
+Masters,2013.0,Pune,2.0,41.0,Male,No,7.0,1.0,11.0
+Masters,2015.0,New Delhi,3.0,37.0,Male,No,2.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Female,No,1.0,0.0,9.0
+Masters,2017.0,Pune,2.0,35.0,Male,No,2.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Male,No,3.0,0.0,12.0
+Bachelors,2017.0,Pune,3.0,41.0,Male,No,4.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,No,7.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,32.0,Male,No,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,41.0,Male,No,2.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,32.0,Male,No,0.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,4.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,47.0,Male,Yes,1.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,38.0,Male,No,1.0,0.0,8.0
+Bachelors,2018.0,Bangalore,3.0,41.0,Male,No,4.0,1.0,6.0
+Masters,2017.0,Pune,2.0,35.0,Male,No,3.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,36.0,Female,No,1.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Female,No,4.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Male,No,2.0,0.0,8.0
+Bachelors,2015.0,Pune,3.0,47.0,Male,No,2.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,41.0,Female,No,4.0,0.0,11.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Male,No,0.0,0.0,11.0
+Bachelors,2017.0,Bangalore,2.0,36.0,Male,No,3.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,32.0,Male,No,1.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,33.0,Male,No,1.0,1.0,10.0
+Bachelors,2017.0,New Delhi,2.0,36.0,Male,No,3.0,0.0,7.0
+Bachelors,2016.0,Bangalore,4.5,34.0,Male,Yes,2.0,1.0,8.0
+Bachelors,2017.0,Pune,2.0,47.0,Male,No,1.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Female,No,4.0,1.0,12.0
+Bachelors,2013.0,Bangalore,3.0,35.0,Male,No,3.0,1.0,11.0
+Bachelors,2017.0,Pune,3.0,31.0,Male,No,3.0,0.0,7.0
+Bachelors,2021.5,Pune,3.0,37.0,Male,No,2.0,0.0,2.5
+Bachelors,2012.0,Bangalore,3.0,32.0,Female,No,2.0,0.0,12.0
+Bachelors,2013.0,Pune,3.0,34.0,Male,Yes,5.0,0.0,11.0
+Phd,2013.0,Bangalore,2.0,41.0,Male,No,2.0,1.0,11.0
+Masters,2015.0,New Delhi,3.0,32.0,Male,No,0.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,39.0,Male,No,2.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,31.0,Male,Yes,0.0,1.0,12.0
+Bachelors,2017.0,New Delhi,2.0,41.0,Male,No,1.0,0.0,7.0
+Bachelors,2017.0,Bangalore,2.0,38.0,Female,No,5.0,1.0,7.0
+Bachelors,2012.0,Bangalore,3.0,32.0,Male,No,5.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,35.0,Female,No,3.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,39.0,Male,No,7.0,0.0,7.0
+Masters,2017.0,New Delhi,2.0,36.0,Male,Yes,7.0,0.0,7.0
+Bachelors,2013.0,Pune,3.0,33.0,Male,No,4.0,0.0,11.0
+Bachelors,2013.0,Pune,3.0,32.0,Male,Yes,5.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Male,No,1.0,1.0,7.0
+Masters,2014.0,Pune,3.0,39.0,Male,No,4.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,40.0,Male,No,0.0,1.0,8.0
+Masters,2015.0,Pune,3.0,38.0,Female,No,0.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Male,No,1.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,34.0,Female,No,2.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Male,Yes,4.0,0.0,9.0
+Bachelors,2014.0,New Delhi,3.0,40.0,Female,No,3.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,37.0,Male,No,2.0,0.0,11.0
+Bachelors,2012.0,New Delhi,3.0,33.0,Male,No,3.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,Yes,4.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,No,4.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,No,5.0,0.0,10.0
+Bachelors,2013.0,Bangalore,3.0,47.0,Male,No,0.0,1.0,11.0
+Masters,2014.0,New Delhi,3.0,39.0,Male,No,2.0,0.0,10.0
+Masters,2014.0,New Delhi,3.0,34.0,Male,No,5.0,0.0,10.0
+Bachelors,2017.0,Pune,2.0,32.0,Female,No,2.0,1.0,7.0
+Bachelors,2015.0,New Delhi,3.0,32.0,Female,No,2.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,33.0,Male,No,5.0,1.0,10.0
+Masters,2017.0,New Delhi,2.0,34.0,Male,No,2.0,1.0,7.0
+Masters,2016.0,Bangalore,3.0,35.0,Female,No,1.0,1.0,8.0
+Masters,2017.0,New Delhi,3.0,35.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,38.0,Female,No,3.0,1.0,10.0
+Bachelors,2016.0,Bangalore,3.0,37.0,Male,No,0.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,41.0,Male,No,0.0,0.0,9.0
+Masters,2017.0,Bangalore,3.0,40.0,Male,No,4.0,1.0,7.0
+Bachelors,2017.0,Bangalore,3.0,39.0,Female,No,3.0,0.0,7.0
+Bachelors,2017.0,Pune,2.0,47.0,Male,No,2.0,0.0,7.0
+Bachelors,2018.0,New Delhi,3.0,40.0,Male,Yes,4.0,1.0,6.0
+Masters,2017.0,None,1.0,28.0,Male,No,0.0,1.0,7.0
+Bachelors,2018.0,Bangalore,3.0,41.0,Female,No,2.0,1.0,6.0
+Bachelors,2021.5,New Delhi,2.0,33.0,Female,No,4.0,1.0,2.5
+Bachelors,2012.0,Bangalore,3.0,41.0,Male,Yes,0.0,0.0,12.0
+Bachelors,2017.0,New Delhi,2.0,35.0,Female,No,5.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,36.0,Male,No,5.0,0.0,11.0
+Bachelors,2013.0,Pune,3.0,37.0,Male,No,1.0,0.0,11.0
+Bachelors,2013.0,New Delhi,1.0,28.0,Female,No,1.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,38.0,Female,No,2.0,0.0,7.0
+Bachelors,2013.0,Pune,2.0,34.0,Female,No,1.0,1.0,11.0
+Bachelors,2017.0,Pune,2.0,33.0,Female,No,4.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,32.0,Female,No,1.0,0.0,11.0
+Masters,2021.5,Bangalore,3.0,38.0,Male,No,4.0,1.0,2.5
+Bachelors,2015.0,Bangalore,3.0,32.0,Male,No,5.0,0.0,9.0
+Masters,2016.0,New Delhi,3.0,41.0,Male,No,5.0,1.0,8.0
+Masters,2014.0,Pune,3.0,36.0,Female,No,2.0,0.0,10.0
+Bachelors,2021.5,New Delhi,3.0,34.0,Female,No,2.0,1.0,2.5
+Bachelors,2017.0,Bangalore,3.0,34.0,Male,Yes,0.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,35.0,Male,No,4.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,38.0,Male,No,1.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,32.0,Male,Yes,3.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,28.0,Female,No,2.0,1.0,9.0
+Bachelors,2017.0,Bangalore,2.0,32.0,Female,No,2.0,1.0,7.0
+Masters,2017.0,New Delhi,2.0,36.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,37.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Female,No,7.0,1.0,9.0
+Bachelors,2015.0,Pune,3.0,31.0,Male,No,0.0,1.0,9.0
+Bachelors,2015.0,New Delhi,3.0,35.0,Male,No,3.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,37.0,Female,No,5.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Male,No,3.0,0.0,8.0
+Masters,2017.0,Bangalore,2.0,40.0,Female,Yes,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,5.0,1.0,9.0
+Bachelors,2013.0,Pune,3.0,37.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,Yes,1.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Female,No,2.0,0.0,10.0
+Masters,2013.0,Bangalore,3.0,37.0,Female,No,3.0,1.0,11.0
+Bachelors,2013.0,New Delhi,3.0,41.0,Female,No,1.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,40.0,Male,No,2.0,0.0,7.0
+Masters,2013.0,New Delhi,3.0,28.0,Female,No,2.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Male,No,3.0,22.20752687821201,9.0
+Masters,2015.0,Pune,2.0,33.0,Female,No,4.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Male,No,1.0,1.0,12.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,3.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,37.0,Female,No,5.0,0.0,7.0
+Masters,2015.0,New Delhi,3.0,34.0,Female,No,2.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Male,No,2.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,38.0,Male,No,3.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,36.0,Male,No,3.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,40.0,Male,No,1.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,41.0,Male,No,5.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Female,No,3.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,41.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,31.0,Female,No,3.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,31.0,Female,No,0.0,1.0,7.0
+Bachelors,2017.0,New Delhi,2.0,37.0,Male,No,0.0,0.0,7.0
+Bachelors,2012.0,Pune,3.0,39.0,Male,No,0.0,0.0,12.0
+Bachelors,2013.0,Pune,3.0,40.0,Female,No,2.0,1.0,11.0
+Bachelors,2015.0,Pune,3.0,36.0,Male,No,1.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,41.0,Male,No,3.0,0.0,8.0
+Bachelors,2021.5,Bangalore,3.0,15.0,Male,No,2.0,1.0,2.5
+Masters,2018.0,Bangalore,3.0,40.0,Female,No,3.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Female,No,3.0,0.0,9.0
+Bachelors,2014.0,New Delhi,3.0,33.0,Male,No,3.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,32.0,Male,No,4.0,0.0,12.0
+Bachelors,2018.0,Bangalore,3.0,41.0,Male,No,5.0,0.0,6.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Male,No,7.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,37.0,Male,No,4.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,33.0,Male,No,3.0,0.0,10.0
+Masters,2018.0,Pune,3.0,31.0,Male,No,2.0,1.0,6.0
+Bachelors,2017.0,New Delhi,3.0,35.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,Pune,1.0,32.0,Female,No,3.0,1.0,9.0
+Bachelors,2015.0,New Delhi,3.0,41.0,Female,No,2.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,36.0,Female,No,1.0,0.0,7.0
+Masters,2017.0,Pune,3.0,35.0,Male,No,1.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,47.0,Male,No,1.0,1.0,7.0
+Bachelors,2015.0,New Delhi,3.0,33.0,Male,No,1.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Female,No,4.0,0.0,10.0
+Bachelors,2015.0,New Delhi,2.0,33.0,Female,No,3.0,22.20752687821201,9.0
+Masters,2018.0,New Delhi,3.0,47.0,Female,Yes,2.0,1.0,6.0
+Phd,2015.0,Bangalore,3.0,31.0,Male,No,3.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,32.0,Male,No,1.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,37.0,Male,No,5.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,32.0,Male,No,3.0,0.0,12.0
+Bachelors,2015.0,Pune,3.0,40.0,Female,Yes,2.0,1.0,9.0
+Bachelors,2021.5,Pune,1.0,40.0,Female,No,1.0,1.0,2.5
+Masters,2021.5,Bangalore,2.0,39.0,Female,No,2.0,1.0,2.5
+Phd,2016.0,New Delhi,3.0,41.0,Male,No,1.0,0.0,8.0
+Phd,2014.0,New Delhi,3.0,32.0,Female,No,0.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,38.0,Male,No,0.0,1.0,7.0
+Bachelors,2017.0,New Delhi,2.0,31.0,Female,Yes,2.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,38.0,Male,Yes,3.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,32.0,Male,No,7.0,0.0,8.0
+Bachelors,2017.0,Pune,2.0,35.0,Female,No,5.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,34.0,Male,No,5.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,38.0,Male,Yes,1.0,1.0,6.0
+Bachelors,2014.0,Pune,1.0,36.0,Female,No,1.0,1.0,10.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Female,Yes,3.0,0.0,9.0
+Masters,2021.5,New Delhi,3.0,39.0,Female,No,2.0,0.0,2.5
+Masters,2017.0,New Delhi,1.0,40.0,Male,No,0.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,38.0,Male,Yes,1.0,0.0,8.0
+Bachelors,2015.0,Pune,3.0,35.0,Male,No,3.0,0.0,9.0
+Bachelors,2014.0,Pune,2.0,31.0,Male,No,3.0,1.0,10.0
+Bachelors,2017.0,Pune,3.0,41.0,Male,No,2.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,33.0,Male,No,5.0,1.0,6.0
+Bachelors,2017.0,New Delhi,2.0,33.0,Male,No,5.0,0.0,7.0
+Bachelors,2016.0,New Delhi,3.0,31.0,Male,Yes,4.0,0.0,8.0
+Masters,2013.0,New Delhi,3.0,35.0,Male,No,4.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,47.0,Female,No,1.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Male,No,5.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,15.0,Male,No,1.0,1.0,12.0
+Bachelors,2014.0,Bangalore,3.0,32.0,Male,No,3.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Female,No,0.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Female,No,5.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,34.0,Male,No,5.0,0.0,12.0
+Bachelors,2014.0,Pune,3.0,37.0,Male,No,4.0,0.0,10.0
+Phd,2015.0,Bangalore,3.0,40.0,Male,No,3.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,34.0,Female,No,3.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,33.0,Male,No,1.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,41.0,Male,No,3.0,1.0,7.0
+Masters,2015.0,New Delhi,1.0,36.0,Female,No,0.0,22.20752687821201,9.0
+Bachelors,2015.0,Bangalore,3.0,33.0,Male,No,1.0,0.0,9.0
+Bachelors,2014.0,Pune,3.0,31.0,Male,No,5.0,0.0,10.0
+Bachelors,2013.0,Pune,3.0,34.0,Female,No,3.0,1.0,11.0
+Bachelors,2017.0,Bangalore,3.0,31.0,Male,No,1.0,0.0,7.0
+Bachelors,2016.0,New Delhi,2.0,36.0,Female,No,4.0,1.0,8.0
+Bachelors,2013.0,Bangalore,3.0,38.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,31.0,Male,No,3.0,0.0,9.0
+Bachelors,2015.0,New Delhi,3.0,40.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Female,No,4.0,0.0,9.0
+Bachelors,2021.5,Bangalore,4.5,34.0,Male,No,1.0,0.0,2.5
+Bachelors,2014.0,Bangalore,1.0,39.0,Male,No,2.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Male,No,1.0,0.0,8.0
+Bachelors,2018.0,Pune,2.0,34.0,Female,No,3.0,1.0,6.0
+Bachelors,2017.0,Pune,3.0,38.0,Male,Yes,1.0,0.0,7.0
+Masters,2017.0,New Delhi,2.0,33.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,41.0,Male,No,3.0,0.0,10.0
+Masters,2017.0,Pune,1.0,39.0,Male,No,0.0,22.20752687821201,7.0
+Masters,2013.0,Pune,3.0,39.0,Male,No,2.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,41.0,Male,No,5.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,40.0,Male,No,4.0,0.0,12.0
+Bachelors,2014.0,Bangalore,3.0,36.0,Male,No,0.0,22.20752687821201,10.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Male,No,0.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,32.0,Male,No,5.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Male,No,4.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Male,Yes,0.0,0.0,12.0
+Masters,2017.0,Pune,2.0,35.0,Male,No,1.0,1.0,7.0
+Bachelors,2017.0,Pune,3.0,33.0,Male,Yes,5.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Male,No,2.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,39.0,Male,No,3.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,28.0,Male,No,0.0,1.0,6.0
+Bachelors,2012.0,Pune,2.0,35.0,Male,No,1.0,1.0,12.0
+Bachelors,2015.0,Pune,2.0,40.0,Female,Yes,5.0,1.0,9.0
+Bachelors,2017.0,Pune,3.0,41.0,Male,No,3.0,0.0,7.0
+Bachelors,2015.0,Bangalore,1.0,33.0,Female,Yes,3.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,1.0,1.0,9.0
+Bachelors,2014.0,Pune,3.0,32.0,Male,Yes,2.0,0.0,10.0
+Bachelors,2016.0,Pune,2.0,37.0,Female,No,2.0,22.20752687821201,8.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,5.0,0.0,9.0
+Phd,2018.0,Bangalore,3.0,28.0,Female,No,4.0,1.0,6.0
+Masters,2017.0,New Delhi,2.0,40.0,Male,No,4.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Male,No,3.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,37.0,Male,No,4.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,38.0,Male,No,0.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Male,No,2.0,0.0,6.0
+Bachelors,2015.0,New Delhi,3.0,33.0,Female,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,38.0,Male,No,2.0,1.0,8.0
+Bachelors,2017.0,New Delhi,3.0,38.0,Female,No,3.0,0.0,7.0
+Bachelors,2018.0,Bangalore,2.0,31.0,Female,No,3.0,1.0,6.0
+Bachelors,2014.0,Pune,3.0,32.0,Female,No,3.0,0.0,10.0
+Bachelors,2013.0,Bangalore,3.0,35.0,Male,No,1.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,47.0,Male,No,0.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,33.0,Female,No,4.0,0.0,12.0
+Bachelors,2012.0,New Delhi,3.0,41.0,Female,No,0.0,0.0,12.0
+Bachelors,2015.0,Pune,1.0,31.0,Male,No,3.0,1.0,9.0
+Masters,2015.0,New Delhi,2.0,40.0,Female,No,2.0,0.0,9.0
+Masters,2016.0,Bangalore,3.0,32.0,Male,No,1.0,1.0,8.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Male,No,5.0,0.0,12.0
+Bachelors,2014.0,Pune,2.0,40.0,Female,No,3.0,1.0,10.0
+Bachelors,2021.5,Pune,3.0,31.0,Male,No,3.0,0.0,2.5
+Bachelors,2014.0,Bangalore,1.0,34.0,Female,No,5.0,0.0,10.0
+Masters,2013.0,New Delhi,3.0,41.0,Female,Yes,2.0,1.0,11.0
+Masters,2017.0,New Delhi,2.0,32.0,Male,No,2.0,0.0,7.0
+Bachelors,2013.0,Bangalore,3.0,47.0,Female,No,0.0,1.0,11.0
+Bachelors,2013.0,Pune,3.0,39.0,Female,No,2.0,0.0,11.0
+Masters,2021.5,Pune,3.0,40.0,Male,No,2.0,1.0,2.5
+Bachelors,2017.0,New Delhi,3.0,34.0,Male,No,3.0,0.0,7.0
+Bachelors,2016.0,Pune,3.0,41.0,Male,No,5.0,0.0,8.0
+Bachelors,2015.0,Pune,3.0,37.0,Male,No,3.0,1.0,9.0
+Masters,2017.0,Bangalore,3.0,32.0,Female,No,4.0,1.0,7.0
+Bachelors,2017.0,Bangalore,3.0,41.0,Male,No,3.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,34.0,Female,Yes,2.0,1.0,6.0
+Bachelors,2017.0,Bangalore,4.5,40.0,Female,No,3.0,0.0,7.0
+Masters,2017.0,Pune,3.0,35.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,31.0,Male,No,1.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,39.0,Male,No,1.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Male,No,3.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,5.0,0.0,9.0
+Bachelors,2015.0,Bangalore,4.5,35.0,Male,No,3.0,0.0,9.0
+Bachelors,2013.0,Bangalore,1.0,38.0,Male,No,4.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,32.0,Male,No,1.0,1.0,12.0
+Bachelors,2014.0,Pune,2.0,37.0,Female,No,5.0,1.0,10.0
+Bachelors,2015.0,Pune,3.0,35.0,Male,No,0.0,0.0,9.0
+Bachelors,2017.0,Pune,3.0,41.0,Female,No,4.0,1.0,7.0
+Masters,2015.0,Bangalore,3.0,36.0,Male,No,0.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,35.0,Male,No,2.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,36.0,Male,No,2.0,22.20752687821201,7.0
+Masters,2017.0,Bangalore,3.0,34.0,Male,No,1.0,0.0,7.0
+Bachelors,2017.0,Pune,2.0,33.0,Male,No,3.0,0.0,7.0
+Masters,2018.0,New Delhi,4.5,38.0,Male,No,7.0,1.0,6.0
+Phd,2013.0,New Delhi,4.5,35.0,Female,Yes,3.0,1.0,11.0
+Bachelors,2015.0,Bangalore,2.0,37.0,Female,No,3.0,1.0,9.0
+Bachelors,2017.0,Pune,2.0,40.0,Female,No,2.0,1.0,7.0
+Bachelors,2015.0,Pune,3.0,32.0,Female,No,3.0,1.0,9.0
+Bachelors,2015.0,Bangalore,4.5,35.0,Male,Yes,7.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Male,Yes,0.0,0.0,12.0
+Bachelors,2015.0,Pune,4.5,36.0,Female,No,0.0,1.0,9.0
+Masters,2015.0,Pune,3.0,28.0,Male,No,3.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,47.0,Male,No,5.0,22.20752687821201,9.0
+Bachelors,2018.0,Pune,2.0,37.0,Female,No,0.0,1.0,6.0
+Bachelors,2018.0,None,3.0,35.0,Female,No,0.0,1.0,6.0
+Bachelors,2015.0,Pune,1.0,36.0,Female,No,4.0,1.0,9.0
+Bachelors,2015.0,New Delhi,2.0,28.0,Female,No,5.0,1.0,9.0
+Masters,2017.0,New Delhi,2.0,35.0,Female,No,0.0,0.0,7.0
+Masters,2017.0,New Delhi,4.5,38.0,Female,No,5.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,39.0,Female,No,3.0,1.0,9.0
+Bachelors,2012.0,Pune,2.0,32.0,Female,No,5.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Male,No,2.0,1.0,9.0
+Masters,2017.0,Pune,3.0,37.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,32.0,Female,No,5.0,22.20752687821201,9.0
+Bachelors,2017.0,New Delhi,2.0,38.0,Male,No,0.0,0.0,7.0
+Bachelors,2021.5,Pune,2.0,36.0,Female,No,5.0,1.0,2.5
+Masters,2016.0,Bangalore,1.0,28.0,Male,No,2.0,1.0,8.0
+Bachelors,2017.0,Pune,3.0,32.0,Male,No,4.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,37.0,Male,No,2.0,0.0,7.0
+Bachelors,2016.0,New Delhi,3.0,33.0,Male,No,2.0,0.0,8.0
+Bachelors,2021.5,Bangalore,3.0,39.0,Male,No,4.0,0.0,2.5
+Bachelors,2012.0,Bangalore,3.0,35.0,Male,No,1.0,1.0,12.0
+Masters,2015.0,Pune,3.0,39.0,Male,No,5.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,33.0,Male,No,4.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,31.0,Male,No,0.0,0.0,9.0
+Phd,2016.0,Pune,3.0,31.0,Female,No,4.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,37.0,Female,No,4.0,0.0,9.0
+Bachelors,2012.0,Bangalore,4.5,33.0,Male,No,0.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,41.0,Female,No,2.0,0.0,7.0
+Masters,2017.0,Pune,2.0,15.0,Male,No,2.0,0.0,7.0
+None,2013.0,New Delhi,3.0,32.0,Male,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,47.0,Male,No,3.0,0.0,9.0
+Bachelors,2021.5,Bangalore,3.0,37.0,Male,No,3.0,0.0,2.5
+Bachelors,2017.0,New Delhi,3.0,31.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,34.0,Female,Yes,7.0,1.0,10.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Female,No,5.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,15.0,Male,No,3.0,0.0,11.0
+Bachelors,2015.0,Pune,1.0,34.0,Female,No,3.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,33.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,4.5,37.0,Male,No,4.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,41.0,Male,No,4.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Female,No,1.0,0.0,12.0
+Bachelors,2016.0,Pune,3.0,40.0,Male,No,5.0,0.0,8.0
+Bachelors,2017.0,New Delhi,3.0,33.0,Female,No,1.0,1.0,7.0
+Masters,2013.0,New Delhi,3.0,37.0,Male,Yes,2.0,0.0,11.0
+Bachelors,2017.0,New Delhi,2.0,36.0,Female,No,2.0,0.0,7.0
+Bachelors,2021.5,Bangalore,3.0,36.0,Female,No,5.0,0.0,2.5
+Bachelors,2015.0,Bangalore,3.0,41.0,Male,No,1.0,0.0,9.0
+Masters,2014.0,New Delhi,3.0,40.0,Male,No,5.0,0.0,10.0
+Masters,2017.0,Bangalore,2.0,41.0,Male,Yes,2.0,1.0,7.0
+Bachelors,2015.0,Pune,3.0,33.0,Male,No,5.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,37.0,Female,No,2.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,33.0,Male,No,0.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,40.0,Female,No,4.0,0.0,10.0
+Bachelors,2018.0,New Delhi,3.0,36.0,Male,No,2.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,40.0,Male,Yes,3.0,1.0,6.0
+Masters,2018.0,Bangalore,3.0,40.0,Male,No,2.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,No,3.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Male,No,5.0,0.0,12.0
+Bachelors,2017.0,Pune,2.0,33.0,Male,No,1.0,1.0,7.0
+Bachelors,2015.0,New Delhi,3.0,40.0,Male,No,3.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,38.0,Male,No,1.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,40.0,Male,Yes,7.0,0.0,8.0
+Bachelors,2014.0,New Delhi,3.0,38.0,Female,No,0.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Male,Yes,1.0,0.0,8.0
+Bachelors,2016.0,New Delhi,3.0,37.0,Female,No,3.0,1.0,8.0
+Bachelors,2015.0,New Delhi,3.0,40.0,Female,No,1.0,0.0,9.0
+Masters,2016.0,Bangalore,3.0,37.0,Male,No,2.0,1.0,8.0
+Bachelors,2016.0,Pune,2.0,37.0,Female,No,3.0,1.0,8.0
+Bachelors,2013.0,Pune,3.0,32.0,Male,No,1.0,0.0,11.0
+Masters,2017.0,New Delhi,3.0,35.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,34.0,Female,No,1.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,32.0,Male,No,2.0,22.20752687821201,10.0
+Bachelors,2017.0,New Delhi,2.0,37.0,Male,No,4.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,No,2.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,40.0,Male,No,0.0,0.0,8.0
+Bachelors,2012.0,Bangalore,4.5,40.0,Male,Yes,2.0,22.20752687821201,12.0
+Masters,2013.0,New Delhi,3.0,41.0,Female,No,2.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Female,No,4.0,0.0,9.0
+Bachelors,2012.0,New Delhi,3.0,34.0,Female,No,4.0,0.0,12.0
+Bachelors,2013.0,Pune,2.0,28.0,Male,No,2.0,1.0,11.0
+Masters,2016.0,New Delhi,3.0,39.0,Female,No,1.0,0.0,8.0
+Bachelors,2014.0,New Delhi,3.0,41.0,Male,No,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,0.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Male,No,2.0,0.0,9.0
+Bachelors,2012.0,Pune,3.0,40.0,Male,No,3.0,22.20752687821201,12.0
+Bachelors,2013.0,Pune,3.0,32.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,38.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,7.0,0.0,9.0
+Phd,2013.0,Bangalore,4.5,41.0,Male,No,4.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,15.0,Female,No,7.0,0.0,10.0
+Bachelors,2015.0,Pune,4.5,33.0,Female,Yes,3.0,1.0,9.0
+Bachelors,2016.0,New Delhi,3.0,37.0,Male,No,3.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,32.0,Male,No,4.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,33.0,Male,No,1.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,40.0,Female,No,5.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,Yes,3.0,0.0,10.0
+Masters,2016.0,New Delhi,4.5,37.0,Female,No,7.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,37.0,Male,Yes,2.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,No,2.0,22.20752687821201,9.0
+Bachelors,2017.0,Bangalore,3.0,47.0,Female,No,4.0,1.0,7.0
+Bachelors,2014.0,Pune,2.0,36.0,Female,No,3.0,1.0,10.0
+Bachelors,2016.0,Pune,3.0,32.0,None,No,3.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Female,No,1.0,1.0,7.0
+Bachelors,2014.0,Pune,2.0,34.0,Female,No,2.0,1.0,10.0
+Masters,2015.0,Pune,2.0,40.0,Male,No,5.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,37.0,Female,No,4.0,0.0,8.0
+Bachelors,2015.0,Bangalore,1.0,36.0,Male,No,1.0,22.20752687821201,9.0
+Bachelors,2012.0,Pune,3.0,41.0,Female,No,1.0,0.0,12.0
+Bachelors,2016.0,Pune,3.0,36.0,Male,No,0.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,31.0,Female,No,2.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,33.0,Male,No,2.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Male,Yes,0.0,0.0,7.0
+Phd,2016.0,New Delhi,3.0,34.0,None,No,1.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Female,No,4.0,0.0,9.0
+Masters,2015.0,Bangalore,3.0,31.0,Male,No,1.0,1.0,9.0
+Bachelors,2015.0,Pune,3.0,32.0,Female,No,0.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,33.0,Male,No,0.0,1.0,7.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,No,1.0,0.0,10.0
+Masters,2014.0,Pune,3.0,47.0,Male,No,2.0,0.0,10.0
+Bachelors,2017.0,New Delhi,4.5,41.0,None,No,2.0,1.0,7.0
+Bachelors,2015.0,New Delhi,2.0,34.0,Male,No,2.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,36.0,Female,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,39.0,Female,No,5.0,1.0,9.0
+Bachelors,2012.0,Pune,3.0,37.0,Male,No,5.0,0.0,12.0
+Bachelors,2016.0,Bangalore,3.0,36.0,Male,No,4.0,0.0,8.0
+Bachelors,2014.0,New Delhi,3.0,38.0,Female,No,1.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,38.0,Female,No,3.0,0.0,7.0
+Masters,2016.0,New Delhi,3.0,37.0,Female,No,2.0,1.0,8.0
+Bachelors,2012.0,Bangalore,3.0,34.0,Male,No,2.0,0.0,12.0
+Bachelors,2015.0,Pune,2.0,32.0,Female,No,2.0,1.0,9.0
+Masters,2018.0,New Delhi,3.0,35.0,Male,No,2.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,31.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,1.0,32.0,Male,No,0.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Female,No,5.0,0.0,9.0
+Bachelors,2015.0,Bangalore,4.5,37.0,Male,No,5.0,0.0,9.0
+Phd,2018.0,New Delhi,3.0,40.0,Male,No,3.0,1.0,6.0
+Bachelors,2015.0,Bangalore,1.0,41.0,Male,No,1.0,0.0,9.0
+Bachelors,2017.0,Pune,3.0,34.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,36.0,Male,Yes,3.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,35.0,Male,No,1.0,0.0,9.0
+Masters,2017.0,New Delhi,3.0,38.0,Female,No,3.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,33.0,None,No,7.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Female,No,2.0,0.0,10.0
+Bachelors,2017.0,Pune,2.0,40.0,Male,No,4.0,0.0,7.0
+Bachelors,2021.5,New Delhi,3.0,39.0,Male,No,5.0,0.0,2.5
+Bachelors,2015.0,New Delhi,3.0,33.0,Female,No,4.0,0.0,9.0
+Bachelors,2021.5,Pune,3.0,28.0,Female,No,3.0,1.0,2.5
+Bachelors,2021.5,Bangalore,3.0,38.0,Female,No,4.0,0.0,2.5
+Bachelors,2013.0,Bangalore,3.0,38.0,Male,No,2.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Male,No,0.0,0.0,7.0
+Bachelors,2017.0,Pune,3.0,31.0,Female,No,0.0,1.0,7.0
+Bachelors,2013.0,New Delhi,3.0,38.0,Male,No,4.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,40.0,Male,Yes,1.0,0.0,8.0
+Phd,2013.0,New Delhi,3.0,36.0,Male,No,3.0,1.0,11.0
+Bachelors,2014.0,Pune,3.0,41.0,Male,No,4.0,22.20752687821201,10.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,Yes,1.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,38.0,Male,No,5.0,0.0,7.0
+Bachelors,2012.0,Bangalore,1.0,34.0,Male,No,0.0,0.0,12.0
+Bachelors,2016.0,Bangalore,3.0,39.0,Female,No,3.0,1.0,8.0
+Bachelors,2015.0,Pune,2.0,39.0,Female,Yes,0.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Male,No,2.0,22.20752687821201,11.0
+Masters,2012.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Male,No,1.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Female,No,2.0,0.0,8.0
+Bachelors,2016.0,Bangalore,4.5,39.0,Female,No,0.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Female,No,1.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Male,No,1.0,0.0,12.0
+Bachelors,2017.0,New Delhi,3.0,37.0,Male,No,0.0,0.0,7.0
+Bachelors,2015.0,Pune,1.0,38.0,Female,No,1.0,1.0,9.0
+Phd,2017.0,Pune,3.0,41.0,Male,No,7.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Male,No,4.0,1.0,6.0
+Bachelors,2018.0,Pune,3.0,35.0,Male,No,0.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,35.0,Male,No,1.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,31.0,Male,No,1.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,41.0,Male,No,4.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,33.0,Male,Yes,3.0,0.0,12.0
+Bachelors,2012.0,New Delhi,2.0,38.0,Female,No,3.0,1.0,12.0
+Masters,2012.0,Bangalore,3.0,39.0,Female,No,3.0,1.0,12.0
+Bachelors,2015.0,Bangalore,1.0,36.0,Female,No,2.0,0.0,9.0
+Masters,2017.0,Bangalore,2.0,31.0,Male,No,3.0,22.20752687821201,7.0
+Masters,2017.0,New Delhi,2.0,39.0,Female,No,2.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,41.0,Male,No,3.0,1.0,7.0
+Phd,2018.0,New Delhi,3.0,33.0,Female,No,0.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,1.0,0.0,9.0
+Bachelors,2017.0,Pune,3.0,31.0,Male,No,0.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,No,4.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Male,No,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Female,No,2.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,41.0,Female,No,4.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,37.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,33.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,41.0,Female,No,4.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,37.0,Female,No,2.0,0.0,7.0
+Bachelors,2017.0,None,3.0,38.0,Male,No,5.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Male,No,2.0,1.0,9.0
+Bachelors,2017.0,Pune,3.0,37.0,Female,No,0.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,No,0.0,1.0,10.0
+Bachelors,2012.0,Pune,3.0,32.0,Male,No,1.0,0.0,12.0
+Masters,2012.0,New Delhi,3.0,35.0,Female,No,4.0,1.0,12.0
+Bachelors,2013.0,Pune,3.0,15.0,Male,No,3.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Female,No,2.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,37.0,Female,No,3.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,40.0,Female,Yes,4.0,0.0,8.0
+Bachelors,2014.0,Pune,3.0,33.0,Male,No,4.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,39.0,Female,No,4.0,0.0,8.0
+Bachelors,2013.0,None,1.0,34.0,Male,No,4.0,0.0,11.0
+Phd,2013.0,Bangalore,3.0,32.0,Male,No,5.0,0.0,11.0
+Bachelors,2017.0,New Delhi,1.0,31.0,Female,No,4.0,1.0,7.0
+Masters,2016.0,New Delhi,3.0,41.0,Female,No,4.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,39.0,Male,No,7.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,No,5.0,0.0,10.0
+Bachelors,2016.0,Pune,3.0,38.0,Female,No,7.0,0.0,8.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Male,No,6.0,0.0,8.0
+Bachelors,2014.0,Pune,3.0,33.0,Male,No,6.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,35.0,Male,No,5.0,0.0,12.0
+Phd,2013.0,New Delhi,3.0,15.0,Male,No,5.0,0.0,11.0
+Bachelors,2012.0,Bangalore,3.0,40.0,Female,No,5.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,39.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,33.0,Female,No,6.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,32.0,Female,No,5.0,0.0,10.0
+Masters,2014.0,Bangalore,3.0,40.0,Female,No,7.0,1.0,10.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Male,No,6.0,0.0,7.0
+Masters,2016.0,New Delhi,1.0,31.0,Female,No,5.0,1.0,8.0
+Bachelors,2015.0,Bangalore,3.0,47.0,Female,No,3.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Male,No,7.0,1.0,10.0
+Masters,2018.0,Bangalore,3.0,39.0,Female,No,3.0,1.0,6.0
+Masters,2017.0,Pune,2.0,38.0,Female,No,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,7.0,1.0,9.0
+Masters,2017.0,New Delhi,2.0,40.0,Female,Yes,2.0,0.0,7.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Male,No,6.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,34.0,Male,No,6.0,0.0,11.0
+Bachelors,2012.0,Bangalore,1.0,35.0,Male,No,7.0,0.0,12.0
+Masters,2013.0,New Delhi,1.0,41.0,Male,No,5.0,0.0,11.0
+Phd,2014.0,New Delhi,2.0,37.0,Female,No,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Male,Yes,7.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,35.0,Male,Yes,5.0,0.0,10.0
+Bachelors,2015.0,Bangalore,1.0,15.0,Male,No,6.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,38.0,Female,No,7.0,0.0,8.0
+Bachelors,2015.0,Bangalore,2.0,41.0,Female,No,7.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,34.0,Male,No,5.0,1.0,6.0
+Bachelors,2017.0,Pune,2.0,22.0,Male,No,0.0,0.0,7.0
+Bachelors,2018.0,Bangalore,2.0,26.0,Female,No,4.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,22.0,Male,No,0.0,0.0,12.0
+Bachelors,2016.0,Bangalore,3.0,29.0,Male,No,0.0,0.0,8.0
+Bachelors,2017.0,New Delhi,3.0,36.0,Female,No,0.0,0.0,7.0
+Bachelors,2013.0,New Delhi,2.0,34.0,Female,No,4.0,1.0,11.0
+Bachelors,2015.0,Pune,3.0,34.0,Female,No,7.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,25.0,Female,No,3.0,22.20752687821201,9.0
+Bachelors,2012.0,Bangalore,3.0,31.0,Male,No,0.0,22.20752687821201,12.0
+Bachelors,2015.0,New Delhi,3.0,36.0,Female,No,2.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Male,Yes,7.0,0.0,8.0
+Bachelors,2015.0,Bangalore,3.0,34.0,Male,No,4.0,0.0,9.0
+Masters,2014.0,New Delhi,3.0,28.0,Male,Yes,2.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,2.0,22.20752687821201,10.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,5.0,0.0,7.0
+Bachelors,2012.0,Bangalore,1.0,28.0,Female,Yes,1.0,0.0,12.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Female,No,2.0,1.0,6.0
+Bachelors,2013.0,Bangalore,3.0,23.0,Male,Yes,7.0,1.0,11.0
+Masters,2017.0,New Delhi,2.0,31.0,Female,No,2.0,0.0,7.0
+Phd,2018.0,New Delhi,4.5,34.0,Male,No,0.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,36.0,Female,No,2.0,0.0,8.0
+Phd,2017.0,New Delhi,3.0,40.0,Male,No,3.0,0.0,7.0
+Masters,2012.0,New Delhi,4.5,28.0,Female,No,2.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,37.0,Male,No,2.0,1.0,9.0
+Bachelors,2017.0,New Delhi,2.0,22.0,Female,No,0.0,0.0,7.0
+Bachelors,2016.0,Pune,2.0,36.0,Female,No,0.0,1.0,8.0
+Bachelors,2013.0,New Delhi,2.0,35.0,Female,No,1.0,1.0,11.0
+Bachelors,2016.0,Bangalore,3.0,47.0,Male,No,0.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,34.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,Bangalore,2.0,23.0,Male,No,1.0,0.0,7.0
+Bachelors,2014.0,Pune,2.0,32.0,Male,No,3.0,1.0,10.0
+Masters,2017.0,Bangalore,3.0,15.0,Male,No,2.0,0.0,7.0
+Bachelors,2021.5,Pune,3.0,37.0,Male,No,4.0,0.0,2.5
+Bachelors,2015.0,New Delhi,2.0,25.0,Female,No,3.0,0.0,9.0
+Bachelors,2018.0,Pune,2.0,36.0,Female,No,5.0,1.0,6.0
+Bachelors,2016.0,Bangalore,4.5,26.0,Female,No,4.0,0.0,8.0
+Masters,2021.5,Pune,3.0,39.0,Male,No,2.0,1.0,2.5
+Masters,2018.0,New Delhi,3.0,39.0,Female,No,2.0,1.0,6.0
+Bachelors,2015.0,None,3.0,36.0,Male,No,5.0,1.0,9.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Female,No,3.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,23.0,Male,No,1.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,0.0,0.0,10.0
+Masters,2014.0,Pune,1.0,33.0,Female,No,1.0,0.0,10.0
+Bachelors,2013.0,Pune,3.0,25.0,Female,Yes,3.0,0.0,11.0
+Bachelors,2014.0,Bangalore,3.0,33.0,Male,No,5.0,0.0,10.0
+Masters,2018.0,Bangalore,3.0,30.0,Male,Yes,2.0,1.0,6.0
+Bachelors,2012.0,Pune,2.0,31.0,Female,No,5.0,1.0,12.0
+Masters,2018.0,New Delhi,3.0,23.0,Female,No,1.0,1.0,6.0
+Bachelors,2021.5,New Delhi,3.0,26.0,Female,Yes,4.0,0.0,2.5
+Masters,2017.0,New Delhi,2.0,35.0,Male,No,2.0,0.0,7.0
+Bachelors,2016.0,Bangalore,1.0,30.0,Male,No,4.0,1.0,8.0
+Bachelors,2012.0,Bangalore,3.0,37.0,Male,No,4.0,1.0,12.0
+Bachelors,2017.0,Bangalore,1.0,34.0,Male,Yes,0.0,22.20752687821201,7.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Female,No,0.0,0.0,12.0
+Masters,2013.0,New Delhi,2.0,22.0,Male,Yes,7.0,1.0,11.0
+Bachelors,2015.0,Pune,1.0,22.0,Female,No,0.0,1.0,9.0
+Masters,2015.0,Pune,2.0,33.0,Female,No,2.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,1.0,0.0,9.0
+Masters,2015.0,Pune,2.0,34.0,Male,No,2.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,47.0,Female,No,4.0,0.0,7.0
+Bachelors,2013.0,Pune,3.0,35.0,Male,No,1.0,0.0,11.0
+Masters,2013.0,Pune,3.0,22.0,Female,Yes,0.0,1.0,11.0
+Bachelors,2014.0,Pune,3.0,27.0,Male,No,5.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,34.0,Female,Yes,2.0,0.0,11.0
+Masters,2017.0,Pune,2.0,23.0,Male,No,1.0,1.0,7.0
+Bachelors,2012.0,Pune,3.0,36.0,Male,No,4.0,0.0,12.0
+Phd,2018.0,New Delhi,3.0,28.0,Male,No,4.0,1.0,6.0
+Phd,2015.0,Bangalore,3.0,15.0,Male,No,4.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Female,No,4.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,39.0,Male,No,3.0,0.0,11.0
+Bachelors,2015.0,New Delhi,3.0,47.0,Female,No,3.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,23.0,Female,No,1.0,1.0,9.0
+Masters,2021.5,New Delhi,3.0,29.0,Male,No,2.0,1.0,2.5
+Bachelors,2015.0,Pune,2.0,24.0,Male,No,2.0,1.0,9.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Female,No,2.0,1.0,12.0
+Bachelors,2021.5,Bangalore,3.0,15.0,Male,No,4.0,22.20752687821201,2.5
+Bachelors,2012.0,New Delhi,3.0,38.0,Female,No,1.0,0.0,12.0
+Bachelors,2014.0,Bangalore,3.0,22.0,Male,No,0.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,37.0,Male,No,5.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,47.0,Male,No,3.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Male,No,0.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Female,No,1.0,22.20752687821201,12.0
+Bachelors,2016.0,Pune,3.0,29.0,Male,Yes,5.0,0.0,8.0
+Phd,2013.0,Bangalore,3.0,35.0,Male,No,3.0,1.0,11.0
+Bachelors,2012.0,Bangalore,3.0,39.0,Male,None,3.0,0.0,12.0
+Bachelors,2012.0,Bangalore,1.0,35.0,Male,No,1.0,0.0,12.0
+Bachelors,2017.0,Bangalore,3.0,47.0,Male,No,2.0,0.0,7.0
+Masters,2018.0,Pune,3.0,28.0,Female,No,2.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,23.0,Male,No,1.0,1.0,6.0
+Phd,2018.0,New Delhi,3.0,37.0,Male,No,3.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,23.0,Female,No,1.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,36.0,Female,No,3.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,40.0,Female,No,3.0,0.0,11.0
+Bachelors,2021.5,New Delhi,3.0,22.0,Male,No,0.0,0.0,2.5
+Bachelors,2015.0,Pune,1.0,34.0,Female,No,3.0,0.0,9.0
+Bachelors,2013.0,Bangalore,1.0,27.0,Female,No,5.0,0.0,11.0
+Bachelors,2017.0,Pune,2.0,15.0,Female,No,5.0,1.0,7.0
+Bachelors,2015.0,Bangalore,4.5,35.0,Female,No,3.0,1.0,9.0
+Bachelors,2014.0,New Delhi,3.0,33.0,Female,Yes,4.0,0.0,10.0
+Bachelors,2014.0,New Delhi,3.0,40.0,Female,No,3.0,0.0,10.0
+Bachelors,2017.0,Pune,2.0,34.0,Male,No,2.0,0.0,7.0
+Bachelors,2017.0,New Delhi,3.0,40.0,Male,No,1.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,34.0,Male,No,2.0,1.0,6.0
+Bachelors,2013.0,Pune,3.0,33.0,Male,No,7.0,0.0,11.0
+Bachelors,2016.0,Bangalore,3.0,22.0,Female,No,3.0,0.0,8.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Male,No,2.0,1.0,12.0
+Bachelors,2013.0,Pune,3.0,25.0,Female,No,3.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,37.0,Male,No,3.0,1.0,7.0
+Bachelors,2015.0,Pune,4.5,40.0,Female,Yes,0.0,1.0,9.0
+Masters,2015.0,Pune,1.0,23.0,Female,No,1.0,0.0,9.0
+Masters,2017.0,New Delhi,2.0,34.0,Male,Yes,2.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,35.0,Female,No,2.0,0.0,7.0
+Bachelors,2014.0,Pune,3.0,23.0,Male,No,1.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,29.0,Male,No,2.0,1.0,9.0
+Bachelors,2015.0,Pune,3.0,32.0,Female,No,1.0,0.0,9.0
+Masters,2015.0,Pune,2.0,24.0,Female,No,2.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,33.0,Male,No,4.0,0.0,7.0
+Phd,2016.0,New Delhi,3.0,28.0,Male,No,0.0,0.0,8.0
+Masters,2018.0,New Delhi,3.0,30.0,Female,Yes,2.0,1.0,6.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Female,No,5.0,1.0,10.0
+Bachelors,2012.0,New Delhi,3.0,36.0,Female,No,3.0,0.0,12.0
+Bachelors,2012.0,Pune,2.0,38.0,Male,No,3.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,35.0,Female,No,0.0,1.0,9.0
+Bachelors,2013.0,New Delhi,3.0,23.0,Female,No,1.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,23.0,Female,No,1.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,37.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,33.0,Male,Yes,4.0,0.0,9.0
+Bachelors,2015.0,Bangalore,3.0,38.0,Female,No,5.0,0.0,9.0
+Bachelors,2015.0,Pune,3.0,40.0,Male,Yes,0.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,15.0,Male,No,3.0,0.0,8.0
+Bachelors,2016.0,Pune,3.0,28.0,None,No,2.0,0.0,8.0
+Bachelors,2018.0,Bangalore,3.0,35.0,Male,Yes,3.0,1.0,6.0
+Masters,2013.0,New Delhi,3.0,28.0,Female,No,3.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Male,No,0.0,0.0,7.0
+Masters,2017.0,Pune,2.0,27.0,Female,No,5.0,1.0,7.0
+Bachelors,2016.0,Pune,3.0,38.0,Male,Yes,0.0,0.0,8.0
+Bachelors,2014.0,New Delhi,3.0,34.0,Female,No,5.0,0.0,10.0
+Bachelors,2021.5,Bangalore,3.0,38.0,Male,No,3.0,0.0,2.5
+Bachelors,2015.0,Pune,1.0,37.0,Male,No,1.0,0.0,9.0
+Bachelors,2014.0,New Delhi,3.0,29.0,Female,No,2.0,1.0,10.0
+Bachelors,2014.0,Pune,3.0,37.0,Female,No,4.0,1.0,10.0
+Bachelors,2016.0,Pune,3.0,23.0,Male,No,1.0,0.0,8.0
+Bachelors,2012.0,New Delhi,3.0,34.0,Female,No,2.0,0.0,12.0
+Masters,2017.0,Bangalore,2.0,35.0,Female,No,0.0,0.0,7.0
+Bachelors,2015.0,Bangalore,4.5,30.0,Male,No,2.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,33.0,Male,No,4.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,32.0,Male,No,4.0,0.0,8.0
+Bachelors,2014.0,Pune,3.0,36.0,Female,No,5.0,0.0,10.0
+Bachelors,2012.0,Bangalore,1.0,35.0,Male,No,4.0,0.0,12.0
+Phd,2012.0,New Delhi,3.0,25.0,Male,No,3.0,0.0,12.0
+Masters,2013.0,Bangalore,3.0,28.0,Male,No,3.0,1.0,11.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Female,No,3.0,0.0,12.0
+Bachelors,2013.0,Bangalore,3.0,30.0,Male,No,1.0,0.0,11.0
+Bachelors,2017.0,Pune,2.0,37.0,Female,No,4.0,1.0,7.0
+Bachelors,2018.0,Pune,3.0,34.0,Male,No,0.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,23.0,Female,No,1.0,1.0,12.0
+Bachelors,2017.0,Pune,3.0,23.0,Male,No,1.0,22.20752687821201,7.0
+Bachelors,2012.0,New Delhi,1.0,31.0,Female,No,3.0,0.0,12.0
+Masters,2015.0,New Delhi,2.0,23.0,Male,No,3.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,47.0,Male,No,5.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Female,No,1.0,1.0,8.0
+Bachelors,2013.0,Bangalore,3.0,23.0,Male,No,1.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,47.0,Female,No,4.0,0.0,7.0
+Bachelors,2012.0,Bangalore,3.0,23.0,Male,No,1.0,0.0,12.0
+Bachelors,2016.0,Bangalore,3.0,22.0,Male,No,0.0,0.0,8.0
+Masters,2021.5,Bangalore,2.0,28.0,Female,No,4.0,1.0,2.5
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,3.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Female,No,3.0,0.0,8.0
+Bachelors,2021.5,Bangalore,3.0,31.0,Male,No,0.0,0.0,2.5
+Bachelors,2017.0,Pune,3.0,33.0,Male,No,3.0,0.0,7.0
+Bachelors,2015.0,New Delhi,3.0,30.0,Male,No,5.0,0.0,9.0
+Bachelors,2015.0,New Delhi,3.0,33.0,Female,No,5.0,1.0,9.0
+Masters,2017.0,New Delhi,3.0,33.0,Female,No,7.0,1.0,7.0
+Bachelors,2016.0,Pune,3.0,22.0,Male,No,0.0,0.0,8.0
+Bachelors,2015.0,New Delhi,2.0,36.0,Female,No,1.0,0.0,9.0
+Bachelors,2014.0,Pune,3.0,31.0,Female,No,2.0,0.0,10.0
+Bachelors,2013.0,Bangalore,2.0,25.0,Male,No,3.0,1.0,11.0
+Bachelors,2012.0,Bangalore,1.0,31.0,Male,No,4.0,0.0,12.0
+Masters,2015.0,Pune,4.5,39.0,Female,No,0.0,0.0,9.0
+Bachelors,2017.0,Bangalore,2.0,28.0,Female,No,3.0,1.0,7.0
+Bachelors,2013.0,New Delhi,3.0,35.0,Female,No,0.0,0.0,11.0
+Bachelors,2013.0,Pune,2.0,28.0,Male,No,5.0,22.20752687821201,11.0
+Bachelors,2012.0,Bangalore,3.0,32.0,Female,No,0.0,0.0,12.0
+Masters,2017.0,New Delhi,2.0,22.0,Male,No,0.0,1.0,7.0
+Bachelors,2014.0,Pune,3.0,36.0,Female,No,5.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Female,No,1.0,0.0,10.0
+Masters,2014.0,Pune,3.0,38.0,Male,Yes,2.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,22.0,Female,No,0.0,0.0,12.0
+Bachelors,2018.0,Pune,3.0,28.0,Male,Yes,0.0,1.0,6.0
+Bachelors,2017.0,Pune,3.0,32.0,Male,Yes,2.0,0.0,7.0
+Phd,2016.0,New Delhi,3.0,33.0,Male,No,0.0,1.0,8.0
+Bachelors,2014.0,New Delhi,3.0,32.0,Male,No,5.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,27.0,Male,Yes,7.0,0.0,8.0
+Bachelors,2012.0,Pune,2.0,35.0,Female,No,2.0,1.0,12.0
+Phd,2013.0,Bangalore,3.0,40.0,Male,No,1.0,0.0,11.0
+Bachelors,2017.0,New Delhi,2.0,15.0,Female,No,4.0,0.0,7.0
+Bachelors,2016.0,New Delhi,3.0,39.0,Female,No,0.0,0.0,8.0
+Masters,2015.0,Bangalore,2.0,15.0,Female,No,2.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,29.0,Male,No,4.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,23.0,Female,Yes,1.0,22.20752687821201,9.0
+Bachelors,2015.0,Pune,3.0,32.0,Male,No,0.0,0.0,9.0
+Bachelors,2014.0,Pune,3.0,28.0,Male,Yes,4.0,0.0,10.0
+Masters,2013.0,New Delhi,2.0,32.0,Male,Yes,2.0,1.0,11.0
+Bachelors,2012.0,New Delhi,3.0,32.0,Female,No,0.0,0.0,12.0
+Phd,2017.0,Pune,3.0,30.0,Male,No,5.0,0.0,7.0
+Phd,2015.0,New Delhi,3.0,31.0,Male,No,3.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,37.0,Female,No,4.0,0.0,11.0
+Bachelors,2021.5,New Delhi,3.0,25.0,Female,No,3.0,0.0,2.5
+Bachelors,2015.0,Pune,2.0,22.0,Female,No,0.0,1.0,9.0
+Bachelors,2018.0,Bangalore,3.0,38.0,Male,No,2.0,1.0,6.0
+Bachelors,2015.0,New Delhi,3.0,22.0,Male,No,0.0,0.0,9.0
+Phd,2015.0,New Delhi,1.0,38.0,Male,No,5.0,0.0,9.0
+Bachelors,2016.0,New Delhi,2.0,26.0,Male,No,4.0,1.0,8.0
+Masters,2017.0,New Delhi,2.0,31.0,Male,No,4.0,0.0,7.0
+Masters,2014.0,New Delhi,3.0,28.0,Male,No,5.0,0.0,10.0
+Phd,2017.0,New Delhi,4.5,34.0,Female,No,3.0,0.0,7.0
+Masters,2013.0,Bangalore,3.0,31.0,Male,No,2.0,0.0,11.0
+Bachelors,2014.0,New Delhi,3.0,26.0,Female,No,4.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,31.0,Male,No,0.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,26.0,Female,No,3.0,0.0,11.0
+Bachelors,2018.0,Pune,3.0,32.0,Female,No,1.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,28.0,Female,No,5.0,0.0,12.0
+Masters,2013.0,New Delhi,3.0,31.0,Male,No,2.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,31.0,Male,No,5.0,0.0,10.0
+Bachelors,2015.0,Pune,4.5,47.0,Male,No,0.0,0.0,9.0
+Phd,2018.0,New Delhi,3.0,38.0,Female,No,5.0,22.20752687821201,6.0
+Bachelors,2015.0,Bangalore,3.0,23.0,Male,Yes,1.0,0.0,9.0
+Bachelors,2016.0,Bangalore,3.0,34.0,Male,No,1.0,0.0,8.0
+Bachelors,2015.0,Pune,3.0,37.0,Female,No,1.0,1.0,9.0
+Phd,2013.0,New Delhi,3.0,23.0,Male,No,1.0,0.0,11.0
+None,2014.0,New Delhi,3.0,23.0,Male,No,1.0,0.0,10.0
+Bachelors,2012.0,Pune,3.0,31.0,Male,No,3.0,0.0,12.0
+Bachelors,2018.0,Pune,2.0,28.0,Female,No,4.0,1.0,6.0
+Bachelors,2014.0,Pune,3.0,33.0,Male,No,3.0,0.0,10.0
+Bachelors,2021.5,Bangalore,3.0,35.0,Female,No,7.0,1.0,2.5
+Bachelors,2012.0,New Delhi,3.0,30.0,Female,Yes,1.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,22.0,Male,Yes,0.0,0.0,9.0
+Bachelors,2014.0,Pune,3.0,39.0,Male,No,4.0,0.0,10.0
+Phd,2012.0,Bangalore,1.0,38.0,Male,No,5.0,0.0,12.0
+Bachelors,2014.0,Bangalore,3.0,22.0,Female,No,0.0,1.0,10.0
+Bachelors,2014.0,New Delhi,3.0,36.0,Female,No,5.0,0.0,10.0
+Bachelors,2016.0,Pune,1.0,32.0,Male,No,2.0,0.0,8.0
+Bachelors,2017.0,New Delhi,2.0,47.0,Female,No,2.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,36.0,None,No,5.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,34.0,Male,Yes,5.0,1.0,6.0
+Bachelors,2015.0,Bangalore,4.5,28.0,Male,No,1.0,0.0,9.0
+Bachelors,2018.0,Bangalore,3.0,36.0,Female,Yes,1.0,1.0,6.0
+Phd,2015.0,New Delhi,3.0,22.0,Female,No,0.0,0.0,9.0
+Bachelors,2014.0,New Delhi,1.0,28.0,Female,No,5.0,0.0,10.0
+Bachelors,2014.0,Bangalore,1.0,39.0,Female,No,4.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,31.0,None,No,0.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,31.0,Male,No,3.0,0.0,12.0
+Bachelors,2015.0,Pune,2.0,47.0,Female,No,2.0,1.0,9.0
+Bachelors,2017.0,Pune,2.0,38.0,Female,No,1.0,1.0,7.0
+Bachelors,2014.0,Pune,3.0,38.0,Male,No,2.0,22.20752687821201,10.0
+Bachelors,2021.5,Pune,3.0,32.0,Male,No,3.0,0.0,2.5
+Masters,2017.0,Pune,2.0,33.0,Female,No,2.0,0.0,7.0
+Bachelors,2018.0,Pune,3.0,36.0,Male,Yes,1.0,1.0,6.0
+Masters,2017.0,Pune,3.0,15.0,Male,No,5.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,40.0,Female,No,5.0,0.0,7.0
+Masters,2012.0,Bangalore,3.0,31.0,Female,No,4.0,0.0,12.0
+Masters,2017.0,None,2.0,15.0,None,No,0.0,1.0,7.0
+Bachelors,2017.0,New Delhi,3.0,28.0,Female,No,1.0,1.0,7.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Male,Yes,5.0,0.0,10.0
+Bachelors,2015.0,Pune,3.0,31.0,Male,No,0.0,0.0,9.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Male,No,7.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,34.0,Female,None,4.0,1.0,9.0
+Bachelors,2016.0,Bangalore,3.0,32.0,Male,No,0.0,0.0,8.0
+Bachelors,2014.0,Pune,3.0,37.0,Male,No,1.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,33.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,Pune,3.0,27.0,Male,None,5.0,0.0,9.0
+Bachelors,2012.0,New Delhi,3.0,36.0,Male,No,3.0,0.0,12.0
+Bachelors,2021.5,Bangalore,3.0,30.0,Female,No,4.0,0.0,2.5
+Bachelors,2012.0,Bangalore,3.0,23.0,Male,Yes,3.0,0.0,12.0
+Masters,2021.5,Pune,2.0,31.0,Female,No,2.0,0.0,2.5
+Bachelors,2013.0,Bangalore,3.0,22.0,Male,No,0.0,0.0,11.0
+Masters,2017.0,New Delhi,2.0,24.0,Female,No,2.0,1.0,7.0
+Bachelors,2016.0,Bangalore,3.0,37.0,Female,Yes,4.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,22.0,Male,No,0.0,1.0,11.0
+Bachelors,2012.0,Pune,3.0,35.0,Male,No,5.0,0.0,12.0
+Bachelors,2014.0,New Delhi,3.0,30.0,Female,No,3.0,0.0,10.0
+Masters,2017.0,Bangalore,3.0,36.0,Male,No,4.0,1.0,7.0
+Bachelors,2016.0,Pune,3.0,40.0,Male,No,2.0,0.0,8.0
+Bachelors,2015.0,Bangalore,2.0,47.0,Female,No,4.0,1.0,9.0
+Masters,2017.0,New Delhi,2.0,28.0,Female,No,4.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,38.0,Male,No,3.0,0.0,7.0
+None,2014.0,Bangalore,3.0,31.0,Male,No,3.0,1.0,10.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,0.0,0.0,10.0
+Bachelors,2012.0,Pune,3.0,34.0,Male,No,0.0,0.0,12.0
+Bachelors,2015.0,New Delhi,3.0,31.0,Female,No,0.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,33.0,Female,No,2.0,1.0,9.0
+Bachelors,2015.0,Bangalore,3.0,33.0,Male,No,4.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,38.0,Male,No,4.0,0.0,12.0
+Bachelors,2014.0,Pune,2.0,32.0,Female,No,0.0,1.0,10.0
+Bachelors,2014.0,Pune,3.0,34.0,Male,No,5.0,0.0,10.0
+Bachelors,2014.0,Bangalore,1.0,31.0,Female,No,5.0,0.0,10.0
+Bachelors,2016.0,Bangalore,3.0,23.0,Male,No,1.0,0.0,8.0
+Bachelors,2013.0,Pune,2.0,39.0,Female,No,1.0,1.0,11.0
+Bachelors,2013.0,Pune,2.0,33.0,Female,Yes,4.0,1.0,11.0
+Phd,2018.0,New Delhi,3.0,24.0,Male,No,2.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,38.0,Male,No,1.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Female,No,5.0,0.0,10.0
+Bachelors,2021.5,Bangalore,3.0,23.0,Male,No,1.0,0.0,2.5
+Bachelors,2016.0,Bangalore,3.0,47.0,Male,No,5.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,32.0,Female,No,3.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,0.0,0.0,7.0
+Bachelors,2017.0,New Delhi,2.0,31.0,Male,No,3.0,0.0,7.0
+Masters,2017.0,New Delhi,2.0,36.0,Female,No,3.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,47.0,Male,No,3.0,1.0,7.0
+Bachelors,2021.5,Pune,3.0,39.0,Female,No,2.0,1.0,2.5
+Bachelors,2015.0,Bangalore,3.0,23.0,Female,No,1.0,22.20752687821201,9.0
+Masters,2013.0,New Delhi,3.0,33.0,Female,No,2.0,0.0,11.0
+Bachelors,2017.0,New Delhi,3.0,39.0,Female,No,3.0,0.0,7.0
+Bachelors,2015.0,Pune,3.0,33.0,Male,No,2.0,0.0,9.0
+Bachelors,2016.0,Pune,2.0,29.0,Female,No,4.0,1.0,8.0
+Masters,2015.0,Pune,3.0,27.0,Female,No,7.0,22.20752687821201,9.0
+Masters,2013.0,New Delhi,2.0,35.0,Female,No,2.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,No,2.0,0.0,9.0
+Bachelors,2013.0,Bangalore,3.0,15.0,Male,No,5.0,1.0,11.0
+Bachelors,2014.0,Bangalore,3.0,36.0,Male,No,3.0,1.0,10.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Female,No,3.0,0.0,7.0
+Bachelors,2012.0,New Delhi,3.0,35.0,Female,No,5.0,0.0,12.0
+Phd,2018.0,Bangalore,3.0,33.0,Male,No,2.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,23.0,Male,No,3.0,0.0,9.0
+Bachelors,2014.0,Bangalore,3.0,28.0,Male,No,7.0,1.0,10.0
+Bachelors,2016.0,Bangalore,3.0,47.0,Male,No,5.0,22.20752687821201,8.0
+Bachelors,2013.0,Pune,3.0,36.0,Female,No,0.0,1.0,11.0
+Bachelors,2015.0,New Delhi,3.0,26.0,Male,No,4.0,22.20752687821201,9.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Female,No,5.0,0.0,10.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Female,No,4.0,0.0,12.0
+Bachelors,2016.0,Bangalore,3.0,33.0,Male,No,0.0,0.0,8.0
+Bachelors,2013.0,Bangalore,1.0,33.0,Female,No,0.0,1.0,11.0
+Masters,2017.0,Pune,2.0,30.0,Male,Yes,2.0,1.0,7.0
+Masters,2012.0,New Delhi,3.0,27.0,Male,No,5.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,33.0,Male,Yes,4.0,0.0,9.0
+Bachelors,2016.0,Pune,2.0,35.0,Female,No,4.0,0.0,8.0
+Bachelors,2014.0,Pune,2.0,40.0,Female,No,3.0,0.0,10.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Male,No,2.0,0.0,10.0
+Bachelors,2017.0,New Delhi,2.0,40.0,Male,No,5.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,29.0,Male,Yes,0.0,0.0,10.0
+Bachelors,2015.0,Bangalore,3.0,40.0,Male,No,4.0,22.20752687821201,9.0
+Bachelors,2016.0,Pune,2.0,28.0,Female,No,3.0,1.0,8.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Male,No,0.0,1.0,7.0
+Phd,2015.0,Pune,2.0,35.0,Female,No,0.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,47.0,Male,No,3.0,0.0,12.0
+Bachelors,2021.5,New Delhi,2.0,47.0,Female,No,3.0,1.0,2.5
+Bachelors,2015.0,Bangalore,3.0,29.0,Female,No,1.0,0.0,9.0
+Masters,2015.0,New Delhi,4.5,37.0,Male,No,0.0,0.0,9.0
+Masters,2015.0,New Delhi,3.0,47.0,Male,No,3.0,1.0,9.0
+Masters,2018.0,New Delhi,3.0,27.0,Female,Yes,5.0,1.0,6.0
+Bachelors,2016.0,Bangalore,3.0,35.0,Male,No,1.0,0.0,8.0
+Bachelors,2017.0,Pune,4.5,27.0,Male,No,5.0,0.0,7.0
+Masters,2017.0,New Delhi,3.0,34.0,Male,No,1.0,1.0,7.0
+Bachelors,2018.0,Bangalore,3.0,40.0,Female,No,4.0,0.0,6.0
+Bachelors,2012.0,Pune,3.0,39.0,Male,No,4.0,0.0,12.0
+Bachelors,2013.0,Pune,1.0,39.0,Female,Yes,0.0,0.0,11.0
+Bachelors,2015.0,Bangalore,3.0,22.0,Male,No,0.0,1.0,9.0
+Masters,2017.0,Pune,2.0,33.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Male,No,0.0,0.0,10.0
+Bachelors,2017.0,Bangalore,4.5,39.0,Male,No,3.0,0.0,7.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Female,No,3.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,38.0,Female,No,1.0,0.0,10.0
+Bachelors,2018.0,New Delhi,3.0,36.0,Female,Yes,2.0,1.0,6.0
+Bachelors,2013.0,Pune,2.0,37.0,Male,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,2.0,33.0,Female,No,2.0,1.0,9.0
+Bachelors,2013.0,Bangalore,3.0,15.0,Female,No,3.0,1.0,11.0
+Bachelors,2013.0,Pune,4.5,34.0,Male,No,5.0,0.0,11.0
+Bachelors,2018.0,Bangalore,3.0,31.0,Male,Yes,0.0,1.0,6.0
+Masters,2012.0,New Delhi,3.0,37.0,Male,No,4.0,0.0,12.0
+Masters,2015.0,New Delhi,3.0,34.0,Female,No,3.0,1.0,9.0
+Bachelors,2015.0,Pune,3.0,39.0,Male,No,1.0,0.0,9.0
+Bachelors,2017.0,Pune,2.0,23.0,Female,No,7.0,1.0,7.0
+Bachelors,2013.0,Pune,2.0,38.0,Male,No,0.0,1.0,11.0
+Masters,2017.0,New Delhi,4.5,23.0,Male,No,1.0,0.0,7.0
+Bachelors,2018.0,New Delhi,3.0,33.0,Female,No,2.0,22.20752687821201,6.0
+Bachelors,2021.5,Pune,2.0,28.0,Female,No,4.0,1.0,2.5
+Bachelors,2013.0,Pune,3.0,31.0,Male,No,2.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,24.0,Male,Yes,2.0,0.0,7.0
+Bachelors,2013.0,Pune,4.5,37.0,Female,No,0.0,1.0,11.0
+Bachelors,2012.0,Bangalore,3.0,36.0,Female,No,1.0,22.20752687821201,12.0
+Bachelors,2017.0,New Delhi,2.0,28.0,Male,No,5.0,0.0,7.0
+Masters,2018.0,New Delhi,3.0,15.0,Female,No,2.0,22.20752687821201,6.0
+Bachelors,2015.0,Pune,4.5,36.0,Male,None,4.0,0.0,9.0
+Bachelors,2012.0,Bangalore,3.0,22.0,Male,No,0.0,1.0,12.0
+Masters,2017.0,New Delhi,3.0,31.0,Male,No,2.0,0.0,7.0
+Phd,2017.0,New Delhi,3.0,29.0,Male,No,3.0,0.0,7.0
+Bachelors,2015.0,Pune,2.0,28.0,Female,Yes,3.0,1.0,9.0
+Phd,2016.0,New Delhi,3.0,22.0,Male,No,0.0,0.0,8.0
+Bachelors,2014.0,Bangalore,3.0,22.0,Male,No,0.0,22.20752687821201,10.0
+Bachelors,2016.0,New Delhi,1.0,25.0,Female,Yes,3.0,0.0,8.0
+Bachelors,2013.0,Pune,1.0,23.0,Female,No,1.0,1.0,11.0
+Bachelors,2021.5,New Delhi,2.0,26.0,Female,No,4.0,0.0,2.5
+Bachelors,2015.0,Bangalore,3.0,38.0,Female,No,2.0,0.0,9.0
+Bachelors,2017.0,New Delhi,3.0,37.0,Female,No,1.0,1.0,7.0
+Phd,2012.0,New Delhi,3.0,30.0,Male,No,4.0,0.0,12.0
+Bachelors,2012.0,Bangalore,3.0,35.0,Female,No,2.0,0.0,12.0
+Phd,2014.0,Bangalore,3.0,23.0,Male,No,7.0,0.0,10.0
+Phd,2013.0,Pune,1.0,32.0,Male,No,0.0,1.0,11.0
+Bachelors,2015.0,Pune,3.0,28.0,Male,No,1.0,1.0,9.0
+Bachelors,2015.0,New Delhi,3.0,23.0,Female,No,1.0,0.0,9.0
+Phd,2014.0,Bangalore,1.0,34.0,Female,No,3.0,0.0,10.0
+Bachelors,2014.0,Bangalore,1.0,36.0,Female,No,1.0,0.0,10.0
+Bachelors,2017.0,Bangalore,3.0,40.0,Male,No,5.0,0.0,7.0
+Bachelors,2016.0,Bangalore,3.0,40.0,Male,No,3.0,0.0,8.0
+Bachelors,2017.0,Bangalore,3.0,23.0,Male,No,1.0,0.0,7.0
+Bachelors,2015.0,Bangalore,1.0,35.0,Male,No,3.0,0.0,9.0
+Bachelors,2021.5,Pune,3.0,28.0,Male,No,3.0,0.0,2.5
+Masters,2017.0,New Delhi,2.0,39.0,Female,No,4.0,0.0,7.0
+Phd,2017.0,New Delhi,3.0,31.0,Female,No,5.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,32.0,Male,No,2.0,0.0,10.0
+Bachelors,2017.0,New Delhi,2.0,37.0,Female,No,3.0,0.0,7.0
+Bachelors,2021.5,Pune,3.0,22.0,Female,No,0.0,1.0,2.5
+Bachelors,2013.0,Pune,3.0,24.0,Male,Yes,2.0,0.0,11.0
+Masters,2017.0,New Delhi,3.0,47.0,Male,No,2.0,0.0,7.0
+Bachelors,2014.0,Bangalore,3.0,39.0,Male,No,3.0,0.0,10.0
+Bachelors,2015.0,New Delhi,2.0,33.0,Male,No,3.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,36.0,Male,Yes,3.0,0.0,8.0
+Bachelors,2015.0,Pune,1.0,39.0,Male,No,1.0,1.0,9.0
+Bachelors,2014.0,Bangalore,3.0,34.0,Male,None,4.0,0.0,10.0
+Bachelors,2014.0,New Delhi,2.0,23.0,Female,No,1.0,1.0,10.0
+Bachelors,2014.0,Pune,1.0,28.0,Female,No,2.0,1.0,10.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Male,No,3.0,0.0,11.0
+Bachelors,2017.0,Bangalore,3.0,36.0,Male,No,4.0,1.0,7.0
+Masters,2017.0,New Delhi,4.5,15.0,Male,No,2.0,1.0,7.0
+Bachelors,2013.0,Bangalore,3.0,36.0,Female,No,0.0,1.0,11.0
+Bachelors,2015.0,Bangalore,3.0,15.0,Male,No,3.0,1.0,9.0
+Bachelors,2015.0,New Delhi,3.0,27.0,Female,No,5.0,1.0,9.0
+Bachelors,2018.0,Bangalore,3.0,31.0,Male,No,0.0,1.0,6.0
+Bachelors,2015.0,Bangalore,3.0,36.0,Male,None,0.0,0.0,9.0
+Bachelors,2017.0,New Delhi,2.0,31.0,Male,No,1.0,0.0,7.0
+Bachelors,2015.0,Bangalore,4.5,39.0,Male,No,2.0,0.0,9.0
+Bachelors,2015.0,Pune,2.0,38.0,Male,No,2.0,1.0,9.0
+Bachelors,2017.0,New Delhi,3.0,47.0,Female,No,1.0,0.0,7.0
+Masters,2015.0,Bangalore,3.0,38.0,Female,No,1.0,0.0,9.0
+Phd,2014.0,New Delhi,3.0,23.0,Male,No,7.0,0.0,10.0
+Bachelors,2021.5,Pune,3.0,24.0,Female,No,2.0,1.0,2.5
+Bachelors,2014.0,Bangalore,3.0,30.0,Male,No,4.0,0.0,10.0
+Bachelors,2016.0,New Delhi,3.0,25.0,Female,No,3.0,0.0,8.0
+Bachelors,2013.0,Bangalore,3.0,34.0,Male,No,4.0,0.0,11.0
+Masters,2015.0,Bangalore,3.0,40.0,Female,No,5.0,0.0,9.0
+Masters,2021.5,New Delhi,3.0,38.0,Female,No,2.0,1.0,2.5
+Bachelors,2016.0,Pune,3.0,38.0,Male,No,2.0,0.0,8.0
+Bachelors,2021.5,Pune,2.0,38.0,Female,No,4.0,1.0,2.5
+Bachelors,2021.5,Pune,3.0,30.0,Male,No,4.0,0.0,2.5
+Phd,2013.0,Bangalore,3.0,24.0,Male,No,2.0,0.0,11.0
+Bachelors,2013.0,Pune,3.0,37.0,Male,No,3.0,0.0,11.0
+Phd,2012.0,Bangalore,3.0,30.0,Female,No,4.0,0.0,12.0
+Bachelors,2015.0,Bangalore,3.0,39.0,Female,No,5.0,0.0,9.0
+Bachelors,2017.0,Bangalore,2.0,35.0,Male,No,0.0,0.0,7.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Male,Yes,1.0,1.0,6.0
+Bachelors,2018.0,Bangalore,3.0,31.0,Male,No,2.0,1.0,6.0
+Bachelors,2016.0,New Delhi,1.0,28.0,Female,No,2.0,1.0,8.0
+Bachelors,2014.0,Bangalore,3.0,22.0,Female,No,0.0,0.0,10.0
+Masters,2014.0,New Delhi,3.0,37.0,Female,No,0.0,1.0,10.0
+Bachelors,2018.0,Bangalore,3.0,32.0,Male,Yes,2.0,1.0,6.0
+Bachelors,2017.0,Bangalore,3.0,28.0,Male,No,0.0,1.0,7.0
+Bachelors,2016.0,Bangalore,1.0,33.0,Female,No,0.0,1.0,8.0
+Bachelors,2013.0,Bangalore,3.0,31.0,Female,No,5.0,0.0,11.0
+Bachelors,2015.0,Pune,3.0,32.0,Female,No,1.0,1.0,9.0
+Bachelors,2015.0,Pune,2.0,31.0,Female,No,2.0,0.0,9.0
+Bachelors,2016.0,Pune,3.0,30.0,Male,No,2.0,0.0,8.0
+Masters,2013.0,Pune,2.0,37.0,Male,No,2.0,1.0,11.0
+Masters,2018.0,New Delhi,4.5,27.0,Male,No,5.0,1.0,6.0
+Bachelors,2012.0,Bangalore,3.0,30.0,Male,Yes,2.0,22.20752687821201,12.0
